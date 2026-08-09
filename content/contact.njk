@@ -66,4 +66,30 @@ schemaType: ContactPage
   var success = document.getElementById('form-success');
   var errorEl = document.getElementById('form-error');
   if (!form) return;
-  form.
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    var honey = form.querySelector('[name="_honey"]');
+    if (honey && honey.value) return;
+    var data = new FormData(form);
+    errorEl.style.display = 'none';
+    fetch(endpoint, { method: 'POST', body: data })
+      .then(function(r) { return r.json(); })
+      .then(function(result) {
+        if (result.success) {
+          form.style.display = 'none';
+          success.style.display = 'block';
+          if (typeof gtag === 'function') {
+            gtag('event', 'generate_lead', { event_category: 'form', event_label: 'contact' });
+          }
+        } else {
+          errorEl.textContent = 'Something went wrong. Please email us at hello@alphaflux.net.';
+          errorEl.style.display = 'block';
+        }
+      })
+      .catch(function() {
+        errorEl.textContent = 'Network error. Please try again or email us at hello@alphaflux.net.';
+        errorEl.style.display = 'block';
+      });
+  });
+})();
+</script>
