@@ -22,7 +22,7 @@ the synthesized answer itself.
 ## Why It Matters Now
 
 More buyers now start research in AI chat: ChatGPT, Perplexity, Gemini, and
-Google AI Overviews. When they ask "which [product or service] should I choose",
+Google AI Overviews. When they ask "which product or service should I choose",
 the engine writes an answer from a handful of sources. If your brand is not among
 them, you are invisible at the exact moment the buying decision forms. This is
 not a future trend. It is current search behavior, and it is compounding.
