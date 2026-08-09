@@ -1,1 +1,121 @@
-main.css
+/* === Service Detail Layout === */
+.service-hero .breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-6);
+  flex-wrap: wrap;
+}
+.service-hero .breadcrumb a {
+  color: var(--color-text-secondary);
+  text-decoration: none;
+}
+.service-hero .breadcrumb a:hover { color: var(--color-text); }
+.service-hero .breadcrumb [aria-hidden] { color: var(--color-text-muted); }
+
+/* FluxOS Module Chips */
+.fluxos-chips {
+  display: flex;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+  margin-bottom: var(--space-4);
+  justify-content: center;
+}
+.fluxos-chip {
+  display: inline-block;
+  padding: 2px 10px;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-accent);
+  background: var(--color-accent-glow);
+  border: 1px solid rgba(0, 229, 160, 0.2);
+  border-radius: var(--border-radius-full);
+}
+
+/* Price line */
+.service-price-line {
+  font-size: var(--text-lg);
+  font-weight: 600;
+  color: var(--color-accent);
+  margin-bottom: var(--space-6);
+}
+
+/* Proof strip */
+.proof-strip {
+  padding: var(--space-8) 0;
+  background: var(--color-surface-alt);
+  border-top: 1px solid var(--color-surface-border);
+  border-bottom: 1px solid var(--color-surface-border);
+}
+.proof-strip-content {
+  text-align: center;
+}
+.proof-strip-text {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Two-column layout */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: var(--space-10);
+  align-items: start;
+}
+.two-col-main {
+  min-width: 0;
+}
+.two-col-side {
+  position: sticky;
+  top: var(--space-8);
+}
+
+/* Sticky CTA card */
+.sticky-cta-card {
+  background: var(--gradient-card);
+  border: 1px solid var(--color-surface-border);
+  border-radius: var(--border-radius-lg);
+  padding: var(--space-6);
+  text-align: center;
+}
+.sticky-cta-card h3 {
+  font-size: var(--text-lg);
+  font-weight: 700;
+  margin-bottom: var(--space-3);
+  color: var(--color-text);
+}
+.sticky-cta-price {
+  font-size: var(--text-xl);
+  font-weight: 700;
+  color: var(--color-accent);
+  margin-bottom: var(--space-4);
+}
+.sticky-cta-phone {
+  margin-top: var(--space-3);
+  font-size: var(--text-sm);
+}
+.sticky-cta-phone a {
+  color: var(--color-text-secondary);
+  text-decoration: none;
+}
+.sticky-cta-response {
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+  margin-top: var(--space-1);
+}
+
+@media (max-width: 768px) {
+  .two-col {
+    grid-template-columns: 1fr;
+  }
+  .two-col-side {
+    position: static;
+    order: -1;
+  }
+}

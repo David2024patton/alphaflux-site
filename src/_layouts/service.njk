@@ -10,7 +10,7 @@ layout: base.njk
   <div class="hero-glow"></div>
   <div class="container hero-content">
     <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/services/">Services</a> <span aria-hidden="true">/</span> <span>{{ serviceH1 }}</span>
+      <a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/services/">Services</a> <span aria-hidden="true">/</span> <span>{{ (title or serviceH1) | replace(' | AlphaFlux', '') }}</span>
     </nav>
     {% if moduleChips and moduleChips.length %}
     <div class="fluxos-chips">
