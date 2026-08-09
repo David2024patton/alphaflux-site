@@ -1,0 +1,38 @@
+---
+layout: base.njk
+---
+{# Blog post layout #}
+{% set postTitle = h1 or title %}
+{% set postDate = date or "" %}
+
+<article class="blog-post">
+  <header class="blog-post-header" style="padding:var(--space-24) 0 var(--space-16);">
+    <div class="hero-bg"></div>
+    <div class="hero-glow"></div>
+    <div class="container hero-content">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/blog/">Blog</a> <span aria-hidden="true">/</span> <span>{{ postTitle }}</span>
+      </nav>
+      <h1 class="display-md" style="margin-bottom:1rem;">{{ postTitle }}</h1>
+    </div>
+  </header>
+
+  <section class="section">
+    <div class="container" style="max-width:720px;">
+      <div class="post-body">
+        {{ content | safe }}
+      </div>
+    </div>
+  </section>
+</article>
+
+<section class="cta-section">
+  <div class="container">
+    <h2 class="cta-title">See Who Answers for Your Brand Today</h2>
+    <p class="cta-desc">Run the free AI visibility audit and get a 48-hour report on your brand's presence across ChatGPT, Perplexity, Gemini, and AI Overviews.</p>
+    <div class="cta-actions">
+      <a href="/services/ai-geo/ai-visibility-audit/" class="btn btn-accent btn-lg">Get Your Free AI Visibility Audit</a>
+      <a href="/pricing/" class="btn btn-secondary">See Published Pricing</a>
+    </div>
+  </div>
+</section>

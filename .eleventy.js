@@ -8,9 +8,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 
   // --- Passthrough Copy ---
-  eleventyConfig.addPassthroughCopy("src/images");
+  eleventyConfig.addPassthroughCopy({ "src/images": "images" });
   eleventyConfig.addPassthroughCopy({ "src/fonts": "fonts" });
-  eleventyConfig.addPassthroughCopy("src/js/lib");
+  eleventyConfig.addPassthroughCopy({ "src/js/lib": "js/lib" });
   eleventyConfig.addPassthroughCopy({ "src/robots.txt": "robots.txt" });
   eleventyConfig.addPassthroughCopy({ "src/favicon.ico": "favicon.ico" });
   eleventyConfig.addPassthroughCopy({ "src/index.php": "index.php" });
