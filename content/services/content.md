@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxContent"
   - "FluxSEO"
+faq:
+  - question: 'Is this AI-generated content?'
+    answer: 'AI drafts; humans edit, verify, and sign off. You get scale without the AI smell, and you will not find placeholder paragraphs or hallucinated stats in anything we ship.'
+  - question: 'How many blog posts do we need?'
+    answer: 'The tier model starts at 4 posts per month and scales to 8+. Consistency beats volume: 4 good posts monthly for a year outranks 40 dumped in one month.'
+  - question: 'Do you do SEO as part of content?'
+    answer: 'Every piece ships with on-page SEO, internal links, and schema. For the full technical and authority program, see /services/seo/.'
+  - question: 'What does content cost?'
+    answer: 'Content runs inside your retainer tier or as a standalone program. See /pricing/ for transparent numbers and add-ons.'
+heroLead: 'Content is how you win search, feed your social, fill your email, and arm your sales team. AlphaFlux runs the whole content engine on FluxContent: AI drafts at scale, human editors guard the voice, and every piece answers one question or drives one action.'
+
 ---
 
 ## WHAT CONTENT INCLUDES AT ALPHAFLUX
 
-**H2:** The Full Content System, Not Just Blog Posts.
+The Full Content System, Not Just Blog Posts.
 
 | Component | What We Do | Why It Matters |
 |-----------|-----------|----------------|
@@ -29,7 +40,7 @@ moduleChips:
 
 ## THE FLUXCONTENT PRODUCTION LINE
 
-**H2:** How Pieces Go From Brief to Published.
+How Pieces Go From Brief to Published.
 
 1. **Brief.** Keyword and intent research, outline, and a one-line job for the piece.
 2. **Draft.** AI produces the first pass at scale; nothing ships without editing.
@@ -42,7 +53,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands That Publish on Purpose.
+Built for Brands That Publish on Purpose.
 
 - Companies whose blog exists but does not rank, convert, or get read.
 - B2B and SaaS teams that need content to feed search AND sales.
@@ -53,7 +64,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Volume With a Quality Bar, Printed in the Contract.
+Volume With a Quality Bar, Printed in the Contract.
 
 - A published calendar, not a content graveyard.
 - 4 to 8+ posts per month by tier, each with a brief, a KPI, and an edit pass.
@@ -84,7 +95,7 @@ for transparent numbers and add-ons.
 
 ## CTA
 
-**H2:** Give Your Brand a Voice That Earns Its Place.
+Give Your Brand a Voice That Earns Its Place.
 
 Get the free AI visibility audit and a content plan built around what your buyers
 actually search and ask.

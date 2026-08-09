@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxMedia"
   - "FluxData"
+faq:
+  - question: 'How do you vet creators?'
+    answer: 'Audience quality, engagement authenticity, content fit, and past campaign performance. We pass on creators whose numbers do not hold up, regardless of size.'
+  - question: 'Is influencer marketing only for consumer brands?'
+    answer: 'No. B2B thought leadership and executive creator partnerships are a growing play, and we run both.'
+  - question: 'Do you negotiate contracts?'
+    answer: 'Yes, with support for scopes, exclusivity, usage rights, and compliance. You keep final approval.'
+  - question: 'What does it cost?'
+    answer: 'Influencer programs are scoped per campaign or as an add-on. See /pricing/ for published anchors.'
+heroLead: 'Influencer marketing is not paying for posts. It is building partnerships with creators whose audiences trust them, then measuring what those partnerships actually move. AlphaFlux runs the whole system: vetting, strategy, briefs, and performance tracking.'
+
 ---
 
 ## WHAT INFLUENCER INCLUDES AT ALPHAFLUX
 
-**H2:** From Creator Search to Performance Report.
+From Creator Search to Performance Report.
 
 | Service | What We Do |
 |---------|-----------|
@@ -28,7 +39,7 @@ moduleChips:
 
 ## HOW THE PROGRAM RUNS
 
-**H2:** Partnerships, Not Transactions.
+Partnerships, Not Transactions.
 
 1. **Map.** Creator landscape for your niche: who has the audience, who has the
    trust, who has the reach.
@@ -42,7 +53,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands That Want Real Reach, Not Fake Followers.
+Built for Brands That Want Real Reach, Not Fake Followers.
 
 - DTC and ecommerce brands whose category runs on creator trust.
 - B2B companies exploring thought-leader partnerships with real audiences.
@@ -53,7 +64,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Every Dollar of Creator Spend, Accounted For.
+Every Dollar of Creator Spend, Accounted For.
 
 - Creator shortlists with the reasoning, not just the names.
 - Campaigns with contracts, disclosure, and rights handled.
@@ -85,7 +96,7 @@ published anchors.
 
 ## MICRO VERSUS MACRO
 
-**H2:** The Reach You Can Measure Beats the Reach You Rent.
+The Reach You Can Measure Beats the Reach You Rent.
 
 A macro creator gives you impressions; a micro creator gives you trust. The
 math is not about follower counts. It is about fit, authenticity, and whether
@@ -98,7 +109,7 @@ difference between renting an audience and building a partnership.
 
 ## CTA
 
-**H2:** Stop Renting Audiences. Start Building Partnerships.
+Stop Renting Audiences. Start Building Partnerships.
 
 Get the influencer match sample and see the creators who fit your brand, with the
 reasoning attached.

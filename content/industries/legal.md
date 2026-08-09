@@ -7,11 +7,24 @@ order: 7
 permalink: "/industries/legal/"
 schemaType: Service
 verticalName: "Law Firm"
+faq:
+  - question: 'Do you understand legal advertising rules?'
+    answer: 'Yes. We build with state bar advertising and disclosure rules in mind and route claims through your review before publication.'
+  - question: 'Can you support multiple practice areas and locations?'
+    answer: 'Yes. City x practice area pages scale to the firm''s footprint.'
+  - question: 'What does legal marketing cost?'
+    answer: 'Plans start at $900/mo and scale with scope. See /pricing/.'
+  - question: 'Do you work with solo practitioners and multi-attorney firms?'
+    answer: 'Both. City x practice area pages scale to the firm''s footprint, from one attorney to many offices.'
+  - question: 'Can you support firms licensed in multiple states?'
+    answer: 'Yes, with compliance notes per jurisdiction built into the content and advertising workflow.'
+heroLead: 'People hire lawyers after research, and increasingly after asking AI engines which firm to trust. AlphaFlux builds the authority, local visibility, and reputation systems that make your firm the answer.'
+
 ---
 
 ## WHY LAW FIRMS CHOOSE ALPHAFLUX
 
-**H2:** Built for the Research-Heavy Decision.
+Built for the Research-Heavy Decision.
 
 - **Authority content.** Practice area pages that rank and answer client
   questions accurately.
@@ -25,7 +38,7 @@ verticalName: "Law Firm"
 
 ## PAIN / SOLUTION
 
-**H2:** Three Problems Law Firms Hit, and How We Solve Them.
+Three Problems Law Firms Hit, and How We Solve Them.
 
 **1. Legal advertising rules vary by state bar, and the risk is real.**
 A claim that is fine in one jurisdiction can be a problem in another. We build
@@ -54,7 +67,7 @@ per acquisition every month. Pricing is published on the page.
 
 ## WHAT'S INCLUDED
 
-**H2:** The Legal Growth Stack.
+The Legal Growth Stack.
 
 | Channel | Focus |
 |---------|-------|
@@ -68,7 +81,7 @@ per acquisition every month. Pricing is published on the page.
 
 ## PROOF
 
-**H2:** Results We Can Show.
+Results We Can Show.
 
 [REAL DATA REQUIRED: legal client case studies and metrics before launch.]
 
@@ -98,7 +111,7 @@ advertising workflow.
 
 ## CTA
 
-**H2:** Be the Firm Clients Name First.
+Be the Firm Clients Name First.
 
 Run the free AI visibility audit and see who answers for your practice area today.
 

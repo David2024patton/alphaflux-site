@@ -9,11 +9,22 @@ permalink: "/services/analytics/"
 schemaType: Service
 moduleChips:
   - "FluxData"
+faq:
+  - question: 'Do you use our existing tools?'
+    answer: 'Yes. We work in GA4, Looker, Power BI, Tableau, HubSpot, Salesforce, and your existing stack. We fix broken tracking before we build anything on top of it.'
+  - question: 'How is this different from a standard agency report?'
+    answer: 'Most reports are activity logs. Ours is a value report: what shipped, what moved, what we change next. Numbers first, narrative second.'
+  - question: 'Is analytics included in every tier?'
+    answer: 'Every AlphaFlux tier includes a FluxData dashboard. Advanced attribution, MMM, and custom BI are add-ons. See /pricing/.'
+  - question: 'Who owns the data?'
+    answer: 'You do. Client-owned accounts, client-held data, always.'
+heroLead: 'Most marketing reports are busywork with a logo on top. AlphaFlux builds live FluxData dashboards that tie spend to pipeline and revenue, plus a monthly value report that answers one question: what did we ship, and what did it move?'
+
 ---
 
 ## WHAT ANALYTICS INCLUDES AT ALPHAFLUX
 
-**H2:** The Intelligence Layer Under Every Service.
+The Intelligence Layer Under Every Service.
 
 | Component | What We Do | Why It Matters |
 |-----------|-----------|----------------|
@@ -28,7 +39,7 @@ moduleChips:
 
 ## HOW THE PROGRAM RUNS
 
-**H2:** Built on FluxData.
+Built on FluxData.
 
 1. **Audit.** Tracking, goals, and data quality get a full health check first.
 2. **Architect.** Dashboards are designed around decisions, not data dumps.
@@ -41,7 +52,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands Tired of Guesswork.
+Built for Brands Tired of Guesswork.
 
 - Marketing teams that cannot answer "what are we getting for this?"
 - Leadership that needs numbers to defend budget decisions.
@@ -52,7 +63,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Reporting That Ends in a Decision.
+Reporting That Ends in a Decision.
 
 - A live dashboard you can open any day, not a PDF every month.
 - A monthly value report that compares delivered work to paid fees.
@@ -83,7 +94,7 @@ A: You do. Client-owned accounts, client-held data, always.
 
 ## THE REPORTING GAP
 
-**H2:** Why Most Marketing Reports Fail.
+Why Most Marketing Reports Fail.
 
 Most reports are activity logs: impressions, clicks, and a logo on top. They tell
 you what was done, not what it was worth. The gap is value: which channels added
@@ -96,7 +107,7 @@ between reporting and accountability.
 
 ## CTA
 
-**H2:** Stop Guessing. Start Knowing.
+Stop Guessing. Start Knowing.
 
 See a sample dashboard and a one-page teardown of what your current reporting is
 missing.

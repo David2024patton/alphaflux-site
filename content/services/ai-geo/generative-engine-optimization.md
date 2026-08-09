@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxGEO"
   - "FluxSEO"
+faq:
+  - question: 'Is GEO the same as SEO?'
+    answer: 'No, but they compound. SEO wins the ranking; GEO wins the citation inside the answer. Both run in an AlphaFlux engagement, with FluxGEO leading the AI surface and FluxSEO handling the classic one.'
+  - question: 'How do AI engines decide who to cite?'
+    answer: 'They weigh entity consistency, structured data, source authority, freshness, and how directly content answers the question. GEO optimizes all of those signals.'
+  - question: 'How long until we see results?'
+    answer: 'Structured data and entity fixes can move citations within 30 to 90 days. Authority building compounds over 3 to 6 months.'
+  - question: 'Can you do GEO without SEO?'
+    answer: 'Technically yes, but it is a worse program. GEO and SEO reinforce each other. We scope them together by default.'
+heroLead: 'Answer engines do not rank pages. They synthesize answers from trusted sources. GEO is the practice of making your brand the source they cite, and FluxGEO is the system AlphaFlux built to run it.'
+
 ---
 
 ## WHAT GEO IS
 
-**H2:** The New Layer of Organic Visibility.
+The New Layer of Organic Visibility.
 
 GEO (Generative Engine Optimization) is the discipline of optimizing your brand,
 content, and digital footprint so AI answer engines select and cite you when they
@@ -25,7 +36,7 @@ brand name, the stat, the quote, the recommendation that shows up inside the ans
 
 ## WHAT GEO INCLUDES AT ALPHAFLUX
 
-**H2:** The FluxGEO Stack.
+The FluxGEO Stack.
 
 | Component | What We Do |
 |-----------|-----------|
@@ -40,7 +51,7 @@ brand name, the stat, the quote, the recommendation that shows up inside the ans
 
 ## HOW THE PROGRAM RUNS
 
-**H2:** A 90 Day GEO Arc.
+A 90 Day GEO Arc.
 
 1. **Audit (Days 0-14).** Baseline visibility score across the major engines plus
    a citation gap analysis against competitors.
@@ -55,7 +66,7 @@ brand name, the stat, the quote, the recommendation that shows up inside the ans
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands Whose Buyers Ask AI First.
+Built for Brands Whose Buyers Ask AI First.
 
 - Companies whose competitors are cited in AI answers for their own category.
 - Brands with healthy SEO who are invisible in the answer engines.
@@ -66,7 +77,7 @@ brand name, the stat, the quote, the recommendation that shows up inside the ans
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Citation Share You Can Measure.
+Citation Share You Can Measure.
 
 - A baseline GEO score, then a monthly visibility and citation share report.
 - Structured data and entity fixes shipped, not just recommended.
@@ -98,7 +109,7 @@ We scope them together by default.
 
 ## CTA
 
-**H2:** Become the Source, Not the Snippet.
+Become the Source, Not the Snippet.
 
 Run the free AI visibility audit and see exactly who is answering for your brand
 today.

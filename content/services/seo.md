@@ -11,11 +11,22 @@ moduleChips:
   - "FluxSEO"
   - "FluxGEO"
   - "FluxContent"
+faq:
+  - question: 'How is AlphaFlux SEO different from other agencies?'
+    answer: 'AI accelerates the research, auditing, and drafting so more real work ships per month. Humans own strategy and quality. And we publish our pricing, so you know what the program costs before the sales call.'
+  - question: 'Do you guarantee rankings?'
+    answer: 'No one honest guarantees rankings, because search engines do not sign contracts. We guarantee delivery, reporting, and a strategy with a revenue case behind it.'
+  - question: 'How long until I see results?'
+    answer: 'Technical and on-page fixes usually move within 30-90 days. Rankings for competitive terms typically build over 3-6 months, which is why we work in 6-12 month programs.'
+  - question: 'What does SEO cost?'
+    answer: 'SEO runs inside our transparent tiers (Starter, Growth, Enterprise) or as a standalone program. See /pricing/ for numbers and add-ons.'
+heroLead: 'Rankings are not the goal. Revenue from organic search is. AlphaFlux runs technical, on-page, and authority programs on FluxOS, with AI handling the grunt work and humans owning the strategy.'
+
 ---
 
 ## WHAT SEO INCLUDES AT ALPHAFLUX
 
-**H2:** The Full Organic Engine, Not Just Blog Posts.
+The Full Organic Engine, Not Just Blog Posts.
 
 | Component | What We Do | Deliverable |
 |-----------|-----------|-------------|
@@ -32,7 +43,7 @@ moduleChips:
 
 ## HOW IT WORKS
 
-**H2:** A 90-Day Cadence, Then Compounding.
+A 90-Day Cadence, Then Compounding.
 
 1. **Audit (Days 0-14).** AI crawl plus human triage. You get a prioritized list of
    what is costing you rankings, with the revenue case for fixing each item.
@@ -47,7 +58,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands That Play the Long Game.
+Built for Brands That Play the Long Game.
 
 - Companies with a website that underperforms its traffic potential.
 - Businesses being outranked by competitors with worse products and better SEO.
@@ -58,7 +69,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Honest Expectations, Printed Early.
+Honest Expectations, Printed Early.
 
 - First meaningful movement: 30-90 days (fixes) and 90-180 days (rankings).
 - Organic revenue, not vanity rankings, is the north star.
@@ -91,7 +102,7 @@ standalone program. See /pricing/ for numbers and add-ons.
 
 ## CTA
 
-**H2:** Put Your Site in Print.
+Put Your Site in Print.
 
 Get the free AI SEO audit. We will show you exactly what is leaking rankings and
 revenue, with a fix list you can verify yourself.

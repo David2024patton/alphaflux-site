@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxMedia"
   - "FluxData"
+faq:
+  - question: 'Do you manage the Amazon account or just the ads?'
+    answer: 'We manage advertising within your account. Listing optimization and catalog health are part of the audit and program scope.'
+  - question: 'What is a good ACoS?'
+    answer: 'It depends on margin and goal. We scope targets per product line and report against them, instead of chasing a number that means nothing for your math.'
+  - question: 'Is this included in the standard PPC retainer?'
+    answer: 'Marketplace ads are a dedicated service line, scoped as an add-on or a standalone program. See /pricing/ for the numbers.'
+  - question: 'Can we run Amazon and Google together?'
+    answer: 'Yes, and we recommend it. Marketplace search and Google search capture different intent. One pod runs both, so budget moves with the data.'
+heroLead: 'For millions of buyers, the search bar they trust is on Amazon, not Google. AlphaFlux manages marketplace advertising as a first-class channel: Sponsored Products, Brands, Display, and DSP, with the same flat-fee model and client-owned accounts as every other channel.'
+
 ---
 
 ## WHAT MARKETPLACE ADS INCLUDES AT ALPHAFLUX
 
-**H2:** Every Shelf Your Product Sits On.
+Every Shelf Your Product Sits On.
 
 | Marketplace | What We Do |
 |-------------|-----------|
@@ -27,7 +38,7 @@ moduleChips:
 
 ## HOW THE PROGRAM RUNS
 
-**H2:** Managed on FluxMedia, Like Every Paid Channel.
+Managed on FluxMedia, Like Every Paid Channel.
 
 1. **Audit.** Listing quality, feed health, and account structure get a full
    teardown first.
@@ -40,7 +51,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands That Sell Where Buyers Search.
+Built for Brands That Sell Where Buyers Search.
 
 - Ecommerce brands already on Amazon with flat or declining sales.
 - Brands launching on Walmart or Instacart and need it done right the first time.
@@ -52,7 +63,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Marketplace Ads Run on the Same Rules as Everything Else.
+Marketplace Ads Run on the Same Rules as Everything Else.
 
 - Flat-fee management: never a percentage of ad spend, never a markup on the media.
 - Client-owned accounts and data, always.
@@ -84,7 +95,7 @@ different intent. One pod runs both, so budget moves with the data.
 
 ## MARKETPLACE SEARCH VERSUS GOOGLE SEARCH
 
-**H2:** Two Search Bars, Two Jobs.
+Two Search Bars, Two Jobs.
 
 Google search captures consideration; marketplace search captures intent.
 Someone searching Google for "best coffee grinder" is researching. Someone
@@ -97,7 +108,7 @@ model, so the spend moves with the data instead of defending separate silos.
 
 ## CTA
 
-**H2:** Your Products Are On the Shelf. Are They Winning the Shelf?
+Your Products Are On the Shelf. Are They Winning the Shelf?
 
 Get the free listing audit and see exactly what is costing you sales in the search
 that starts on the store.

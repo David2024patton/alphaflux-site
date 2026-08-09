@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxContent"
   - "FluxMedia"
+faq:
+  - question: 'Do you do brand design or just ads?'
+    answer: 'Both. Brand identity, refresh, and full visual systems are services; so is performance creative. See the brand program options on this page and in /pricing/.'
+  - question: 'Can you produce video?'
+    answer: 'Yes: short-form, long-form, motion graphics, and UGC sourcing. Video scripts and production planning run through our content line.'
+  - question: 'Is creative included in retainers?'
+    answer: 'Retainer tiers include creative at the Growth tier and above, and creative add-ons are published. See /pricing/ for the numbers.'
+  - question: 'Who owns the final assets?'
+    answer: 'You do. Delivered files and brand assets belong to the client on final payment, always.'
+heroLead: 'Creative is the difference between an ad that gets scrolled and an ad that gets clicked. AlphaFlux produces performance creative: ad assets, brand identity, video, and motion built to win attention and tested against the numbers.'
+
 ---
 
 ## WHAT CREATIVE INCLUDES AT ALPHAFLUX
 
-**H2:** Creative Built for the Feed, Measured by the Numbers.
+Creative Built for the Feed, Measured by the Numbers.
 
 | Service | What We Do |
 |---------|-----------|
@@ -29,7 +40,7 @@ moduleChips:
 
 ## THE FLUXCONTENT CREATIVE LINE
 
-**H2:** How Creative Ships.
+How Creative Ships.
 
 1. **Brief.** Every asset starts with a strategy brief: audience, angle, job.
 2. **Concept.** Art direction sets the look; copy sets the voice.
@@ -41,7 +52,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands That Compete on Attention.
+Built for Brands That Compete on Attention.
 
 - Performance marketers whose ad creative is running out of steam.
 - Brands launching new campaigns and need a bank of tested assets.
@@ -52,7 +63,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Creative With a Job and a Score.
+Creative With a Job and a Score.
 
 - Assets that ship with a brief and a testing plan, not just a file.
 - Monthly creative testing reports: what won, what lost, what is next.
@@ -84,7 +95,7 @@ always.
 
 ## CREATIVE FATIGUE AND THE TESTING FIX
 
-**H2:** Why Ads Stop Working, and What to Do About It.
+Why Ads Stop Working, and What to Do About It.
 
 Every ad gets scrolled past a little more each week. Creative fatigue is not a
 failure of the channel; it is the natural life cycle of an asset, and the fix is
@@ -98,7 +109,7 @@ always working from the numbers.
 
 ## CTA
 
-**H2:** Give Your Ads a Fighting Chance.
+Give Your Ads a Fighting Chance.
 
 Request a sample creative set and a one-page look at what your current creative is
 leaving on the table.

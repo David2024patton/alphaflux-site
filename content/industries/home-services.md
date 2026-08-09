@@ -7,11 +7,24 @@ order: 4
 permalink: "/industries/home-services/"
 schemaType: Service
 verticalName: "Home Services Business"
+faq:
+  - question: 'Do you work with pest control, HVAC, roofing, and similar?'
+    answer: 'Yes. The local SEO architecture is built for service businesses with defined service areas and repeat-purchase models.'
+  - question: 'Can you handle multiple locations?'
+    answer: 'Yes. Multi-location and franchise systems are a dedicated line. See /services/franchise/.'
+  - question: 'How fast can we start?'
+    answer: 'Onboarding runs about 3 days on the Starter plan. See /pricing/.'
+  - question: 'Do you handle emergency-service businesses?'
+    answer: 'Yes, with call-first tracking and fast-start landing pages built for the jobs that cannot wait.'
+  - question: 'Do you work with single-location and multi-branch operators?'
+    answer: 'Both. Single-service-area local SEO and multi-location systems are supported, with franchise-grade architecture available as you grow.'
+heroLead: 'Home services run on local visibility: the map pack, the reviews, and the first call. AlphaFlux builds the local SEO, review systems, and paid campaigns that make your phone ring from the customers worth driving to.'
+
 ---
 
 ## WHY HOME SERVICES COMPANIES CHOOSE ALPHAFLUX
 
-**H2:** Built for the Map Pack and the First Call.
+Built for the Map Pack and the First Call.
 
 - **Local SEO.** City x service pages, Google Business Profile, and citations
   that win the map pack.
@@ -26,7 +39,7 @@ verticalName: "Home Services Business"
 
 ## PAIN / SOLUTION
 
-**H2:** Three Problems Home Services Companies Hit, and How We Solve Them.
+Three Problems Home Services Companies Hit, and How We Solve Them.
 
 **1. Missed calls are missed jobs, and lead quality beats lead count.**
 A flooded inbox of price shoppers costs more than it returns when your crews
@@ -55,7 +68,7 @@ and job value every month. Onboarding runs about 3 days on the Starter plan.
 
 ## WHAT'S INCLUDED
 
-**H2:** The Home Services Growth Stack.
+The Home Services Growth Stack.
 
 | Channel | Focus |
 |---------|-------|
@@ -69,7 +82,7 @@ and job value every month. Onboarding runs about 3 days on the Starter plan.
 
 ## PROOF
 
-**H2:** Results We Can Show.
+Results We Can Show.
 
 [REAL DATA REQUIRED: home services client case studies and metrics before launch.]
 
@@ -100,7 +113,7 @@ supported, with franchise-grade architecture available as you grow.
 
 ## CTA
 
-**H2:** Make the Phone Ring With the Right Calls.
+Make the Phone Ring With the Right Calls.
 
 Run the free AI visibility audit and see who owns your local category's answers.
 

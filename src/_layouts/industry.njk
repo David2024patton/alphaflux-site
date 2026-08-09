@@ -12,7 +12,7 @@ layout: base.njk
       <a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/industries/">Industries</a> <span aria-hidden="true">/</span> <span>{{ industryH1 }}</span>
     </nav>
     <h1 class="display-lg">{{ industryH1 }}</h1>
-    {% block heroLead %}{% endblock %}
+    {% if heroLead %}<p class="hero-desc">{{ heroLead }}</p>{% endif %}
     <div class="cta-actions">
       <a href="/services/ai-geo/ai-visibility-audit/" class="btn btn-accent btn-lg">Get Free AI Visibility Audit</a>
       <a href="/pricing/" class="btn btn-secondary">See Published Pricing</a>

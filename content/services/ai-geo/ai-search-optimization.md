@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxGEO"
   - "FluxMedia"
+faq:
+  - question: 'Can you really control what ChatGPT says about a brand?'
+    answer: 'No one controls what an AI says, and anyone who promises that is selling something. What we do is engineer the signals engines weigh: entity consistency, structured data, source authority, and quotable content. That measurably moves citation share.'
+  - question: 'What are ChatGPT Ads?'
+    answer: 'Sponsored placements inside AI conversations, a new paid surface. We plan, launch, and measure them under the same flat-fee, client-owned-account model as every other channel.'
+  - question: 'How is this different from GEO?'
+    answer: 'GEO is the broader citation science. AI search optimization is the applied campaign work across the specific engines, including paid AI presence. They run together on FluxGEO.'
+  - question: 'Do we need AI search if we already rank on Google?'
+    answer: 'If your buyers ask AI first, yes. AI answers are replacing the first click for a growing share of demand. Being cited there is the new ranking.'
+heroLead: 'The next generation of buyers starts in chat, and chat answers with brands it trusts. AlphaFlux runs AI search optimization on FluxGEO: your brand present in the answers, the recommendations, and the AI-driven research your buyers read before they buy.'
+
 ---
 
 ## WHAT AI SEARCH OPTIMIZATION INCLUDES
 
-**H2:** The Full AI Search Surface.
+The Full AI Search Surface.
 
 | Surface | What We Do |
 |---------|-----------|
@@ -29,7 +40,7 @@ moduleChips:
 
 ## CHATGPT ADS & AI CAMPAIGNS
 
-**H2:** The New Paid Surface.
+The New Paid Surface.
 
 Only one of the sixteen agencies we studied offers ChatGPT Ads. AlphaFlux matches
 the category: sponsored presence inside AI conversations, where traditional ad
@@ -40,7 +51,7 @@ channel, with the same flat-fee model and client-owned accounts.
 
 ## HOW THE PROGRAM RUNS
 
-**H2:** Built on FluxGEO, Reported by FluxData.
+Built on FluxGEO, Reported by FluxData.
 
 1. **Audit.** Baseline visibility in each engine, plus a gap map against
    competitors.
@@ -52,7 +63,7 @@ channel, with the same flat-fee model and client-owned accounts.
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands Whose Buyers Research in Chat.
+Built for Brands Whose Buyers Research in Chat.
 
 - B2B and SaaS companies whose buyers validate in ChatGPT and Perplexity.
 - Brands losing the AI answer to a competitor with a weaker product.
@@ -63,7 +74,7 @@ channel, with the same flat-fee model and client-owned accounts.
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Answers You Can Track, Not Just Hope For.
+Answers You Can Track, Not Just Hope For.
 
 - A per-engine visibility baseline and monthly citation share report.
 - Campaign and presence work that is measured against pipeline, not impressions.
@@ -98,7 +109,7 @@ a growing share of demand. Being cited there is the new ranking.
 
 ## CTA
 
-**H2:** See Where AI Answers for You Today.
+See Where AI Answers for You Today.
 
 Run the free AI visibility audit. 48 hours later you will know exactly which
 engines mention you, which competitors they mention instead, and what to fix.

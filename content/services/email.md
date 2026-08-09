@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxData"
   - "FluxContent"
+faq:
+  - question: 'Do you handle our email platform?'
+    answer: 'We work in your existing ESP (Klaviyo, HubSpot, Mailchimp, and similar) or recommend one during the audit. We build flows, write copy, and manage strategy.'
+  - question: 'How many sends per month?'
+    answer: 'The tier model starts at 4 sends per month plus automation flows, and scales to full lifecycle. Quality and segmentation beat raw send volume.'
+  - question: 'Is email separate from marketing automation?'
+    answer: 'Email is the channel; marketing automation is the system that runs it across CRM, lead scoring, and nurture. See /services/marketing-automation/ for the full picture.'
+  - question: 'What does email cost?'
+    answer: 'Email and lifecycle run inside your retainer tier or as a standalone program. See /pricing/.'
+heroLead: 'Email is the highest-ROI channel most brands underuse. AlphaFlux builds the lifecycle: onboarding flows, nurture sequences, win-back campaigns, and the segmentation that makes every send count. The list you own compounds forever.'
+
 ---
 
 ## WHAT EMAIL & LIFECYCLE INCLUDES AT ALPHAFLUX
 
-**H2:** From First Click to Lifetime Customer.
+From First Click to Lifetime Customer.
 
 | Component | What We Do | Why It Matters |
 |-----------|-----------|----------------|
@@ -30,7 +41,7 @@ moduleChips:
 
 ## HOW THE PROGRAM RUNS
 
-**H2:** Built on FluxContent and FluxData.
+Built on FluxContent and FluxData.
 
 1. **Audit.** List health, deliverability, and funnel gaps get a full teardown.
 2. **Architecture.** Flows and segments are mapped before a single send ships.
@@ -42,7 +53,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands With a List, or a List Problem.
+Built for Brands With a List, or a List Problem.
 
 - Ecommerce brands whose cart and browse abandonment are unsolved.
 - B2B companies whose leads go dark after the demo request.
@@ -53,7 +64,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** A Lifecycle That Works in the Background.
+A Lifecycle That Works in the Background.
 
 - Flows and campaigns with a written calendar, not ad hoc sends.
 - Monthly reporting: deliverability, open and click rates, revenue per send.
@@ -85,7 +96,7 @@ See /pricing/.
 
 ## CTA
 
-**H2:** Put Your List to Work.
+Put Your List to Work.
 
 Get the free AI visibility audit and an email teardown that shows exactly what your
 list is worth.

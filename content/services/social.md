@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxContent"
   - "FluxMedia"
+faq:
+  - question: 'Do you create the graphics too?'
+    answer: 'Copy and captions ship from our team; design is produced by our design partners in the same pod, so calendars arrive with assets, not placeholders.'
+  - question: 'How many platforms should we be on?'
+    answer: 'Fewer platforms done well beat five platforms done thinly. Most engagements run one to three platforms that match where your buyers actually are.'
+  - question: 'How is AlphaFlux social different?'
+    answer: 'Every post runs through a strategy calendar with a stated job and CTA, every calendar ships with design tickets, and every month ends with numbers that decide what we do next. That is the difference between a feed and an asset.'
+  - question: 'Does social include paid promotion?'
+    answer: 'Organic social is a separate service from paid social. See /services/ppc/ for paid. They work best together, which is why both live under one roof here.'
+heroLead: 'Posting is easy. Building an audience that buys is not. AlphaFlux runs organic social as a compounding asset: platform strategy, editorial calendars, and community management that turn followers into customers and customers into advocates.'
+
 ---
 
 ## WHAT SOCIAL INCLUDES AT ALPHAFLUX
 
-**H2:** Every Platform That Matters, One Calendar.
+Every Platform That Matters, One Calendar.
 
 | Platform | What We Do |
 |----------|-----------|
@@ -29,7 +40,7 @@ moduleChips:
 
 ## THE FLUXOS SOCIAL ENGINE
 
-**H2:** How We Keep the Content Flowing, and On-Brand.
+How We Keep the Content Flowing, and On-Brand.
 
 1. **Strategy.** Platform audit, audience snapshot, three messaging pillars, and a
    CTA map. You approve the plan before we publish anything.
@@ -46,7 +57,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands That Want an Asset, Not an Obligation.
+Built for Brands That Want an Asset, Not an Obligation.
 
 - B2B companies whose LinkedIn is a billboard instead of a pipeline.
 - Ecommerce and DTC brands that need saves, shares, and profile visits, not vanity.
@@ -57,7 +68,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Numbers on a Cadence, Not Vibes.
+Numbers on a Cadence, Not Vibes.
 
 - A live content calendar you can see before we publish.
 - Monthly recap: reach, engagement, saves, profile visits, and the pipeline they fed.
@@ -89,7 +100,7 @@ paid. They work best together, which is why both live under one roof here.
 
 ## CTA
 
-**H2:** Stop Posting. Start Compounding.
+Stop Posting. Start Compounding.
 
 Get the free AI visibility audit and a content plan that treats social like the
 asset it should be.

@@ -11,11 +11,22 @@ moduleChips:
   - "FluxBuild"
   - "FluxSEO"
   - "FluxData"
+faq:
+  - question: 'Do you build on WordPress?'
+    answer: 'We build static-first by default: faster, safer, and no server runtime to break. We migrate legacy platforms with full redirect maps so you keep your rankings. For clients who need a CMS, we recommend and build on the right tool for the job.'
+  - question: 'How fast will our site load?'
+    answer: 'Sub-second is the standard. Static-first architecture plus optimized assets gets most builds under half a second on modern hosting.'
+  - question: 'Can you fix our current site instead of rebuilding?'
+    answer: 'Often yes. The teardown tells us whether a fix or a rebuild is the honest answer, and we tell you which one before we bill anything.'
+  - question: 'Do you handle hosting and maintenance?'
+    answer: 'Yes. Maintenance is a published a la carte service from $750/mo. See /pricing/.'
+heroLead: 'Your website is your hardest working salesperson, and half the agency sites in the market are broken. AlphaFlux builds static-first, accessible websites that load under a second, rank in search and AI answers, and convert the traffic you send them.'
+
 ---
 
 ## WHAT WEB DEVELOPMENT INCLUDES AT ALPHAFLUX
 
-**H2:** From Teardown to Launch, Under One Roof.
+From Teardown to Launch, Under One Roof.
 
 | Component | What We Do | Why It Matters |
 |-----------|-----------|----------------|
@@ -32,7 +43,7 @@ moduleChips:
 
 ## HOW WE BUILD
 
-**H2:** The FluxBuild Process.
+The FluxBuild Process.
 
 1. **Teardown.** Your current site gets a full teardown: speed, SEO, conversion,
    mobile. You see the report before we propose anything.
@@ -47,7 +58,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands With a Website That Costs Them Leads.
+Built for Brands With a Website That Costs Them Leads.
 
 - Companies whose site is slow, broken, or embarrassing in front of buyers.
 - Brands migrating off platforms that have outgrown them.
@@ -58,7 +69,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** A Website You Can Measure.
+A Website You Can Measure.
 
 - Sub-second load times and 100 Lighthouse performance at the QA gate.
 - Semantic HTML that search engines and AI engines can read.
@@ -91,7 +102,7 @@ A: Yes. Maintenance is a published a la carte service from $750/mo. See /pricing
 
 ## CTA
 
-**H2:** If Your Site Is Costing You Leads, That Is a Fixable Problem.
+If Your Site Is Costing You Leads, That Is a Fixable Problem.
 
 Request the site teardown. 72 hour turnaround, 25 point checklist, zero obligation.
 

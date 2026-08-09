@@ -7,11 +7,24 @@ order: 3
 permalink: "/industries/b2b/"
 schemaType: Service
 verticalName: "B2B Business"
+faq:
+  - question: 'Do you understand long sales cycles?'
+    answer: 'Yes. Our attribution and lifecycle work is built for cycles measured in quarters, not clicks.'
+  - question: 'Can you handle ABM-style programs?'
+    answer: 'We support account-based motions through paid, content, and automation architecture. The program is scoped to your ICP.'
+  - question: 'What does B2B marketing cost?'
+    answer: 'Plans start at $900/mo and scale with scope. See /pricing/.'
+  - question: 'Do you work with early-stage and enterprise B2B?'
+    answer: 'Both. Starter and Growth fit pre-scale teams; strategic engagements from $50K/mo cover enterprise revenue engines. Scope is set by ICP and cycle.'
+  - question: 'How do you prove marketing drove revenue?'
+    answer: 'Influenced-revenue and SQL tracking in your CRM, plus AI answer share for your category, reported every month. No vanity dashboards.'
+heroLead: 'B2B buyers research longer, trust more sources, and now ask AI engines before they ask sales. AlphaFlux builds the authority, content, and demand systems that make your brand the answer at every stage of the cycle.'
+
 ---
 
 ## WHY B2B COMPANIES CHOOSE ALPHAFLUX
 
-**H2:** Built for Long Cycles and Committee Decisions.
+Built for Long Cycles and Committee Decisions.
 
 - **Authority first.** Digital PR and thought leadership that make you the cited
   source in your category.
@@ -26,7 +39,7 @@ verticalName: "B2B Business"
 
 ## PAIN / SOLUTION
 
-**H2:** Three Problems B2B Teams Hit, and How We Solve Them.
+Three Problems B2B Teams Hit, and How We Solve Them.
 
 **1. Marketing is judged on leads, but the deals happen quarters later.**
 Most B2B attribution stops at the first touch, so spend drifts toward whatever
@@ -57,7 +70,7 @@ pricing is published on the page.
 
 ## WHAT'S INCLUDED
 
-**H2:** The B2B Growth Stack.
+The B2B Growth Stack.
 
 | Channel | Focus |
 |---------|-------|
@@ -71,7 +84,7 @@ pricing is published on the page.
 
 ## PROOF
 
-**H2:** Results We Can Show.
+Results We Can Show.
 
 [REAL DATA REQUIRED: B2B client case studies and metrics before launch.]
 
@@ -102,7 +115,7 @@ your category, reported every month. No vanity dashboards.
 
 ## CTA
 
-**H2:** Be the Vendor Buyers Name First.
+Be the Vendor Buyers Name First.
 
 Run the free AI visibility audit and see who is answering for your category today.
 

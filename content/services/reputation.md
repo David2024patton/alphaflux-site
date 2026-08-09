@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxData"
   - "FluxContent"
+faq:
+  - question: 'Can you make bad reviews disappear?'
+    answer: 'No, and we will not try. We build review volume and visibility so your best reviews surface first, and we respond to criticism in a way that converts onlookers. That is how reputation actually compounds.'
+  - question: 'Is it ethical to ask customers for reviews?'
+    answer: 'Yes, when done right: asking happy customers at the right moment, never incentivizing specific ratings, and following platform rules. We design for that.'
+  - question: 'Does reputation affect SEO?'
+    answer: 'Yes. Ratings schema and Google Business Profile signals feed local SEO directly. Review visibility and rankings reinforce each other.'
+  - question: 'What does reputation management cost?'
+    answer: 'It is a published service line, standalone or add-on. See /pricing/.'
+heroLead: 'Prospects check your reviews before they check your price. If your ratings, responses, and review visibility are left to chance, you are losing customers to competitors with worse service and better review strategy. AlphaFlux runs reputation as a system.'
+
 ---
 
 ## WHAT REPUTATION INCLUDES AT ALPHAFLUX
 
-**H2:** The Full Review-to-Revenue System.
+The Full Review-to-Revenue System.
 
 | Service | What We Do |
 |---------|-----------|
@@ -29,7 +40,7 @@ moduleChips:
 
 ## HOW THE PROGRAM RUNS
 
-**H2:** Listen, Respond, Surface.
+Listen, Respond, Surface.
 
 1. **Audit.** Current ratings, review volume, response rate, and visibility gaps.
 2. **Strategy.** Acquisition and response plans matched to your market.
@@ -41,7 +52,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands Whose Reputation Is an Asset, or a Liability.
+Built for Brands Whose Reputation Is an Asset, or a Liability.
 
 - Local and multi-location businesses living or dying on Google reviews.
 - Home services, healthcare, legal, and franchise operators in review-driven
@@ -53,7 +64,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** A Reputation You Can Point To.
+A Reputation You Can Point To.
 
 - A response system that makes every review an asset.
 - Review volume that grows through legitimate, compliant methods.
@@ -85,7 +96,7 @@ A: It is a published service line, standalone or add-on. See /pricing/.
 
 ## THE REVIEW FUNNEL
 
-**H2:** From Search Result to Booked Job.
+From Search Result to Booked Job.
 
 The review funnel starts before the click: a prospect searches your category,
 sees a 4.8 with 300 reviews, and clicks. Then they read the recent reviews, check
@@ -98,7 +109,7 @@ ranking and your calendar, and it compounds with everything else you do.
 
 ## CTA
 
-**H2:** Prospects Are Reading Your Reviews. Make Them Work.
+Prospects Are Reading Your Reviews. Make Them Work.
 
 Run the free review audit and see exactly what your reputation is costing you
 today.

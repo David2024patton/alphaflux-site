@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxMedia"
   - "FluxData"
+faq:
+  - question: 'Do you take a percentage of ad spend?'
+    answer: 'No. Ad spend flows through your accounts and is never marked up. This keeps us incentivized toward efficiency, not spend inflation.'
+  - question: 'How much ad spend do we need to start?'
+    answer: 'It depends on channel and goal, but most engagements start between $5,000 and $25,000 per month in spend, with management included in your retainer.'
+  - question: 'What is your management fee?'
+    answer: 'Paid media management is included in your AlphaFlux retainer tier. See /pricing/ for the transparent breakdown.'
+  - question: 'Do you manage Amazon ads?'
+    answer: 'Yes. Marketplace advertising is a dedicated service line. See /services/marketplace/ for details.'
+heroLead: 'Clicks are cheap. Customers are not. AlphaFlux runs paid search, paid social, programmatic, and shopping campaigns against the only KPI that matters: efficient revenue. Ad spend flows through your accounts and is never marked up.'
+
 ---
 
 ## WHAT PPC INCLUDES AT ALPHAFLUX
 
-**H2:** Every Channel, One Strategy.
+Every Channel, One Strategy.
 
 | Channel | What We Do | Why It Works |
 |---------|-----------|--------------|
@@ -29,7 +40,7 @@ moduleChips:
 
 ## HOW WE MANAGE SPEND
 
-**H2:** Aligned With Your Revenue, Not Our Billings.
+Aligned With Your Revenue, Not Our Billings.
 
 - **Ad spend is never marked up.** It flows through your accounts. We earn on
   management, not on inflating your budget.
@@ -44,7 +55,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Growth-Stage Budgets, Scaled for Enterprise.
+Built for Growth-Stage Budgets, Scaled for Enterprise.
 
 - Companies spending $5K to $1M+ per month who want a partner, not a vendor.
 - Brands tired of agencies that report clicks while revenue stalls.
@@ -55,7 +66,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Numbers on a Cadence You Can Actually Use.
+Numbers on a Cadence You Can Actually Use.
 
 - First full optimization cycle: within 2 weeks of launch.
 - Weekly performance summaries, monthly deep-dive reporting.
@@ -86,7 +97,7 @@ A: Yes. Marketplace advertising is a dedicated service line. See
 
 ## CTA
 
-**H2:** Stop Paying for Clicks. Start Paying for Customers.
+Stop Paying for Clicks. Start Paying for Customers.
 
 Get a free AI visibility audit and a straight answer about whether paid media is
 the right lever for your growth right now.

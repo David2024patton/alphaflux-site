@@ -18,7 +18,7 @@ layout: base.njk
     </div>
     {% endif %}
     <h1 class="display-lg">{{ serviceH1 }}</h1>
-    {% block heroLead %}{% endblock %}
+    {% if heroLead %}<p class="hero-desc">{{ heroLead }}</p>{% endif %}
     <p class="service-price-line">{% block priceLine %}{{ servicePrice }}{% endblock %}</p>
     <div class="cta-actions">
       <a href="/services/ai-geo/ai-visibility-audit/" class="btn btn-accent btn-lg">Get Free AI Visibility Audit</a>

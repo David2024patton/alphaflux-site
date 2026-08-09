@@ -7,11 +7,24 @@ order: 1
 permalink: "/industries/saas/"
 schemaType: Service
 verticalName: "SaaS Business"
+faq:
+  - question: 'Do you understand SaaS metrics?'
+    answer: 'Yes. MRR, CAC, LTV, payback, activation rate, and logo churn are the language of every SaaS engagement we run.'
+  - question: 'Can you support a product-led motion?'
+    answer: 'Yes: trial optimization, activation flows, and ASO for the app store surface all run under one roof.'
+  - question: 'Do you work with early-stage SaaS?'
+    answer: 'The Starter and Growth plans fit pre-scale software companies. See /pricing/.'
+  - question: 'Can you integrate with our CRM and product analytics?'
+    answer: 'Yes. Reporting connects to the tools you already run, so marketing is judged on the same data product and sales use.'
+  - question: 'How do you approach category creation versus competition?'
+    answer: 'Both. Comparison content captures existing demand; category content builds the demand your product is best positioned to own.'
+heroLead: 'SaaS growth is a compound problem: acquire, activate, retain, expand. AlphaFlux runs the full loop for software companies: demand generation, content that ranks and answers AI queries, lifecycle programs that reduce churn, and dashboards that tie it all to MRR.'
+
 ---
 
 ## WHY SAAS COMPANIES CHOOSE ALPHAFLUX
 
-**H2:** Built for Subscription Math.
+Built for Subscription Math.
 
 - **Pipeline science.** Content, paid, and SEO scoped to SQLs and MRR, not vanity.
 - **AI search visibility.** Buyers validate software in ChatGPT and Perplexity.
@@ -23,7 +36,7 @@ verticalName: "SaaS Business"
 
 ## PAIN / SOLUTION
 
-**H2:** Three Problems SaaS Companies Hit, and How We Solve Them.
+Three Problems SaaS Companies Hit, and How We Solve Them.
 
 **1. Vanity metrics hide whether marketing actually grows MRR.**
 Traffic and demo counts look good in a board deck and say nothing about
@@ -52,7 +65,7 @@ KPIs every month. Pricing is published on the page.
 
 ## WHAT'S INCLUDED
 
-**H2:** The SaaS Growth Stack.
+The SaaS Growth Stack.
 
 | Channel | Focus |
 |---------|-------|
@@ -66,7 +79,7 @@ KPIs every month. Pricing is published on the page.
 
 ## PROOF
 
-**H2:** Results We Can Show.
+Results We Can Show.
 
 [REAL DATA REQUIRED: SaaS client case studies and metrics before launch. See
 04_case_studies/ for the template and the alphaflux.net rebuild as the first
@@ -99,7 +112,7 @@ the demand your product is best positioned to own.
 
 ## CTA
 
-**H2:** Make Your Software the Answer.
+Make Your Software the Answer.
 
 Run the free AI visibility audit and see who answers for your category today.
 

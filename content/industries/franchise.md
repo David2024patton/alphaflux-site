@@ -7,11 +7,24 @@ order: 8
 permalink: "/industries/franchise/"
 schemaType: Service
 verticalName: "Franchise System"
+faq:
+  - question: 'How is this different from the franchise service page?'
+    answer: 'This is the vertical story for franchise networks; /services/franchise/ is the full program. Both lead to the same system.'
+  - question: 'Can you handle 100+ locations?'
+    answer: 'Yes. The city x service architecture and network dashboard are built to scale.'
+  - question: 'What does franchise marketing cost?'
+    answer: 'Scoped by network size. See /pricing/ for anchors and setup fees.'
+  - question: 'How do you get franchisee buy-in?'
+    answer: 'Enablement assets and playbooks built for adoption: short, specific, and ready to run, so locations follow the system because it is easy.'
+  - question: 'Do you manage national and local paid together?'
+    answer: 'Yes. Centralized campaigns with local targeting and budget rules, so national brand dollars and local offers do not cannibalize each other.'
+heroLead: 'Franchise systems grow on consistency: same brand, same quality, same visibility in every market. AlphaFlux builds the multi-location marketing system that delivers it. Full program details on the franchise service page.'
+
 ---
 
 ## WHY FRANCHISE SYSTEMS CHOOSE ALPHAFLUX
 
-**H2:** Built for the Network, Not the Single Store.
+Built for the Network, Not the Single Store.
 
 - **Local SEO at scale.** City x service pages and GBP management for every
   location without franchisee homework.
@@ -24,7 +37,7 @@ verticalName: "Franchise System"
 
 ## PAIN / SOLUTION
 
-**H2:** Three Problems Franchise Networks Hit, and How We Solve Them.
+Three Problems Franchise Networks Hit, and How We Solve Them.
 
 **1. Franchisees run their own local marketing, and quality varies by market.**
 One location runs a great Google profile; another is invisible. The brand pays
@@ -53,7 +66,7 @@ setup are published on the pricing page.
 
 ## WHAT'S INCLUDED
 
-**H2:** The Franchise Growth Stack.
+The Franchise Growth Stack.
 
 | Channel | Focus |
 |---------|-------|
@@ -67,7 +80,7 @@ setup are published on the pricing page.
 
 ## PROOF
 
-**H2:** Results We Can Show.
+Results We Can Show.
 
 [REAL DATA REQUIRED: franchise network case studies and metrics before launch.]
 
@@ -97,7 +110,7 @@ national brand dollars and local offers do not cannibalize each other.
 
 ## CTA
 
-**H2:** Every Location, Winning Its Market.
+Every Location, Winning Its Market.
 
 Run the free AI visibility audit and see where your network is winning and where
 it is leaking.

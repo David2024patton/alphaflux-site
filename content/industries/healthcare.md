@@ -7,11 +7,24 @@ order: 5
 permalink: "/industries/healthcare/"
 schemaType: Service
 verticalName: "Healthcare Practice"
+faq:
+  - question: 'Are you HIPAA-aware?'
+    answer: 'Yes. We design tracking, forms, and content with healthcare privacy rules in mind, and we flag compliance questions for your review before anything ships.'
+  - question: 'Do you work with individual providers or systems?'
+    answer: 'Both. Single-practice local SEO and multi-location provider networks are supported.'
+  - question: 'What does healthcare marketing cost?'
+    answer: 'Plans start at $900/mo and scale with scope and compliance needs. See /pricing/.'
+  - question: 'Do you work with dental, PT, and specialty practices?'
+    answer: 'Yes. The local SEO and reputation architecture fits any service-area practice model, from single providers to multi-location groups.'
+  - question: 'Can you manage provider-level pages for networks?'
+    answer: 'Yes. Multi-location provider pages are supported, with each provider and service area getting its own rankable surface.'
+heroLead: 'Healthcare marketing has a compliance layer most agencies ignore. AlphaFlux builds patient growth systems that respect HIPAA and advertising rules: local visibility, reputation, and content that earns trust without risking it.'
+
 ---
 
 ## WHY HEALTHCARE ORGANIZATIONS CHOOSE ALPHAFLUX
 
-**H2:** Built for Trust and Compliance.
+Built for Trust and Compliance.
 
 - **Compliance-aware.** Copy, tracking, and creative built for healthcare
   advertising and privacy rules.
@@ -24,7 +37,7 @@ verticalName: "Healthcare Practice"
 
 ## PAIN / SOLUTION
 
-**H2:** Three Problems Healthcare Organizations Hit, and How We Solve Them.
+Three Problems Healthcare Organizations Hit, and How We Solve Them.
 
 **1. Compliance risk stops marketing before it starts.**
 Between HIPAA, advertising rules, and the fear of a costly mistake, many
@@ -53,7 +66,7 @@ new patient volume every month. Pricing is published on the page.
 
 ## WHAT'S INCLUDED
 
-**H2:** The Healthcare Growth Stack.
+The Healthcare Growth Stack.
 
 | Channel | Focus |
 |---------|-------|
@@ -67,7 +80,7 @@ new patient volume every month. Pricing is published on the page.
 
 ## PROOF
 
-**H2:** Results We Can Show.
+Results We Can Show.
 
 [REAL DATA REQUIRED: healthcare client case studies and metrics before launch.]
 
@@ -98,7 +111,7 @@ service area getting its own rankable surface.
 
 ## CTA
 
-**H2:** Be the Practice Patients Find First.
+Be the Practice Patients Find First.
 
 Run the free AI visibility audit and see who answers for your specialty today.
 

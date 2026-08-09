@@ -11,11 +11,22 @@ moduleChips:
   - "FluxSEO"
   - "FluxMedia"
   - "FluxData"
+faq:
+  - question: 'Do franchisees have to do anything?'
+    answer: 'Some locations will need to approve local details, but the system is built so franchisees get playbooks and assets instead of homework. Adoption is designed in, not hoped for.'
+  - question: 'How do you handle 50 locations?'
+    answer: 'With templates and automation, not 50 times the manual work. The city x service architecture generates pages at scale, and one dashboard runs the whole network.'
+  - question: 'Do you work with the corporate office or franchisees?'
+    answer: 'Both. Corporate sets the system and the brand; franchisees get enablement and local control where it matters. One pod runs it.'
+  - question: 'What does franchise marketing cost?'
+    answer: 'Scoped by network size, standalone or add-on. See /pricing/ for anchors and setup fees.'
+heroLead: 'Franchise marketing fails when every location improvises. AlphaFlux builds one system that every location runs: local SEO at scale, centralized paid media, location-level content, and review management, with a dashboard that shows the whole network at once.'
+
 ---
 
 ## WHAT FRANCHISE MARKETING INCLUDES AT ALPHAFLUX
 
-**H2:** Central Control, Local Relevance.
+Central Control, Local Relevance.
 
 | Service | What We Do |
 |---------|-----------|
@@ -30,7 +41,7 @@ moduleChips:
 
 ## HOW THE PROGRAM RUNS
 
-**H2:** The FluxSEO Multi-Location Architecture.
+The FluxSEO Multi-Location Architecture.
 
 1. **Audit.** Every location: listings, reviews, landing pages, and local
    rankings. The gaps get a full map.
@@ -43,7 +54,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Networks That Scale on Consistency.
+Built for Networks That Scale on Consistency.
 
 - Franchise systems where each location runs its own marketing, badly.
 - Multi-location brands with duplicated or inconsistent local listings.
@@ -54,7 +65,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** A Network You Can See, Manage, and Grow.
+A Network You Can See, Manage, and Grow.
 
 - A per-location audit, then a network-wide visibility baseline.
 - City x service pages that rank locally without franchisee effort.
@@ -88,7 +99,7 @@ setup fees.
 
 ## THE NETWORK MATH
 
-**H2:** Why Fifty Locations Need One System, Not Fifty Agencies.
+Why Fifty Locations Need One System, Not Fifty Agencies.
 
 Every location running its own marketing means fifty versions of the brand,
 fifty vendors, and fifty invoices, with no view of what works where. The network
@@ -101,7 +112,7 @@ how a network turns marketing from a cost center into its best growth lever.
 
 ## CTA
 
-**H2:** One System. Every Location. Consistent Growth.
+One System. Every Location. Consistent Growth.
 
 Run the free location audit and see which locations are winning, which are
 leaking, and what one system would fix.

@@ -7,11 +7,24 @@ order: 2
 permalink: "/industries/ecommerce/"
 schemaType: Service
 verticalName: "eCommerce Business"
+faq:
+  - question: 'Do you manage our marketplace ads too?'
+    answer: 'Yes. Amazon, Walmart, and Instacart are a dedicated service line. See /services/marketplace/.'
+  - question: 'Can you handle high-volume product catalogs?'
+    answer: 'Yes. Feed management, faceted navigation, and category architecture are core to our ecommerce SEO.'
+  - question: 'What does ecommerce marketing cost?'
+    answer: 'Plans start at $900/mo and scale with catalog and channel scope. See /pricing/.'
+  - question: 'Do you manage product feeds and promotions?'
+    answer: 'Yes. Feed management, promotions, and creative for shopping and marketplace surfaces are part of the stack, kept in one catalog.'
+  - question: 'How do you handle seasonal peaks?'
+    answer: 'Calendars are built around your catalog''s peak seasons, with creative, budget, and content ramped ahead of demand instead of behind it.'
+heroLead: 'Ecommerce is won on three numbers: traffic, conversion rate, and repeat purchase rate. AlphaFlux runs all three: SEO and shopping campaigns for traffic, CRO for conversion, and lifecycle email for the repeat buy.'
+
 ---
 
 ## WHY ECOMMERCE BRANDS CHOOSE ALPHAFLUX
 
-**H2:** Built for the Storefront, Online and On-Shelf.
+Built for the Storefront, Online and On-Shelf.
 
 - **Search + shopping.** Google Shopping, product feeds, and category SEO working
   as one system.
@@ -25,7 +38,7 @@ verticalName: "eCommerce Business"
 
 ## PAIN / SOLUTION
 
-**H2:** Three Problems Ecommerce Brands Hit, and How We Solve Them.
+Three Problems Ecommerce Brands Hit, and How We Solve Them.
 
 **1. Traffic without conversion is just cost.**
 Most ecommerce marketing buys clicks and hopes the storefront converts. We
@@ -55,7 +68,7 @@ sign.
 
 ## WHAT'S INCLUDED
 
-**H2:** The Ecommerce Growth Stack.
+The Ecommerce Growth Stack.
 
 | Channel | Focus |
 |---------|-------|
@@ -69,7 +82,7 @@ sign.
 
 ## PROOF
 
-**H2:** Results We Can Show.
+Results We Can Show.
 
 [REAL DATA REQUIRED: ecommerce client case studies and metrics before launch.]
 
@@ -100,7 +113,7 @@ budget, and content ramped ahead of demand instead of behind it.
 
 ## CTA
 
-**H2:** Win the Click, the Cart, and the Repeat.
+Win the Click, the Cart, and the Repeat.
 
 Run the free AI visibility audit and see who is winning your category's searches
 and AI answers today.

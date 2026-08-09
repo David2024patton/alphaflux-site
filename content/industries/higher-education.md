@@ -7,11 +7,24 @@ order: 9
 permalink: "/industries/higher-education/"
 schemaType: Service
 verticalName: "Higher Education Institution"
+faq:
+  - question: 'Do you work with traditional and online programs?'
+    answer: 'Yes. Program-level SEO and paid scope differ by format, and we build for both.'
+  - question: 'Can you support multi-campus institutions?'
+    answer: 'Yes, including program x campus page architecture and local visibility per campus.'
+  - question: 'What does higher ed marketing cost?'
+    answer: 'Plans start at $900/mo and scale with scope. See /pricing/.'
+  - question: 'Do you work with community colleges and four-year institutions?'
+    answer: 'Yes. Scope differs by program mix and admissions model, and we build for both.'
+  - question: 'How do you handle accreditation-related claims?'
+    answer: 'Copy and claims route through your review before anything ships, so the standards your institution answers to stay in control.'
+heroLead: 'Prospective students research programs for months, and they now ask ChatGPT and Perplexity which schools and programs fit. AlphaFlux builds the content, visibility, and enrollment-funnel systems that make your institution the answer.'
+
 ---
 
 ## WHY INSTITUTIONS CHOOSE ALPHAFLUX
 
-**H2:** Built for the Long, Distributed Enrollment Decision.
+Built for the Long, Distributed Enrollment Decision.
 
 - **Program page SEO.** Degree and program pages that rank for the searches
   enrollment depends on.
@@ -26,7 +39,7 @@ verticalName: "Higher Education Institution"
 
 ## PAIN / SOLUTION
 
-**H2:** Three Problems Institutions Hit, and How We Solve Them.
+Three Problems Institutions Hit, and How We Solve Them.
 
 **1. Program pages read like catalogs and rank for nothing.**
 Institutional descriptions answer the school's questions, not the student's.
@@ -55,7 +68,7 @@ inquiries and applications every month. Pricing is published on the page.
 
 ## WHAT'S INCLUDED
 
-**H2:** The Higher Ed Growth Stack.
+The Higher Ed Growth Stack.
 
 | Channel | Focus |
 |---------|-------|
@@ -69,7 +82,7 @@ inquiries and applications every month. Pricing is published on the page.
 
 ## PROOF
 
-**H2:** Results We Can Show.
+Results We Can Show.
 
 [REAL DATA REQUIRED: higher education client case studies and metrics before
 launch.]
@@ -100,7 +113,7 @@ standards your institution answers to stay in control.
 
 ## CTA
 
-**H2:** Be the School Students Ask About First.
+Be the School Students Ask About First.
 
 Run the free AI visibility audit and see who answers for your programs today.
 

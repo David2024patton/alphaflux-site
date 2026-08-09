@@ -4,6 +4,17 @@ title: "Free AI Visibility Audit | Check Your Brand Across Google, ChatGPT & Per
 description: "Free AI visibility audit from AlphaFlux: see how your brand appears across AI engines."
 permalink: "/services/ai-geo/ai-visibility-audit/"
 schemaType: WebPage
+faq:
+  - question: 'Is the audit really free?'
+    answer: 'Yes. No credit card, no trial period, no commitment. We run the audit, you get the report. If you want to act on the gaps, we talk about a program. If not, you keep the report.'
+  - question: 'What do you need from me?'
+    answer: 'Your name, your email, and your website URL. That is enough to run a full visibility check across the major AI surfaces.'
+  - question: 'How long until I get the report?'
+    answer: '48 hours or less. The audit is automated where possible and human-reviewed where it matters.'
+  - question: 'What if I do not show up at all?'
+    answer: 'Then the report tells you exactly where you are invisible and why. That is the most actionable report you can receive, because it gives you the gap and the fix list in one document.'
+heroLead: 'Your buyers are asking ChatGPT, Perplexity, Gemini, and Google AI Overviews for recommendations in your category. Who do those engines recommend? Run the free AI visibility audit and find out in 48 hours, with a score and a fix list. No sales call required to get the report.'
+
 ---
 
 <section class="hero" style="padding:var(--space-24) 0;">

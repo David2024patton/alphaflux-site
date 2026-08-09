@@ -11,11 +11,22 @@ moduleChips:
   - "FluxGEO"
   - "FluxSEO"
   - "FluxData"
+faq:
+  - question: 'What is GEO?'
+    answer: 'Generative Engine Optimization is the practice of making your brand the source AI answer engines cite. It combines structured data, entity building, quoted content, and authority signals. See the GEO program page for the full breakdown.'
+  - question: 'How is this different from SEO?'
+    answer: 'SEO optimizes for ranking links. GEO optimizes for being cited in synthesized answers. They reinforce each other, which is why FluxGEO and FluxSEO run together.'
+  - question: 'Do you offer a free way to see where we stand?'
+    answer: 'Yes. The Free AI Visibility Audit checks your brand and keywords across Google, ChatGPT, Perplexity, and AI Overviews, and delivers a 48 hour report with a visibility score and fix list. That is where every engagement starts.'
+  - question: 'How soon do AI visibility gains show?'
+    answer: 'Citation wins typically start showing in 30 to 90 days. Entity and authority building compounds over 3 to 6 months, which is why GEO runs as a program, not a project.'
+heroLead: 'Buyers no longer ask Google first. They ask ChatGPT, Perplexity, Gemini, and Google AI Overviews, and the brand that gets cited in those answers wins the click before the search ever happens. AlphaFlux built FluxGEO to own that surface, and it is the first module we lead with.'
+
 ---
 
 ## THE SHIFT
 
-**H2:** Search Is No Longer Ten Blue Links.
+Search Is No Longer Ten Blue Links.
 
 Body: More than half of search-style queries now end in an AI answer, not a link.
 When a buyer asks "which marketing agency is best for my industry", the answer
@@ -27,7 +38,7 @@ the current search behavior, and it compounds monthly.
 
 ## THE FLUXGEO SYSTEM
 
-**H2:** How We Make Your Brand the Answer.
+How We Make Your Brand the Answer.
 
 | Layer | What We Do |
 |-------|-----------|
@@ -41,7 +52,7 @@ the current search behavior, and it compounds monthly.
 
 ## WHAT'S INSIDE
 
-**H2:** Two Dedicated Programs, One Wedge.
+Two Dedicated Programs, One Wedge.
 
 1. **Generative Engine Optimization (GEO).** The science of being cited in AI
    answers: entity building, structured data, quoted content, and authority. See
@@ -59,7 +70,7 @@ with a visibility score and a fix list. Details: /services/ai-geo/ai-visibility-
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands That Want to Be the Default Answer.
+Built for Brands That Want to Be the Default Answer.
 
 - Companies being answered by competitors in AI search results.
 - Brands whose traditional rankings are healthy but invisible in AI citations.
@@ -70,7 +81,7 @@ with a visibility score and a fix list. Details: /services/ai-geo/ai-visibility-
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** A Visibility Score You Can Watch Move.
+A Visibility Score You Can Watch Move.
 
 - A baseline GEO visibility score in week one.
 - Monthly citation share and answer presence reporting.
@@ -104,7 +115,7 @@ project.
 
 ## CTA
 
-**H2:** Find Out Who Answers for You Right Now.
+Find Out Who Answers for You Right Now.
 
 Run the free AI visibility audit. In 48 hours you will know exactly who owns your
 answers, and what it takes to take them back.

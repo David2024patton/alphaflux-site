@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxContent"
   - "FluxSEO"
+faq:
+  - question: 'Do you guarantee placements?'
+    answer: 'No one honest guarantees media coverage, because editors decide. We guarantee the system: targeted outreach, real campaigns, and a monthly report of what landed and what is in flight.'
+  - question: 'Is this the same as buying links?'
+    answer: 'No. We earn links through outreach and assets. Bought links are a risk to your site, not an investment in it.'
+  - question: 'How does PR help with AI search?'
+    answer: 'Answer engines weight source authority heavily. Coverage in trusted publications is a direct signal that makes engines cite you.'
+  - question: 'Is digital PR included in SEO?'
+    answer: 'It is a linked program. SEO runs the technical and on-page layer; digital PR builds the authority layer. They are scoped together in Growth and above. See /pricing/.'
+heroLead: 'Links from real publications are the currency of trust in both search and AI answers. AlphaFlux runs digital PR: data-driven campaigns, journalist outreach, and earned placements that build authority you actually own.'
+
 ---
 
 ## WHAT DIGITAL PR INCLUDES AT ALPHAFLUX
 
-**H2:** Earned Media, Built on a System.
+Earned Media, Built on a System.
 
 | Service | What We Do |
 |---------|-----------|
@@ -29,7 +40,7 @@ moduleChips:
 
 ## HOW THE PROGRAM RUNS
 
-**H2:** Pitches, Proof, Placements.
+Pitches, Proof, Placements.
 
 1. **Scan.** We map your industry's journalists, publications, and link
    opportunities before we pitch anything.
@@ -42,7 +53,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands That Want Links That Matter.
+Built for Brands That Want Links That Matter.
 
 - Companies whose SEO is strong but whose authority profile is thin.
 - Brands with a great story nobody has heard, because nobody has pitched it.
@@ -53,7 +64,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Earned Authority, Measured Monthly.
+Earned Authority, Measured Monthly.
 
 - A monthly placement and referring domain report.
 - Campaign assets that keep earning links long after launch.
@@ -87,7 +98,7 @@ builds the authority layer. They are scoped together in Growth and above. See
 
 ## HOW PR COMPOUNDS WITH SEO AND GEO
 
-**H2:** One Placement, Three Wins.
+One Placement, Three Wins.
 
 A placement in a trusted publication does three jobs at once. It earns a
 referring domain that boosts classic SEO authority. It signals to AI answer
@@ -101,7 +112,7 @@ check.
 
 ## CTA
 
-**H2:** Your Authority Is a Balance Sheet. Build It on Purpose.
+Your Authority Is a Balance Sheet. Build It on Purpose.
 
 Run the PR opportunity scan and see the journalists, publications, and angles your
 brand should be pursuing this month.

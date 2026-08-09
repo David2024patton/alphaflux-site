@@ -7,11 +7,24 @@ order: 6
 permalink: "/industries/financial/"
 schemaType: Service
 verticalName: "Financial Services Firm"
+faq:
+  - question: 'Do you handle regulated advertising?'
+    answer: 'Yes. Copy, creative, and targeting are built with financial advertising and disclosure rules in mind, with a compliance review gate before launch.'
+  - question: 'Can you support wealth, lending, fintech, and insurance?'
+    answer: 'All four. The programs differ by compliance surface and funnel, and we scope accordingly.'
+  - question: 'What does financial marketing cost?'
+    answer: 'Plans start at $900/mo and scale with scope and compliance needs. See /pricing/.'
+  - question: 'Do you handle disclosures in paid creative?'
+    answer: 'Yes. Disclosure and approval processes are part of the workflow, built in before the first impression, not bolted on after review.'
+  - question: 'Can you support RIA and advisor teams?'
+    answer: 'Yes, with branch and advisor-level local pages that turn local searches into consultations.'
+heroLead: 'Financial decisions are high-stakes, heavily researched, and regulated. AlphaFlux builds marketing for wealth, lending, fintech, and insurance that earns the trust the category demands, with compliance built into the process.'
+
 ---
 
 ## WHY FINANCIAL FIRMS CHOOSE ALPHAFLUX
 
-**H2:** Built for High-Stakes Research.
+Built for High-Stakes Research.
 
 - **Compliance-first.** Advertising and disclosure rules handled in the
   workflow, not after the fact.
@@ -26,7 +39,7 @@ verticalName: "Financial Services Firm"
 
 ## PAIN / SOLUTION
 
-**H2:** Three Problems Financial Firms Hit, and How We Solve Them.
+Three Problems Financial Firms Hit, and How We Solve Them.
 
 **1. Regulated advertising scares agencies off, or worse, gets run carelessly.**
 Financial marketing sits under advertising and disclosure rules most agencies
@@ -55,7 +68,7 @@ month. Pricing is published on the page.
 
 ## WHAT'S INCLUDED
 
-**H2:** The Financial Growth Stack.
+The Financial Growth Stack.
 
 | Channel | Focus |
 |---------|-------|
@@ -69,7 +82,7 @@ month. Pricing is published on the page.
 
 ## PROOF
 
-**H2:** Results We Can Show.
+Results We Can Show.
 
 [REAL DATA REQUIRED: financial client case studies and metrics before launch.]
 
@@ -100,7 +113,7 @@ into consultations.
 
 ## CTA
 
-**H2:** Be the Firm They Choose Before They Call.
+Be the Firm They Choose Before They Call.
 
 Run the free AI visibility audit and see who answers for your category today.
 

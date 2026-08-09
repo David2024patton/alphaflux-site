@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxData"
   - "FluxBuild"
+faq:
+  - question: 'How many tests can you run?'
+    answer: 'The tier model starts at 1 to 2 tests per month and scales to 4+. Testing volume matters less than decision quality, which is why every test carries a decision rule.'
+  - question: 'Do we need a lot of traffic for CRO?'
+    answer: 'Statistical confidence needs volume, but behavior analytics and usability fixes pay off at any scale. We scope the program to what your traffic can support.'
+  - question: 'Is CRO part of web development?'
+    answer: 'CRO is strategy and testing; implementation may touch your site. Both live under one roof, so recommendations ship instead of gathering dust. See /services/web-development/.'
+  - question: 'What does CRO cost?'
+    answer: 'CRO runs inside your retainer tier or as a standalone program. See /pricing/.'
+heroLead: 'Most brands do not have a traffic problem. They have a conversion problem. AlphaFlux runs structured CRO programs: behavior analysis, testing roadmaps, and page optimization that squeeze more revenue out of every visit you already earned.'
+
 ---
 
 ## WHAT CRO INCLUDES AT ALPHAFLUX
 
-**H2:** A Testing Program, Not Random Tweaks.
+A Testing Program, Not Random Tweaks.
 
 | Component | What We Do | Deliverable |
 |-----------|-----------|-------------|
@@ -29,7 +40,7 @@ moduleChips:
 
 ## HOW THE PROGRAM RUNS
 
-**H2:** Test. Learn. Ship. Repeat.
+Test. Learn. Ship. Repeat.
 
 1. **Audit (Days 0-14).** Behavior data plus a conversion teardown of your highest
    traffic pages. We rank opportunities by projected revenue, not opinion.
@@ -43,7 +54,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Brands Leaving Revenue on the Table.
+Built for Brands Leaving Revenue on the Table.
 
 - Companies spending on traffic while conversion flatlines.
 - Ecommerce stores with cart abandonment that will not budge.
@@ -54,7 +65,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** A Conversion Program With a Paper Trail.
+A Conversion Program With a Paper Trail.
 
 - Every test ships with a hypothesis and a decision rule, so nothing is vibes.
 - Monthly reporting of tests, winners, and revenue impact.
@@ -84,7 +95,7 @@ A: CRO runs inside your retainer tier or as a standalone program. See /pricing/.
 
 ## CTA
 
-**H2:** Stop Buying Traffic. Start Keeping It.
+Stop Buying Traffic. Start Keeping It.
 
 Get the free AI visibility audit and a conversion teardown of your highest traffic
 pages.

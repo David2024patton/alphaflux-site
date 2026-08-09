@@ -10,11 +10,22 @@ schemaType: Service
 moduleChips:
   - "FluxData"
   - "FluxContent"
+faq:
+  - question: 'Is this the same as email marketing?'
+    answer: 'Email is the channel; automation is the system. AlphaFlux does both. See /services/email/ for the lifecycle copy and channel work.'
+  - question: 'What platforms do you work with?'
+    answer: 'HubSpot, Salesforce, Marketo, Klaviyo, ActiveCampaign, and similar. The audit recommends the right stack for your size; we do not sell you software we do not need.'
+  - question: 'Do we need automation at our size?'
+    answer: 'If you are losing leads to follow-up lag, yes. We scope the system to your volume, from simple routing to full CDP architecture.'
+  - question: 'What does it cost?'
+    answer: 'Automation is a published service line, standalone or add-on. See /pricing/.'
+heroLead: 'Your marketing generates leads. Your follow-up either converts them or loses them. AlphaFlux builds marketing automation that turns every touchpoint into a step in the pipeline: lead scoring, CRM automation, nurture flows, and the MarTech stack that runs it.'
+
 ---
 
 ## WHAT MARKETING AUTOMATION INCLUDES AT ALPHAFLUX
 
-**H2:** The System Between Your Marketing and Your Revenue.
+The System Between Your Marketing and Your Revenue.
 
 | Service | What We Do |
 |---------|-----------|
@@ -30,7 +41,7 @@ moduleChips:
 
 ## HOW THE PROGRAM RUNS
 
-**H2:** Built on FluxData, Wired Into Your Stack.
+Built on FluxData, Wired Into Your Stack.
 
 1. **Audit.** Current stack, data quality, and leak points in the funnel.
 2. **Architect.** Flow and scoring maps drawn before anything is built.
@@ -42,7 +53,7 @@ moduleChips:
 
 ## WHO IT'S FOR
 
-**H2:** Built for Teams Whose Leads Are Falling Through Cracks.
+Built for Teams Whose Leads Are Falling Through Cracks.
 
 - B2B companies with leads going dark after the demo request.
 - Marketing teams drowning in manual follow-up and spreadsheet tracking.
@@ -53,7 +64,7 @@ moduleChips:
 
 ## WHAT YOU CAN EXPECT
 
-**H2:** Automation With an Audit Trail.
+Automation With an Audit Trail.
 
 - A flow map you can see before we build anything.
 - Automations tested end to end, with documented handoffs.
@@ -85,7 +96,7 @@ A: Automation is a published service line, standalone or add-on. See /pricing/.
 
 ## THE COMMON AUTOMATION TRAPS
 
-**H2:** Four Ways Automation Projects Die.
+Four Ways Automation Projects Die.
 
 First, the tool-first trap: buying a platform and then inventing a use for it.
 Second, the data trap: wiring automations on top of a CRM nobody updates. Third,
@@ -98,7 +109,7 @@ broken. If a flow cannot state its job in one sentence, it should not ship.
 
 ## CTA
 
-**H2:** Your Leads Are Already in the Funnel. Stop Dropping Them.
+Your Leads Are Already in the Funnel. Stop Dropping Them.
 
 Get the flow map sample and see what a leak-proof follow-up system looks like for
 your business.
