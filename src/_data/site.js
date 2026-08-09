@@ -5,7 +5,7 @@ module.exports = {
   url: "https://alphaflux.net",
   locale: "en_US",
   ga4: "G-GZV90ZCT4E",
-  cacheBust: "v1",
+  cacheBust: "v2",
   formSubmitInbox: "REPLACE_WITH_INBOX_EMAIL",
   author: {
     name: "David Patton",
