@@ -108,4 +108,4 @@ Stop Paying for Clicks. Start Paying for Customers.
 Get a free AI visibility audit and a straight answer about whether paid media is
 the right lever for your growth right now.
 
-CTA: Get a media plan / See Pricing
+Get a media plan / See Pricing

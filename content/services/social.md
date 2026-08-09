@@ -111,4 +111,4 @@ Stop Posting. Start Compounding.
 Get the free AI visibility audit and a content plan that treats social like the
 asset it should be.
 
-CTA: See a content calendar / See Pricing
+See a content calendar / See Pricing

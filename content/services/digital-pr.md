@@ -121,4 +121,4 @@ Your Authority Is a Balance Sheet. Build It on Purpose.
 Run the PR opportunity scan and see the journalists, publications, and angles your
 brand should be pursuing this month.
 
-CTA: PR opportunity scan / See Pricing
+PR opportunity scan / See Pricing

@@ -117,4 +117,4 @@ Your Products Are On the Shelf. Are They Winning the Shelf?
 Get the free listing audit and see exactly what is costing you sales in the search
 that starts on the store.
 
-CTA: Free listing audit / See Pricing
+Free listing audit / See Pricing

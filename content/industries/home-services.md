@@ -117,4 +117,4 @@ Make the Phone Ring With the Right Calls.
 
 Run the free AI visibility audit and see who owns your local category's answers.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

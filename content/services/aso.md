@@ -118,4 +118,4 @@ Your App Is One Search Away From Its Next User.
 Run the free ASO scorecard and see exactly where your storefront is leaking
 installs.
 
-CTA: Free ASO scorecard / See Pricing
+Free ASO scorecard / See Pricing

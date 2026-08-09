@@ -115,4 +115,4 @@ Be the Practice Patients Find First.
 
 Run the free AI visibility audit and see who answers for your specialty today.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

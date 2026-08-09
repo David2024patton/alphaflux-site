@@ -107,4 +107,4 @@ Put Your List to Work.
 Get the free AI visibility audit and an email teardown that shows exactly what your
 list is worth.
 
-CTA: Lifecycle map sample / See Pricing
+Lifecycle map sample / See Pricing

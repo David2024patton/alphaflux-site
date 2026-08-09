@@ -115,4 +115,4 @@ Be the Firm Clients Name First.
 
 Run the free AI visibility audit and see who answers for your practice area today.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

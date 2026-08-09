@@ -117,4 +117,4 @@ Be the School Students Ask About First.
 
 Run the free AI visibility audit and see who answers for your programs today.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

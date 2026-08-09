@@ -119,4 +119,4 @@ Be the Vendor Buyers Name First.
 
 Run the free AI visibility audit and see who is answering for your category today.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

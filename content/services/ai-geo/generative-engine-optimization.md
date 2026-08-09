@@ -118,4 +118,4 @@ Become the Source, Not the Snippet.
 Run the free AI visibility audit and see exactly who is answering for your brand
 today.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

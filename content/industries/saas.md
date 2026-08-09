@@ -116,4 +116,4 @@ Make Your Software the Answer.
 
 Run the free AI visibility audit and see who answers for your category today.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

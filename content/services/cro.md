@@ -106,4 +106,4 @@ Stop Buying Traffic. Start Keeping It.
 Get the free AI visibility audit and a conversion teardown of your highest traffic
 pages.
 
-CTA: Free landing page review / See Pricing
+Free landing page review / See Pricing

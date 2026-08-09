@@ -121,4 +121,4 @@ One System. Every Location. Consistent Growth.
 Run the free location audit and see which locations are winning, which are
 leaking, and what one system would fix.
 
-CTA: Free location audit / See Pricing
+Free location audit / See Pricing

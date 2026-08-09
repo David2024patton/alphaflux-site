@@ -120,4 +120,4 @@ Stop Renting Audiences. Start Building Partnerships.
 Get the influencer match sample and see the creators who fit your brand, with the
 reasoning attached.
 
-CTA: Influencer match sample / See Pricing
+Influencer match sample / See Pricing

@@ -118,4 +118,4 @@ Win the Click, the Cart, and the Repeat.
 Run the free AI visibility audit and see who is winning your category's searches
 and AI answers today.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

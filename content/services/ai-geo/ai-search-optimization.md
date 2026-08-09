@@ -118,4 +118,4 @@ See Where AI Answers for You Today.
 Run the free AI visibility audit. 48 hours later you will know exactly which
 engines mention you, which competitors they mention instead, and what to fix.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

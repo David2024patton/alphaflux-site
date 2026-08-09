@@ -118,4 +118,4 @@ Your Leads Are Already in the Funnel. Stop Dropping Them.
 Get the flow map sample and see what a leak-proof follow-up system looks like for
 your business.
 
-CTA: Flow map sample / See Pricing
+Flow map sample / See Pricing

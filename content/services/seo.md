@@ -111,4 +111,4 @@ Put Your Site in Print.
 Get the free AI SEO audit. We will show you exactly what is leaking rankings and
 revenue, with a fix list you can verify yourself.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

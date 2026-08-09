@@ -106,4 +106,4 @@ Give Your Brand a Voice That Earns Its Place.
 Get the free AI visibility audit and a content plan built around what your buyers
 actually search and ask.
 
-CTA: Content sample pack / See Pricing
+Content sample pack / See Pricing

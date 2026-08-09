@@ -116,4 +116,4 @@ Stop Guessing. Start Knowing.
 See a sample dashboard and a one-page teardown of what your current reporting is
 missing.
 
-CTA: See a sample dashboard / See Pricing
+See a sample dashboard / See Pricing

@@ -124,4 +124,4 @@ Find Out Who Answers for You Right Now.
 Run the free AI visibility audit. In 48 hours you will know exactly who owns your
 answers, and what it takes to take them back.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

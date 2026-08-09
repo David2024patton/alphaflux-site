@@ -115,4 +115,4 @@ Every Location, Winning Its Market.
 Run the free AI visibility audit and see where your network is winning and where
 it is leaking.
 
-CTA: Get Your Free AI Visibility Audit / See Pricing
+Get Your Free AI Visibility Audit / See Pricing

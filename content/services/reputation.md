@@ -118,4 +118,4 @@ Prospects Are Reading Your Reviews. Make Them Work.
 Run the free review audit and see exactly what your reputation is costing you
 today.
 
-CTA: Free review audit / See Pricing
+Free review audit / See Pricing

@@ -118,4 +118,4 @@ Give Your Ads a Fighting Chance.
 Request a sample creative set and a one-page look at what your current creative is
 leaving on the table.
 
-CTA: Sample creative set / See Pricing
+Sample creative set / See Pricing

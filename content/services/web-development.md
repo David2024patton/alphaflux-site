@@ -110,4 +110,4 @@ If Your Site Is Costing You Leads, That Is a Fixable Problem.
 
 Request the site teardown. 72 hour turnaround, 25 point checklist, zero obligation.
 
-CTA: Request a site teardown / See Pricing
+Request a site teardown / See Pricing
