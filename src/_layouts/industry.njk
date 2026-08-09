@@ -1,0 +1,58 @@
+---
+layout: base.njk
+---
+{# Industry vertical page layout per design spec 4.3 #}
+{% set industryH1 = h1 or title %}
+
+<section class="hero service-hero">
+  <div class="hero-bg"></div>
+  <div class="hero-glow"></div>
+  <div class="container hero-content">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/industries/">Industries</a> <span aria-hidden="true">/</span> <span>{{ industryH1 }}</span>
+    </nav>
+    <h1 class="display-lg">{{ industryH1 }}</h1>
+    {% block heroLead %}{% endblock %}
+    <div class="cta-actions">
+      <a href="/services/ai-geo/ai-visibility-audit/" class="btn btn-accent btn-lg">Get Free AI Visibility Audit</a>
+      <a href="/pricing/" class="btn btn-secondary">See Published Pricing</a>
+    </div>
+  </div>
+</section>
+
+<section class="section proof-strip">
+  <div class="container">
+    <div class="proof-strip-content">
+      <p class="proof-strip-text">Industry-specialized teams. Published pricing. AI-powered campaigns.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container two-col">
+    <div class="two-col-main">
+      {{ content | safe }}
+    </div>
+    <aside class="two-col-side">
+      <div class="sticky-cta-card">
+        <h3>Grow Your {{ verticalName or "Business" }}</h3>
+        <a href="/services/ai-geo/ai-visibility-audit/" class="btn btn-accent btn-block">Get Free AI Visibility Audit</a>
+        <p class="sticky-cta-phone"><a href="tel:(555)000-0000">(555) 000-0000</a></p>
+        <p class="sticky-cta-response">Response within 24 hours</p>
+      </div>
+    </aside>
+  </div>
+</section>
+
+{% block afterContent %}{% endblock %}
+
+<section class="cta-section cta-audit">
+  <div class="container">
+    <h2 class="cta-title">See How Visible You Are in AI Search</h2>
+    <p class="cta-desc">We audit your brand across Google, ChatGPT, Perplexity, and AI Overviews. Find out who answers for your brand right now, free.</p>
+    <div class="cta-actions">
+      <a href="/services/ai-geo/ai-visibility-audit/" class="btn btn-accent btn-lg">Get Your Free AI Visibility Audit</a>
+      <a href="/pricing/" class="btn btn-secondary">See Published Pricing</a>
+    </div>
+  </div>
+</section>
