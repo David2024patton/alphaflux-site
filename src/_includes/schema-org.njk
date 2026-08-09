@@ -2,7 +2,7 @@
 {
   "@context": "https://schema.org",
   "@type": "{% if schemaType %}{{ schemaType }}{% else %}WebPage{% endif %}",
-  "name": "{% if title %}{{ title }} | {% endif %}{{ site.name }}",
+  "name": "{{ title or site.name }}",
   "description": "{{ description or site.description }}",
   "url": "{{ site.url }}{{ page.url }}",
   "isPartOf": {
