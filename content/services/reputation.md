@@ -11,5 +11,3 @@ moduleChips:
   - "FluxData"
   - "FluxContent"
 ---
-
-Own What Your Reviews Say Before Prospects Read Them.

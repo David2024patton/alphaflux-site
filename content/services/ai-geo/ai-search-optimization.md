@@ -11,5 +11,3 @@ moduleChips:
   - "FluxGEO"
   - "FluxMedia"
 ---
-
-Visible Where Your Buyers Ask: ChatGPT, Perplexity, Gemini, AI Overviews.

@@ -11,5 +11,3 @@ moduleChips:
   - "FluxContent"
   - "FluxMedia"
 ---
-
-Performance Creative That Earns Its Place in the Feed.

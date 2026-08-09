@@ -11,5 +11,3 @@ moduleChips:
   - "FluxContent"
   - "FluxMedia"
 ---
-
-Content and Community That Compound, Not Just Posts.

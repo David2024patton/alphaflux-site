@@ -11,5 +11,3 @@ moduleChips:
   - "FluxData"
   - "FluxContent"
 ---
-
-Flows That Convert Every Touchpoint Into a Pipeline.

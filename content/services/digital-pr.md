@@ -11,5 +11,3 @@ moduleChips:
   - "FluxContent"
   - "FluxSEO"
 ---
-
-Authority You Do Not Buy, Earned Where Journalists Link.

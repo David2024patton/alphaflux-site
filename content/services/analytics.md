@@ -10,5 +10,3 @@ schemaType: Service
 moduleChips:
   - "FluxData"
 ---
-
-A Dashboard You Trust, Delivered Monthly.

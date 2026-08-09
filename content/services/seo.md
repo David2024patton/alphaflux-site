@@ -12,5 +12,3 @@ moduleChips:
   - "FluxGEO"
   - "FluxContent"
 ---
-
-Rank Where Your Buyers Search, Including the AI Answers They Ask First.

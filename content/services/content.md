@@ -11,5 +11,3 @@ moduleChips:
   - "FluxContent"
   - "FluxSEO"
 ---
-
-Editorial With an Engine: AI Scale, Human Quality.

@@ -11,5 +11,3 @@ moduleChips:
   - "FluxSEO"
   - "FluxData"
 ---
-
-Rank the App Stores the Way You Rank Google.

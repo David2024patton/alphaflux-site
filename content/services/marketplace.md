@@ -11,5 +11,3 @@ moduleChips:
   - "FluxMedia"
   - "FluxData"
 ---
-
-Win the Search That Starts on the Store, Not Google.

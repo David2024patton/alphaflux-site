@@ -12,5 +12,3 @@ moduleChips:
   - "FluxSEO"
   - "FluxData"
 ---
-
-Own the Answers AI Engines Give Your Buyers. FluxGEO Is the Reason.

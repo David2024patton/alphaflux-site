@@ -12,5 +12,3 @@ moduleChips:
   - "FluxSEO"
   - "FluxData"
 ---
-
-Sub-Second, Mobile-First, SEO-Ready Websites.

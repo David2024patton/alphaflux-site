@@ -11,5 +11,3 @@ moduleChips:
   - "FluxMedia"
   - "FluxData"
 ---
-
-Audiences You Do Not Rent, Partnerships You Measure.

@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "AlphaFlux Marketing Agency - Full static website",
   "scripts": {
-    "build": "npx @11ty/eleventy",
+    "build": "npm run bundle-css && npx @11ty/eleventy",
+    "bundle-css": "node scripts/build-css-bundle.js",
     "dev": "npx @11ty/eleventy --serve",
     "clean": "rm -rf _site",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy"

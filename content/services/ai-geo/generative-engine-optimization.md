@@ -11,5 +11,3 @@ moduleChips:
   - "FluxGEO"
   - "FluxSEO"
 ---
-
-GEO: The Science of Being the Source AI Engines Cite.

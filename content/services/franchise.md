@@ -12,5 +12,3 @@ moduleChips:
   - "FluxMedia"
   - "FluxData"
 ---
-
-One System, Every Location, Consistent Growth.

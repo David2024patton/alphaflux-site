@@ -11,5 +11,3 @@ moduleChips:
   - "FluxMedia"
   - "FluxData"
 ---
-
-Paid Media Managed for Efficiency, Not Vanity Spend.
