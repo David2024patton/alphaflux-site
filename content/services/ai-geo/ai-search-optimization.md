@@ -85,24 +85,24 @@ Answers You Can Track, Not Just Hope For.
 
 ## FAQ
 
-**Q: Can you really control what ChatGPT says about a brand?**
-A: No one controls what an AI says, and anyone who promises that is selling
+**Can you really control what ChatGPT says about a brand?**
+No one controls what an AI says, and anyone who promises that is selling
 something. What we do is engineer the signals engines weigh: entity consistency,
 structured data, source authority, and quotable content. That measurably moves
 citation share.
 
-**Q: What are ChatGPT Ads?**
-A: Sponsored placements inside AI conversations, a new paid surface. We plan,
+**What are ChatGPT Ads?**
+Sponsored placements inside AI conversations, a new paid surface. We plan,
 launch, and measure them under the same flat-fee, client-owned-account model as
 every other channel.
 
-**Q: How is this different from GEO?**
-A: GEO is the broader citation science. AI search optimization is the applied
+**How is this different from GEO?**
+GEO is the broader citation science. AI search optimization is the applied
 campaign work across the specific engines, including paid AI presence. They run
 together on FluxGEO.
 
-**Q: Do we need AI search if we already rank on Google?**
-A: If your buyers ask AI first, yes. AI answers are replacing the first click for
+**Do we need AI search if we already rank on Google?**
+If your buyers ask AI first, yes. AI answers are replacing the first click for
 a growing share of demand. Being cited there is the new ranking.
 
 ---

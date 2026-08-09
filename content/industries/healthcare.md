@@ -88,23 +88,23 @@ Results We Can Show.
 
 ## FAQ
 
-**Q: Are you HIPAA-aware?**
-A: Yes. We design tracking, forms, and content with healthcare privacy rules in
+**Are you HIPAA-aware?**
+Yes. We design tracking, forms, and content with healthcare privacy rules in
 mind, and we flag compliance questions for your review before anything ships.
 
-**Q: Do you work with individual providers or systems?**
-A: Both. Single-practice local SEO and multi-location provider networks are
+**Do you work with individual providers or systems?**
+Both. Single-practice local SEO and multi-location provider networks are
 supported.
 
-**Q: What does healthcare marketing cost?**
-A: Plans start at $900/mo and scale with scope and compliance needs. See /pricing/.
+**What does healthcare marketing cost?**
+Plans start at $900/mo and scale with scope and compliance needs. See /pricing/.
 
-**Q: Do you work with dental, PT, and specialty practices?**
-A: Yes. The local SEO and reputation architecture fits any service-area
+**Do you work with dental, PT, and specialty practices?**
+Yes. The local SEO and reputation architecture fits any service-area
 practice model, from single providers to multi-location groups.
 
-**Q: Can you manage provider-level pages for networks?**
-A: Yes. Multi-location provider pages are supported, with each provider and
+**Can you manage provider-level pages for networks?**
+Yes. Multi-location provider pages are supported, with each provider and
 service area getting its own rankable surface.
 
 ---

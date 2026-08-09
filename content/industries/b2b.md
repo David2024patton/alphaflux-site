@@ -92,23 +92,23 @@ Results We Can Show.
 
 ## FAQ
 
-**Q: Do you understand long sales cycles?**
-A: Yes. Our attribution and lifecycle work is built for cycles measured in
+**Do you understand long sales cycles?**
+Yes. Our attribution and lifecycle work is built for cycles measured in
 quarters, not clicks.
 
-**Q: Can you handle ABM-style programs?**
-A: We support account-based motions through paid, content, and automation
+**Can you handle ABM-style programs?**
+We support account-based motions through paid, content, and automation
 architecture. The program is scoped to your ICP.
 
-**Q: What does B2B marketing cost?**
-A: Plans start at $900/mo and scale with scope. See /pricing/.
+**What does B2B marketing cost?**
+Plans start at $900/mo and scale with scope. See /pricing/.
 
-**Q: Do you work with early-stage and enterprise B2B?**
-A: Both. Starter and Growth fit pre-scale teams; strategic engagements from
+**Do you work with early-stage and enterprise B2B?**
+Both. Starter and Growth fit pre-scale teams; strategic engagements from
 $50K/mo cover enterprise revenue engines. Scope is set by ICP and cycle.
 
-**Q: How do you prove marketing drove revenue?**
-A: Influenced-revenue and SQL tracking in your CRM, plus AI answer share for
+**How do you prove marketing drove revenue?**
+Influenced-revenue and SQL tracking in your CRM, plus AI answer share for
 your category, reported every month. No vanity dashboards.
 
 ---

@@ -76,20 +76,20 @@ A Conversion Program With a Paper Trail.
 
 ## FAQ
 
-**Q: How many tests can you run?**
-A: The tier model starts at 1 to 2 tests per month and scales to 4+. Testing volume
+**How many tests can you run?**
+The tier model starts at 1 to 2 tests per month and scales to 4+. Testing volume
 matters less than decision quality, which is why every test carries a decision rule.
 
-**Q: Do we need a lot of traffic for CRO?**
-A: Statistical confidence needs volume, but behavior analytics and usability fixes
+**Do we need a lot of traffic for CRO?**
+Statistical confidence needs volume, but behavior analytics and usability fixes
 pay off at any scale. We scope the program to what your traffic can support.
 
-**Q: Is CRO part of web development?**
-A: CRO is strategy and testing; implementation may touch your site. Both live under
+**Is CRO part of web development?**
+CRO is strategy and testing; implementation may touch your site. Both live under
 one roof, so recommendations ship instead of gathering dust. See /services/web-development/.
 
-**Q: What does CRO cost?**
-A: CRO runs inside your retainer tier or as a standalone program. See /pricing/.
+**What does CRO cost?**
+CRO runs inside your retainer tier or as a standalone program. See /pricing/.
 
 ---
 

@@ -74,20 +74,20 @@ ASO With a Paper Trail.
 
 ## FAQ
 
-**Q: Is ASO included in SEO?**
-A: ASO is a separate discipline with separate ranking systems, so it has its own
+**Is ASO included in SEO?**
+ASO is a separate discipline with separate ranking systems, so it has its own
 program. It runs alongside SEO and paid when the app is part of the funnel.
 
-**Q: How long until keyword rankings move?**
-A: Listing and keyword changes typically show movement in 2 to 6 weeks, with
+**How long until keyword rankings move?**
+Listing and keyword changes typically show movement in 2 to 6 weeks, with
 compounding over 2 to 3 months.
 
-**Q: Do you handle app store ratings and reviews?**
-A: We manage the strategy: review acquisition, response cadence, and using
+**Do you handle app store ratings and reviews?**
+We manage the strategy: review acquisition, response cadence, and using
 reviews in conversion. We do not buy or fake reviews, and neither should you.
 
-**Q: What does ASO cost?**
-A: ASO is scoped as a standalone program or add-on. See /pricing/ for anchors.
+**What does ASO cost?**
+ASO is scoped as a standalone program or add-on. See /pricing/ for anchors.
 
 ---
 ---

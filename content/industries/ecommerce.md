@@ -90,23 +90,23 @@ Results We Can Show.
 
 ## FAQ
 
-**Q: Do you manage our marketplace ads too?**
-A: Yes. Amazon, Walmart, and Instacart are a dedicated service line. See
+**Do you manage our marketplace ads too?**
+Yes. Amazon, Walmart, and Instacart are a dedicated service line. See
 /services/marketplace/.
 
-**Q: Can you handle high-volume product catalogs?**
-A: Yes. Feed management, faceted navigation, and category architecture are core
+**Can you handle high-volume product catalogs?**
+Yes. Feed management, faceted navigation, and category architecture are core
 to our ecommerce SEO.
 
-**Q: What does ecommerce marketing cost?**
-A: Plans start at $900/mo and scale with catalog and channel scope. See /pricing/.
+**What does ecommerce marketing cost?**
+Plans start at $900/mo and scale with catalog and channel scope. See /pricing/.
 
-**Q: Do you manage product feeds and promotions?**
-A: Yes. Feed management, promotions, and creative for shopping and marketplace
+**Do you manage product feeds and promotions?**
+Yes. Feed management, promotions, and creative for shopping and marketplace
 surfaces are part of the stack, kept in one catalog.
 
-**Q: How do you handle seasonal peaks?**
-A: Calendars are built around your catalog's peak seasons, with creative,
+**How do you handle seasonal peaks?**
+Calendars are built around your catalog's peak seasons, with creative,
 budget, and content ramped ahead of demand instead of behind it.
 
 ---

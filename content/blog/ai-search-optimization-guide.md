@@ -94,23 +94,23 @@ accounts. Treat them as a new surface with new rules, not a bolt-on.
 
 ## FAQ
 
-**Q: Can you really control what AI engines say about a brand?**
+**Can you really control what AI engines say about a brand?**
 
-A: No one controls outputs. You engineer the signals engines weigh: entity
+No one controls outputs. You engineer the signals engines weigh: entity
 consistency, structured data, authority, quotable content. That measurably moves
 citation share.
 
-**Q: How is AI search optimization different from GEO?**
+**How is AI search optimization different from GEO?**
 
-A: GEO is the citation science; AI search optimization is the applied campaign
+GEO is the citation science; AI search optimization is the applied campaign
 work across specific engines, including paid AI presence. They run together.
 
-**Q: Do I need this if I rank on Google?**
+**Do I need this if I rank on Google?**
 
-A: If your buyers ask AI first, yes. AI answers are replacing the first click
+If your buyers ask AI first, yes. AI answers are replacing the first click
 for a growing share of demand.
 
-**Q: How do I start?**
+**How do I start?**
 
-A: Run a visibility audit across the major engines. The report shows your
+Run a visibility audit across the major engines. The report shows your
 baseline, your gaps, and the fix list.

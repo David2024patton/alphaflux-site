@@ -90,23 +90,23 @@ Results We Can Show.
 
 ## FAQ
 
-**Q: Do you work with pest control, HVAC, roofing, and similar?**
-A: Yes. The local SEO architecture is built for service businesses with defined
+**Do you work with pest control, HVAC, roofing, and similar?**
+Yes. The local SEO architecture is built for service businesses with defined
 service areas and repeat-purchase models.
 
-**Q: Can you handle multiple locations?**
-A: Yes. Multi-location and franchise systems are a dedicated line. See
+**Can you handle multiple locations?**
+Yes. Multi-location and franchise systems are a dedicated line. See
 /services/franchise/.
 
-**Q: How fast can we start?**
-A: Onboarding runs about 3 days on the Starter plan. See /pricing/.
+**How fast can we start?**
+Onboarding runs about 3 days on the Starter plan. See /pricing/.
 
-**Q: Do you handle emergency-service businesses?**
-A: Yes, with call-first tracking and fast-start landing pages built for the
+**Do you handle emergency-service businesses?**
+Yes, with call-first tracking and fast-start landing pages built for the
 jobs that cannot wait.
 
-**Q: Do you work with single-location and multi-branch operators?**
-A: Both. Single-service-area local SEO and multi-location systems are
+**Do you work with single-location and multi-branch operators?**
+Both. Single-service-area local SEO and multi-location systems are
 supported, with franchise-grade architecture available as you grow.
 
 ---

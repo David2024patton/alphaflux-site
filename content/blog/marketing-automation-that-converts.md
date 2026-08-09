@@ -92,22 +92,22 @@ first."
 
 ## FAQ
 
-**Q: Is marketing automation the same as email marketing?**
+**Is marketing automation the same as email marketing?**
 
-A: No. Email is a channel; automation is the system that routes, scores, and
+No. Email is a channel; automation is the system that routes, scores, and
 nurtures across channels. You usually want both.
 
-**Q: What tools do we need?**
+**What tools do we need?**
 
-A: That depends on your funnel. A CRM, an email platform, and a way to connect
+That depends on your funnel. A CRM, an email platform, and a way to connect
 them covers most SMB and mid-market cases. Buy the stack after the audit, not
 before.
 
-**Q: How long does implementation take?**
+**How long does implementation take?**
 
-A: Simple routing can go live in days. Full scoring and CDP architecture runs
+Simple routing can go live in days. Full scoring and CDP architecture runs
 weeks. AlphaFlux onboarding runs 3 to 14 days depending on scope.
 
-**Q: Do we need automation at our size?**
+**Do we need automation at our size?**
 
-A: If you are losing leads to follow-up lag, yes. The system scales with you.
+If you are losing leads to follow-up lag, yes. The system scales with you.

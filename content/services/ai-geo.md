@@ -92,22 +92,22 @@ A Visibility Score You Can Watch Move.
 
 ## FAQ
 
-**Q: What is GEO?**
-A: Generative Engine Optimization is the practice of making your brand the source
+**What is GEO?**
+Generative Engine Optimization is the practice of making your brand the source
 AI answer engines cite. It combines structured data, entity building, quoted
 content, and authority signals. See the GEO program page for the full breakdown.
 
-**Q: How is this different from SEO?**
-A: SEO optimizes for ranking links. GEO optimizes for being cited in synthesized
+**How is this different from SEO?**
+SEO optimizes for ranking links. GEO optimizes for being cited in synthesized
 answers. They reinforce each other, which is why FluxGEO and FluxSEO run together.
 
-**Q: Do you offer a free way to see where we stand?**
-A: Yes. The Free AI Visibility Audit checks your brand and keywords across Google,
+**Do you offer a free way to see where we stand?**
+Yes. The Free AI Visibility Audit checks your brand and keywords across Google,
 ChatGPT, Perplexity, and AI Overviews, and delivers a 48 hour report with a
 visibility score and fix list. That is where every engagement starts.
 
-**Q: How soon do AI visibility gains show?**
-A: Citation wins typically start showing in 30 to 90 days. Entity and authority
+**How soon do AI visibility gains show?**
+Citation wins typically start showing in 30 to 90 days. Entity and authority
 building compounds over 3 to 6 months, which is why GEO runs as a program, not a
 project.
 

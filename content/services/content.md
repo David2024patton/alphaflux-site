@@ -75,20 +75,20 @@ Volume With a Quality Bar, Printed in the Contract.
 
 ## FAQ
 
-**Q: Is this AI-generated content?**
-A: AI drafts; humans edit, verify, and sign off. You get scale without the AI smell,
+**Is this AI-generated content?**
+AI drafts; humans edit, verify, and sign off. You get scale without the AI smell,
 and you will not find placeholder paragraphs or hallucinated stats in anything we ship.
 
-**Q: How many blog posts do we need?**
-A: The tier model starts at 4 posts per month and scales to 8+. Consistency beats
+**How many blog posts do we need?**
+The tier model starts at 4 posts per month and scales to 8+. Consistency beats
 volume: 4 good posts monthly for a year outranks 40 dumped in one month.
 
-**Q: Do you do SEO as part of content?**
-A: Every piece ships with on-page SEO, internal links, and schema. For the full
+**Do you do SEO as part of content?**
+Every piece ships with on-page SEO, internal links, and schema. For the full
 technical and authority program, see /services/seo/.
 
-**Q: What does content cost?**
-A: Content runs inside your retainer tier or as a standalone program. See /pricing/
+**What does content cost?**
+Content runs inside your retainer tier or as a standalone program. See /pricing/
 for transparent numbers and add-ons.
 
 ---

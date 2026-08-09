@@ -74,20 +74,20 @@ Reporting That Ends in a Decision.
 
 ## FAQ
 
-**Q: Do you use our existing tools?**
-A: Yes. We work in GA4, Looker, Power BI, Tableau, HubSpot, Salesforce, and your
+**Do you use our existing tools?**
+Yes. We work in GA4, Looker, Power BI, Tableau, HubSpot, Salesforce, and your
 existing stack. We fix broken tracking before we build anything on top of it.
 
-**Q: How is this different from a standard agency report?**
-A: Most reports are activity logs. Ours is a value report: what shipped, what
+**How is this different from a standard agency report?**
+Most reports are activity logs. Ours is a value report: what shipped, what
 moved, what we change next. Numbers first, narrative second.
 
-**Q: Is analytics included in every tier?**
-A: Every AlphaFlux tier includes a FluxData dashboard. Advanced attribution, MMM,
+**Is analytics included in every tier?**
+Every AlphaFlux tier includes a FluxData dashboard. Advanced attribution, MMM,
 and custom BI are add-ons. See /pricing/.
 
-**Q: Who owns the data?**
-A: You do. Client-owned accounts, client-held data, always.
+**Who owns the data?**
+You do. Client-owned accounts, client-held data, always.
 
 ---
 ---
@@ -107,7 +107,7 @@ between reporting and accountability.
 
 ## THE VALUE REPORT GAP
 
-Most marketing reports are busywork with a logo on top: impressions, clicks, and a list of activities that look busy. They answer what happened and dodge the only question that matters: was it worth it. The value report closes that gap with three sections: what shipped, what moved, and what we change next. Every number ties to revenue, every action has a cost, and the bottom line is whether the program paid for itself. A board member who reads a value report knows whether marketing earned its budget. A board member who reads an activity log knows what happened and learns nothing about what to do next.
+Most marketing reports are busywork with a logo on top: impressions, clicks, and a list of activities that look busy. They answer what happened and dodge the only question that matters: was it worth it. The value report closes that gap with three sections: what shipped, what moved, and what we change next. Every number ties to revenue, every action has a cost, and the bottom line is whether the program paid for itself. A board member who reads a value report knows whether marketing earned its budget. A board member who reads an activity log knows what happened and learns nothing about what to do next. That is the standard AlphaFlux ships every month.
 
 ## CTA
 

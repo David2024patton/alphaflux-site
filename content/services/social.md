@@ -79,21 +79,21 @@ Numbers on a Cadence, Not Vibes.
 
 ## FAQ
 
-**Q: Do you create the graphics too?**
-A: Copy and captions ship from our team; design is produced by our design partners
+**Do you create the graphics too?**
+Copy and captions ship from our team; design is produced by our design partners
 in the same pod, so calendars arrive with assets, not placeholders.
 
-**Q: How many platforms should we be on?**
-A: Fewer platforms done well beat five platforms done thinly. Most engagements run
+**How many platforms should we be on?**
+Fewer platforms done well beat five platforms done thinly. Most engagements run
 one to three platforms that match where your buyers actually are.
 
-**Q: How is AlphaFlux social different?**
-A: Every post runs through a strategy calendar with a stated job and CTA, every
+**How is AlphaFlux social different?**
+Every post runs through a strategy calendar with a stated job and CTA, every
 calendar ships with design tickets, and every month ends with numbers that decide
 what we do next. That is the difference between a feed and an asset.
 
-**Q: Does social include paid promotion?**
-A: Organic social is a separate service from paid social. See /services/ppc/ for
+**Does social include paid promotion?**
+Organic social is a separate service from paid social. See /services/ppc/ for
 paid. They work best together, which is why both live under one roof here.
 
 ---

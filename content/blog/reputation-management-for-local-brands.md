@@ -88,23 +88,23 @@ systems reinforce each other, which is why reputation and local SEO run together
 
 ## FAQ
 
-**Q: Can you make bad reviews disappear?**
+**Can you make bad reviews disappear?**
 
-A: No, and no honest agency will try. We build volume and visibility so your best
+No, and no honest agency will try. We build volume and visibility so your best
 reviews surface first, and we respond to criticism in a way that converts
 onlookers.
 
-**Q: Is it ethical to ask customers for reviews?**
+**Is it ethical to ask customers for reviews?**
 
-A: Yes, when done right: asking happy customers at the right moment, never
+Yes, when done right: asking happy customers at the right moment, never
 incentivizing specific ratings, and following platform rules.
 
-**Q: Does reputation affect SEO?**
+**Does reputation affect SEO?**
 
-A: Yes. Ratings schema and Google Business Profile signals feed local SEO
+Yes. Ratings schema and Google Business Profile signals feed local SEO
 directly.
 
-**Q: How fast can review volume grow?**
+**How fast can review volume grow?**
 
-A: With a request system in place, most local businesses can move from single
+With a request system in place, most local businesses can move from single
 digits to 20+ reviews per month within a quarter.

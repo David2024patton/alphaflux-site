@@ -75,21 +75,21 @@ Automation With an Audit Trail.
 
 ## FAQ
 
-**Q: Is this the same as email marketing?**
-A: Email is the channel; automation is the system. AlphaFlux does both. See
+**Is this the same as email marketing?**
+Email is the channel; automation is the system. AlphaFlux does both. See
 /services/email/ for the lifecycle copy and channel work.
 
-**Q: What platforms do you work with?**
-A: HubSpot, Salesforce, Marketo, Klaviyo, ActiveCampaign, and similar. The audit
+**What platforms do you work with?**
+HubSpot, Salesforce, Marketo, Klaviyo, ActiveCampaign, and similar. The audit
 recommends the right stack for your size; we do not sell you software we do not
 need.
 
-**Q: Do we need automation at our size?**
-A: If you are losing leads to follow-up lag, yes. We scope the system to your
+**Do we need automation at our size?**
+If you are losing leads to follow-up lag, yes. We scope the system to your
 volume, from simple routing to full CDP architecture.
 
-**Q: What does it cost?**
-A: Automation is a published service line, standalone or add-on. See /pricing/.
+**What does it cost?**
+Automation is a published service line, standalone or add-on. See /pricing/.
 
 ---
 ---

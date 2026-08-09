@@ -74,20 +74,20 @@ Creative With a Job and a Score.
 
 ## FAQ
 
-**Q: Do you do brand design or just ads?**
-A: Both. Brand identity, refresh, and full visual systems are services; so is
+**Do you do brand design or just ads?**
+Both. Brand identity, refresh, and full visual systems are services; so is
 performance creative. See the brand program options on this page and in /pricing/.
 
-**Q: Can you produce video?**
-A: Yes: short-form, long-form, motion graphics, and UGC sourcing. Video scripts
+**Can you produce video?**
+Yes: short-form, long-form, motion graphics, and UGC sourcing. Video scripts
 and production planning run through our content line.
 
-**Q: Is creative included in retainers?**
-A: Retainer tiers include creative at the Growth tier and above, and creative
+**Is creative included in retainers?**
+Retainer tiers include creative at the Growth tier and above, and creative
 add-ons are published. See /pricing/ for the numbers.
 
-**Q: Who owns the final assets?**
-A: You do. Delivered files and brand assets belong to the client on final payment,
+**Who owns the final assets?**
+You do. Delivered files and brand assets belong to the client on final payment,
 always.
 
 ---

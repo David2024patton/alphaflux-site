@@ -80,22 +80,22 @@ Honest Expectations, Printed Early.
 
 ## FAQ
 
-**Q: How is AlphaFlux SEO different from other agencies?**
-A: AI accelerates the research, auditing, and drafting so more real work ships per
+**How is AlphaFlux SEO different from other agencies?**
+AI accelerates the research, auditing, and drafting so more real work ships per
 month. Humans own strategy and quality. And we publish our pricing, so you know
 what the program costs before the sales call.
 
-**Q: Do you guarantee rankings?**
-A: No one honest guarantees rankings, because search engines do not sign contracts.
+**Do you guarantee rankings?**
+No one honest guarantees rankings, because search engines do not sign contracts.
 We guarantee delivery, reporting, and a strategy with a revenue case behind it.
 
-**Q: How long until I see results?**
-A: Technical and on-page fixes usually move within 30-90 days. Rankings for
+**How long until I see results?**
+Technical and on-page fixes usually move within 30-90 days. Rankings for
 competitive terms typically build over 3-6 months, which is why we work in
 6-12 month programs.
 
-**Q: What does SEO cost?**
-A: SEO runs inside our transparent tiers (Starter, Growth, Enterprise) or as a
+**What does SEO cost?**
+SEO runs inside our transparent tiers (Starter, Growth, Enterprise) or as a
 standalone program. See /pricing/ for numbers and add-ons.
 
 ---

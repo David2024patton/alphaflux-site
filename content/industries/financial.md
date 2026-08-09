@@ -90,23 +90,23 @@ Results We Can Show.
 
 ## FAQ
 
-**Q: Do you handle regulated advertising?**
-A: Yes. Copy, creative, and targeting are built with financial advertising and
+**Do you handle regulated advertising?**
+Yes. Copy, creative, and targeting are built with financial advertising and
 disclosure rules in mind, with a compliance review gate before launch.
 
-**Q: Can you support wealth, lending, fintech, and insurance?**
-A: All four. The programs differ by compliance surface and funnel, and we scope
+**Can you support wealth, lending, fintech, and insurance?**
+All four. The programs differ by compliance surface and funnel, and we scope
 accordingly.
 
-**Q: What does financial marketing cost?**
-A: Plans start at $900/mo and scale with scope and compliance needs. See /pricing/.
+**What does financial marketing cost?**
+Plans start at $900/mo and scale with scope and compliance needs. See /pricing/.
 
-**Q: Do you handle disclosures in paid creative?**
-A: Yes. Disclosure and approval processes are part of the workflow, built in
+**Do you handle disclosures in paid creative?**
+Yes. Disclosure and approval processes are part of the workflow, built in
 before the first impression, not bolted on after review.
 
-**Q: Can you support RIA and advisor teams?**
-A: Yes, with branch and advisor-level local pages that turn local searches
+**Can you support RIA and advisor teams?**
+Yes, with branch and advisor-level local pages that turn local searches
 into consultations.
 
 ---

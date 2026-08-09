@@ -75,20 +75,20 @@ Every Dollar of Creator Spend, Accounted For.
 
 ## FAQ
 
-**Q: How do you vet creators?**
-A: Audience quality, engagement authenticity, content fit, and past campaign
+**How do you vet creators?**
+Audience quality, engagement authenticity, content fit, and past campaign
 performance. We pass on creators whose numbers do not hold up, regardless of size.
 
-**Q: Is influencer marketing only for consumer brands?**
-A: No. B2B thought leadership and executive creator partnerships are a growing
+**Is influencer marketing only for consumer brands?**
+No. B2B thought leadership and executive creator partnerships are a growing
 play, and we run both.
 
-**Q: Do you negotiate contracts?**
-A: Yes, with support for scopes, exclusivity, usage rights, and compliance. You
+**Do you negotiate contracts?**
+Yes, with support for scopes, exclusivity, usage rights, and compliance. You
 keep final approval.
 
-**Q: What does it cost?**
-A: Influencer programs are scoped per campaign or as an add-on. See /pricing/ for
+**What does it cost?**
+Influencer programs are scoped per campaign or as an add-on. See /pricing/ for
 published anchors.
 
 ---

@@ -99,23 +99,23 @@ together.
 
 ## FAQ
 
-**Q: Is GEO the same as SEO?**
+**Is GEO the same as SEO?**
 
-A: No, but they compound. SEO targets rankings; GEO targets citations inside AI
+No, but they compound. SEO targets rankings; GEO targets citations inside AI
 answers. Most programs should run both.
 
-**Q: How long until GEO shows results?**
+**How long until GEO shows results?**
 
-A: Structured data and entity fixes can move citations in 30 to 90 days.
+Structured data and entity fixes can move citations in 30 to 90 days.
 Authority building compounds over 3 to 6 months.
 
-**Q: Can I do GEO myself?**
+**Can I do GEO myself?**
 
-A: You can start with the entity, schema, and content fixes above. The
+You can start with the entity, schema, and content fixes above. The
 monitoring and authority layer is where a dedicated program earns its keep.
 
-**Q: How do I know where I stand?**
+**How do I know where I stand?**
 
-A: Run a visibility audit: check how your brand appears across ChatGPT,
+Run a visibility audit: check how your brand appears across ChatGPT,
 Perplexity, Gemini, and AI Overviews. AlphaFlux offers this free; see the
 AI visibility audit page.

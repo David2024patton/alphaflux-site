@@ -89,23 +89,23 @@ published case.]
 
 ## FAQ
 
-**Q: Do you understand SaaS metrics?**
-A: Yes. MRR, CAC, LTV, payback, activation rate, and logo churn are the language
+**Do you understand SaaS metrics?**
+Yes. MRR, CAC, LTV, payback, activation rate, and logo churn are the language
 of every SaaS engagement we run.
 
-**Q: Can you support a product-led motion?**
-A: Yes: trial optimization, activation flows, and ASO for the app store surface
+**Can you support a product-led motion?**
+Yes: trial optimization, activation flows, and ASO for the app store surface
 all run under one roof.
 
-**Q: Do you work with early-stage SaaS?**
-A: The Starter and Growth plans fit pre-scale software companies. See /pricing/.
+**Do you work with early-stage SaaS?**
+The Starter and Growth plans fit pre-scale software companies. See /pricing/.
 
-**Q: Can you integrate with our CRM and product analytics?**
-A: Yes. Reporting connects to the tools you already run, so marketing is
+**Can you integrate with our CRM and product analytics?**
+Yes. Reporting connects to the tools you already run, so marketing is
 judged on the same data product and sales use.
 
-**Q: How do you approach category creation versus competition?**
-A: Both. Comparison content captures existing demand; category content builds
+**How do you approach category creation versus competition?**
+Both. Comparison content captures existing demand; category content builds
 the demand your product is best positioned to own.
 
 ---

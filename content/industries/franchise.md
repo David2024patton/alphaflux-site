@@ -88,22 +88,22 @@ Results We Can Show.
 
 ## FAQ
 
-**Q: How is this different from the franchise service page?**
-A: This is the vertical story for franchise networks; /services/franchise/ is the
+**How is this different from the franchise service page?**
+This is the vertical story for franchise networks; /services/franchise/ is the
 full program. Both lead to the same system.
 
-**Q: Can you handle 100+ locations?**
-A: Yes. The city x service architecture and network dashboard are built to scale.
+**Can you handle 100+ locations?**
+Yes. The city x service architecture and network dashboard are built to scale.
 
-**Q: What does franchise marketing cost?**
-A: Scoped by network size. See /pricing/ for anchors and setup fees.
+**What does franchise marketing cost?**
+Scoped by network size. See /pricing/ for anchors and setup fees.
 
-**Q: How do you get franchisee buy-in?**
-A: Enablement assets and playbooks built for adoption: short, specific, and
+**How do you get franchisee buy-in?**
+Enablement assets and playbooks built for adoption: short, specific, and
 ready to run, so locations follow the system because it is easy.
 
-**Q: Do you manage national and local paid together?**
-A: Yes. Centralized campaigns with local targeting and budget rules, so
+**Do you manage national and local paid together?**
+Yes. Centralized campaigns with local targeting and budget rules, so
 national brand dollars and local offers do not cannibalize each other.
 
 ---

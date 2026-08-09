@@ -76,22 +76,22 @@ A Network You Can See, Manage, and Grow.
 
 ## FAQ
 
-**Q: Do franchisees have to do anything?**
-A: Some locations will need to approve local details, but the system is built so
+**Do franchisees have to do anything?**
+Some locations will need to approve local details, but the system is built so
 franchisees get playbooks and assets instead of homework. Adoption is designed in,
 not hoped for.
 
-**Q: How do you handle 50 locations?**
-A: With templates and automation, not 50 times the manual work. The city x
+**How do you handle 50 locations?**
+With templates and automation, not 50 times the manual work. The city x
 service architecture generates pages at scale, and one dashboard runs the whole
 network.
 
-**Q: Do you work with the corporate office or franchisees?**
-A: Both. Corporate sets the system and the brand; franchisees get enablement and
+**Do you work with the corporate office or franchisees?**
+Both. Corporate sets the system and the brand; franchisees get enablement and
 local control where it matters. One pod runs it.
 
-**Q: What does franchise marketing cost?**
-A: Scoped by network size, standalone or add-on. See /pricing/ for anchors and
+**What does franchise marketing cost?**
+Scoped by network size, standalone or add-on. See /pricing/ for anchors and
 setup fees.
 
 ---

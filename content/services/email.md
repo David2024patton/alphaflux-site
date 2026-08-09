@@ -75,21 +75,21 @@ A Lifecycle That Works in the Background.
 
 ## FAQ
 
-**Q: Do you handle our email platform?**
-A: We work in your existing ESP (Klaviyo, HubSpot, Mailchimp, and similar) or
+**Do you handle our email platform?**
+We work in your existing ESP (Klaviyo, HubSpot, Mailchimp, and similar) or
 recommend one during the audit. We build flows, write copy, and manage strategy.
 
-**Q: How many sends per month?**
-A: The tier model starts at 4 sends per month plus automation flows, and scales to
+**How many sends per month?**
+The tier model starts at 4 sends per month plus automation flows, and scales to
 full lifecycle. Quality and segmentation beat raw send volume.
 
-**Q: Is email separate from marketing automation?**
-A: Email is the channel; marketing automation is the system that runs it across
+**Is email separate from marketing automation?**
+Email is the channel; marketing automation is the system that runs it across
 CRM, lead scoring, and nurture. See /services/marketing-automation/ for the full
 picture.
 
-**Q: What does email cost?**
-A: Email and lifecycle run inside your retainer tier or as a standalone program.
+**What does email cost?**
+Email and lifecycle run inside your retainer tier or as a standalone program.
 See /pricing/.
 
 ---

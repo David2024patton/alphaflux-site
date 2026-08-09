@@ -74,20 +74,20 @@ Marketplace Ads Run on the Same Rules as Everything Else.
 
 ## FAQ
 
-**Q: Do you manage the Amazon account or just the ads?**
-A: We manage advertising within your account. Listing optimization and catalog
+**Do you manage the Amazon account or just the ads?**
+We manage advertising within your account. Listing optimization and catalog
 health are part of the audit and program scope.
 
-**Q: What is a good ACoS?**
-A: It depends on margin and goal. We scope targets per product line and report
+**What is a good ACoS?**
+It depends on margin and goal. We scope targets per product line and report
 against them, instead of chasing a number that means nothing for your math.
 
-**Q: Is this included in the standard PPC retainer?**
-A: Marketplace ads are a dedicated service line, scoped as an add-on or a
+**Is this included in the standard PPC retainer?**
+Marketplace ads are a dedicated service line, scoped as an add-on or a
 standalone program. See /pricing/ for the numbers.
 
-**Q: Can we run Amazon and Google together?**
-A: Yes, and we recommend it. Marketplace search and Google search capture
+**Can we run Amazon and Google together?**
+Yes, and we recommend it. Marketplace search and Google search capture
 different intent. One pod runs both, so budget moves with the data.
 
 ---
@@ -108,7 +108,7 @@ model, so the spend moves with the data instead of defending separate silos.
 
 ## THE SHELF ECONOMICS
 
-Every product category on Amazon has a shelf, and the shelf has a limited number of spots. The brands in the top sponsored positions and the top organic results get the click. Everyone else gets scrolled past. That shelf is won or lost on three levers: listing quality, ad structure, and bid strategy, all tuned to the category economics. A generalist agency runs the same campaign template across every product. A specialist treats each ASIN as its own profit center with its own ACoS target, its own keyword set, and its own creative. When the catalog grows to hundreds of SKUs, the difference between template management and ASIN-level management is the difference between margin and noise.
+Every product category on Amazon has a shelf, and the shelf has a limited number of spots. The brands in the top sponsored positions and the top organic results get the click. Everyone else gets scrolled past. That shelf is won or lost on three levers: listing quality, ad structure, and bid strategy, all tuned to the category economics. A generalist agency runs the same campaign template across every product. A specialist treats each ASIN as its own profit center with its own ACoS target, its own keyword set, and its own creative. When the catalog grows to hundreds of SKUs, the difference between template management and ASIN-level management is the difference between margin and noise. That is the economics AlphaFlux optimizes for every marketplace client.
 
 ## CTA
 

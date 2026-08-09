@@ -81,22 +81,22 @@ A Website You Can Measure.
 
 ## FAQ
 
-**Q: Do you build on WordPress?**
-A: We build static-first by default: faster, safer, and no server runtime to
+**Do you build on WordPress?**
+We build static-first by default: faster, safer, and no server runtime to
 break. We migrate legacy platforms with full redirect maps so you keep your
 rankings. For clients who need a CMS, we recommend and build on the right tool for
 the job.
 
-**Q: How fast will our site load?**
-A: Sub-second is the standard. Static-first architecture plus optimized assets
+**How fast will our site load?**
+Sub-second is the standard. Static-first architecture plus optimized assets
 gets most builds under half a second on modern hosting.
 
-**Q: Can you fix our current site instead of rebuilding?**
-A: Often yes. The teardown tells us whether a fix or a rebuild is the honest
+**Can you fix our current site instead of rebuilding?**
+Often yes. The teardown tells us whether a fix or a rebuild is the honest
 answer, and we tell you which one before we bill anything.
 
-**Q: Do you handle hosting and maintenance?**
-A: Yes. Maintenance is a published a la carte service from $750/mo. See /pricing/.
+**Do you handle hosting and maintenance?**
+Yes. Maintenance is a published a la carte service from $750/mo. See /pricing/.
 
 ---
 

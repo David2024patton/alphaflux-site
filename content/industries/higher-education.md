@@ -91,22 +91,22 @@ launch.]
 
 ## FAQ
 
-**Q: Do you work with traditional and online programs?**
-A: Yes. Program-level SEO and paid scope differ by format, and we build for both.
+**Do you work with traditional and online programs?**
+Yes. Program-level SEO and paid scope differ by format, and we build for both.
 
-**Q: Can you support multi-campus institutions?**
-A: Yes, including program x campus page architecture and local visibility per
+**Can you support multi-campus institutions?**
+Yes, including program x campus page architecture and local visibility per
 campus.
 
-**Q: What does higher ed marketing cost?**
-A: Plans start at $900/mo and scale with scope. See /pricing/.
+**What does higher ed marketing cost?**
+Plans start at $900/mo and scale with scope. See /pricing/.
 
-**Q: Do you work with community colleges and four-year institutions?**
-A: Yes. Scope differs by program mix and admissions model, and we build for
+**Do you work with community colleges and four-year institutions?**
+Yes. Scope differs by program mix and admissions model, and we build for
 both.
 
-**Q: How do you handle accreditation-related claims?**
-A: Copy and claims route through your review before anything ships, so the
+**How do you handle accreditation-related claims?**
+Copy and claims route through your review before anything ships, so the
 standards your institution answers to stay in control.
 
 ---

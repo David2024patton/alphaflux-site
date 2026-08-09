@@ -88,21 +88,21 @@ Citation Share You Can Measure.
 
 ## FAQ
 
-**Q: Is GEO the same as SEO?**
-A: No, but they compound. SEO wins the ranking; GEO wins the citation inside the
+**Is GEO the same as SEO?**
+No, but they compound. SEO wins the ranking; GEO wins the citation inside the
 answer. Both run in an AlphaFlux engagement, with FluxGEO leading the AI surface
 and FluxSEO handling the classic one.
 
-**Q: How do AI engines decide who to cite?**
-A: They weigh entity consistency, structured data, source authority, freshness,
+**How do AI engines decide who to cite?**
+They weigh entity consistency, structured data, source authority, freshness,
 and how directly content answers the question. GEO optimizes all of those signals.
 
-**Q: How long until we see results?**
-A: Structured data and entity fixes can move citations within 30 to 90 days.
+**How long until we see results?**
+Structured data and entity fixes can move citations within 30 to 90 days.
 Authority building compounds over 3 to 6 months.
 
-**Q: Can you do GEO without SEO?**
-A: Technically yes, but it is a worse program. GEO and SEO reinforce each other.
+**Can you do GEO without SEO?**
+Technically yes, but it is a worse program. GEO and SEO reinforce each other.
 We scope them together by default.
 
 ---

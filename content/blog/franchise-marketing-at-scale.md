@@ -88,21 +88,21 @@ fills their schedule, they adopt it.
 
 ## FAQ
 
-**Q: Do franchisees have to do anything?**
+**Do franchisees have to do anything?**
 
-A: Some approve local details, but the system is built so franchisees get
+Some approve local details, but the system is built so franchisees get
 playbooks and assets instead of homework.
 
-**Q: Can this scale to 100+ locations?**
+**Can this scale to 100+ locations?**
 
-A: Yes. Templated generation and one dashboard are built for network scale.
+Yes. Templated generation and one dashboard are built for network scale.
 
-**Q: How is this different from just doing SEO for each location?**
+**How is this different from just doing SEO for each location?**
 
-A: Doing SEO 50 times manually is how networks end up inconsistent. One
+Doing SEO 50 times manually is how networks end up inconsistent. One
 architecture, generated at scale, keeps the network consistent and the cost
 linear.
 
-**Q: Who owns the accounts and data?**
+**Who owns the accounts and data?**
 
-A: The network does. Client-owned accounts, client-held data, always.
+The network does. Client-owned accounts, client-held data, always.

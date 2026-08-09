@@ -75,21 +75,21 @@ A Reputation You Can Point To.
 
 ## FAQ
 
-**Q: Can you make bad reviews disappear?**
-A: No, and we will not try. We build review volume and visibility so your best
+**Can you make bad reviews disappear?**
+No, and we will not try. We build review volume and visibility so your best
 reviews surface first, and we respond to criticism in a way that converts
 onlookers. That is how reputation actually compounds.
 
-**Q: Is it ethical to ask customers for reviews?**
-A: Yes, when done right: asking happy customers at the right moment, never
+**Is it ethical to ask customers for reviews?**
+Yes, when done right: asking happy customers at the right moment, never
 incentivizing specific ratings, and following platform rules. We design for that.
 
-**Q: Does reputation affect SEO?**
-A: Yes. Ratings schema and Google Business Profile signals feed local SEO
+**Does reputation affect SEO?**
+Yes. Ratings schema and Google Business Profile signals feed local SEO
 directly. Review visibility and rankings reinforce each other.
 
-**Q: What does reputation management cost?**
-A: It is a published service line, standalone or add-on. See /pricing/.
+**What does reputation management cost?**
+It is a published service line, standalone or add-on. See /pricing/.
 
 ---
 ---
@@ -109,7 +109,7 @@ ranking and your calendar, and it compounds with everything else you do.
 
 ## THE REVIEW SNOWBALL
 
-Reputation is a flywheel: more reviews attract more customers, more customers leave more reviews, and the cycle compounds. The brands with 300 reviews and a 4.8 rating did not get there by accident. They built a system that asks at the right moment, responds to every review, and optimizes the profiles that surface. The brands with 12 reviews and a 3.9 rating are losing customers every day to competitors they have never heard of, because the review is the first impression and the last tiebreaker. Reputation management is not crisis response. It is the system that makes crisis response unnecessary, because the review volume is high enough that one bad review is a signal, not a verdict.
+Reputation is a flywheel: more reviews attract more customers, more customers leave more reviews, and the cycle compounds. The brands with 300 reviews and a 4.8 rating did not get there by accident. They built a system that asks at the right moment, responds to every review, and optimizes the profiles that surface. The brands with 12 reviews and a 3.9 rating are losing customers every day to competitors they have never heard of, because the review is the first impression and the last tiebreaker. Reputation management is not crisis response. It is the system that makes crisis response unnecessary, because the review volume is high enough that one bad review is a signal, not a verdict. That is the flywheel AlphaFlux builds and runs for every client.
 
 ## CTA
 

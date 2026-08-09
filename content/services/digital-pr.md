@@ -75,21 +75,21 @@ Earned Authority, Measured Monthly.
 
 ## FAQ
 
-**Q: Do you guarantee placements?**
-A: No one honest guarantees media coverage, because editors decide. We guarantee
+**Do you guarantee placements?**
+No one honest guarantees media coverage, because editors decide. We guarantee
 the system: targeted outreach, real campaigns, and a monthly report of what
 landed and what is in flight.
 
-**Q: Is this the same as buying links?**
-A: No. We earn links through outreach and assets. Bought links are a risk to your
+**Is this the same as buying links?**
+No. We earn links through outreach and assets. Bought links are a risk to your
 site, not an investment in it.
 
-**Q: How does PR help with AI search?**
-A: Answer engines weight source authority heavily. Coverage in trusted
+**How does PR help with AI search?**
+Answer engines weight source authority heavily. Coverage in trusted
 publications is a direct signal that makes engines cite you.
 
-**Q: Is digital PR included in SEO?**
-A: It is a linked program. SEO runs the technical and on-page layer; digital PR
+**Is digital PR included in SEO?**
+It is a linked program. SEO runs the technical and on-page layer; digital PR
 builds the authority layer. They are scoped together in Growth and above. See
 /pricing/.
 

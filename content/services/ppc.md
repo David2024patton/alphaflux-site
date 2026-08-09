@@ -77,20 +77,20 @@ Numbers on a Cadence You Can Actually Use.
 
 ## FAQ
 
-**Q: Do you take a percentage of ad spend?**
-A: No. Ad spend flows through your accounts and is never marked up. This keeps us
+**Do you take a percentage of ad spend?**
+No. Ad spend flows through your accounts and is never marked up. This keeps us
 incentivized toward efficiency, not spend inflation.
 
-**Q: How much ad spend do we need to start?**
-A: It depends on channel and goal, but most engagements start between $5,000 and
+**How much ad spend do we need to start?**
+It depends on channel and goal, but most engagements start between $5,000 and
 $25,000 per month in spend, with management included in your retainer.
 
-**Q: What is your management fee?**
-A: Paid media management is included in your AlphaFlux retainer tier. See /pricing/
+**What is your management fee?**
+Paid media management is included in your AlphaFlux retainer tier. See /pricing/
 for the transparent breakdown.
 
-**Q: Do you manage Amazon ads?**
-A: Yes. Marketplace advertising is a dedicated service line. See
+**Do you manage Amazon ads?**
+Yes. Marketplace advertising is a dedicated service line. See
 /services/marketplace/ for details.
 
 ---

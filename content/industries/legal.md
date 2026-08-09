@@ -89,22 +89,22 @@ Results We Can Show.
 
 ## FAQ
 
-**Q: Do you understand legal advertising rules?**
-A: Yes. We build with state bar advertising and disclosure rules in mind and
+**Do you understand legal advertising rules?**
+Yes. We build with state bar advertising and disclosure rules in mind and
 route claims through your review before publication.
 
-**Q: Can you support multiple practice areas and locations?**
-A: Yes. City x practice area pages scale to the firm's footprint.
+**Can you support multiple practice areas and locations?**
+Yes. City x practice area pages scale to the firm's footprint.
 
-**Q: What does legal marketing cost?**
-A: Plans start at $900/mo and scale with scope. See /pricing/.
+**What does legal marketing cost?**
+Plans start at $900/mo and scale with scope. See /pricing/.
 
-**Q: Do you work with solo practitioners and multi-attorney firms?**
-A: Both. City x practice area pages scale to the firm's footprint, from one
+**Do you work with solo practitioners and multi-attorney firms?**
+Both. City x practice area pages scale to the firm's footprint, from one
 attorney to many offices.
 
-**Q: Can you support firms licensed in multiple states?**
-A: Yes, with compliance notes per jurisdiction built into the content and
+**Can you support firms licensed in multiple states?**
+Yes, with compliance notes per jurisdiction built into the content and
 advertising workflow.
 
 ---
