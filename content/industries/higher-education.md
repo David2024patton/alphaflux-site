@@ -80,9 +80,7 @@ The Higher Ed Growth Stack.
 
 ---
 
-## PROOF
-
-Results We Can Show.
+## Results We Can Show.
 
 [REAL DATA REQUIRED: higher education client case studies and metrics before
 launch.]

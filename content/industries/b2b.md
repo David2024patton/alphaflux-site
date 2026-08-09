@@ -82,9 +82,7 @@ The B2B Growth Stack.
 
 ---
 
-## PROOF
-
-Results We Can Show.
+## Results We Can Show.
 
 [REAL DATA REQUIRED: B2B client case studies and metrics before launch.]
 

@@ -78,9 +78,7 @@ The Healthcare Growth Stack.
 
 ---
 
-## PROOF
-
-Results We Can Show.
+## Results We Can Show.
 
 [REAL DATA REQUIRED: healthcare client case studies and metrics before launch.]
 

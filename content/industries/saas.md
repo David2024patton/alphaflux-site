@@ -77,9 +77,7 @@ The SaaS Growth Stack.
 
 ---
 
-## PROOF
-
-Results We Can Show.
+## Results We Can Show.
 
 [REAL DATA REQUIRED: SaaS client case studies and metrics before launch. See
 04_case_studies/ for the template and the alphaflux.net rebuild as the first

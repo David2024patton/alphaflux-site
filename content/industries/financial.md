@@ -80,9 +80,7 @@ The Financial Growth Stack.
 
 ---
 
-## PROOF
-
-Results We Can Show.
+## Results We Can Show.
 
 [REAL DATA REQUIRED: financial client case studies and metrics before launch.]
 

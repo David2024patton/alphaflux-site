@@ -80,9 +80,7 @@ The Ecommerce Growth Stack.
 
 ---
 
-## PROOF
-
-Results We Can Show.
+## Results We Can Show.
 
 [REAL DATA REQUIRED: ecommerce client case studies and metrics before launch.]
 

@@ -28,7 +28,7 @@ heroLead: 'Buyers no longer ask Google first. They ask ChatGPT, Perplexity, Gemi
 
 Search Is No Longer Ten Blue Links.
 
-Body: More than half of search-style queries now end in an AI answer, not a link.
+More than half of search-style queries now end in an AI answer, not a link.
 When a buyer asks "which marketing agency is best for my industry", the answer
 engines synthesize from a handful of sources. If your brand is not among them, you
 are invisible where your buyers now look first. This is not a future trend. It is

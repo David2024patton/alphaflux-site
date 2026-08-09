@@ -78,9 +78,7 @@ The Franchise Growth Stack.
 
 ---
 
-## PROOF
-
-Results We Can Show.
+## Results We Can Show.
 
 [REAL DATA REQUIRED: franchise network case studies and metrics before launch.]
 
