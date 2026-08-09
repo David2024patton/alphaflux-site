@@ -4,7 +4,7 @@ module.exports = {
   description: "AlphaFlux is an AI-native digital marketing agency that delivers superior results through the synthesis of deep human expertise and cutting-edge artificial intelligence. SEO, PPC, Social, Content, CRO, Email, Web Dev, AI/GEO, and Analytics.",
   url: "https://alphaflux.net",
   locale: "en_US",
-  ga4: "G-GZV90ZCT4E",
+  ga4: "", // DISABLED 2026-08-09: G-GZV90ZCT4E is Patriot Pest's property, NOT AlphaFlux. AlphaFlux ships analytics-off until David supplies its own GA4 ID.
   cacheBust: "v2",
   formSubmitInbox: "REPLACE_WITH_INBOX_EMAIL",
   author: {

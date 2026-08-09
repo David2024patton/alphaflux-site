@@ -18,7 +18,8 @@
 <meta name="twitter:title" content="{{ title or site.name }}">
 <meta name="twitter:description" content="{{ description or site.description }}">
 
-<!-- GA4 -->
+<!-- GA4 (disabled when site.ga4 is empty; AlphaFlux ships analytics-off until David supplies its own property) -->
+{% if site.ga4 %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4 }}"></script>
 <script>
 window.dataLayer = window.dataLayer || [];
@@ -26,6 +27,7 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', '{{ site.ga4 }}');
 </script>
+{% endif %}
 
 <!-- CSS (self-hosted Inter + design system) -->
 <style>{% include "bundle.css" %}</style>
