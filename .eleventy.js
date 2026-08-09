@@ -9,7 +9,7 @@ module.exports = function (eleventyConfig) {
 
   // --- Passthrough Copy ---
   eleventyConfig.addPassthroughCopy("src/images");
-  eleventyConfig.addPassthroughCopy("src/fonts");
+  eleventyConfig.addPassthroughCopy({ "src/fonts": "fonts" });
   eleventyConfig.addPassthroughCopy("src/js/lib");
   eleventyConfig.addPassthroughCopy({ "src/robots.txt": "robots.txt" });
   eleventyConfig.addPassthroughCopy({ "src/favicon.ico": "favicon.ico" });

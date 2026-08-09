@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "AlphaFlux Marketing Agency - Full static website",
   "scripts": {
-    "build": "ELEVENTY_ENV=production npx @11ty/eleventy",
+    "build": "npx @11ty/eleventy",
     "dev": "npx @11ty/eleventy --serve",
     "clean": "rm -rf _site",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy"

@@ -40,6 +40,7 @@ module.exports = {
     { label: "B2B", url: "/industries/b2b/" },
     { label: "Home Services", url: "/industries/home-services/" },
     { label: "Healthcare", url: "/industries/healthcare/" },
+  { label: "Higher Education", url: "/industries/higher-education/" },
   ],
   footerCompany: [
     { label: "About", url: "/about/" },

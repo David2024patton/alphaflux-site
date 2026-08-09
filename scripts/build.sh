@@ -12,17 +12,25 @@ cat > _site/sitemap.xml << 'XMLHEAD'
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 XMLHEAD
 
-find _site -name "*.html" | while read f; do
+find _site -name "*.html" ! -name "404.html" | sort | while read f; do
   rel="${f#_site/}"
   dir=$(dirname "$rel")
   base=$(basename "$rel")
   if [ "$base" = "index.html" ]; then
-    urlpath="/${dir}/"
-    [ "$urlpath" = "//" ] && urlpath="/"
+    if [ "$dir" = "." ]; then
+      urlpath="/"
+    else
+      urlpath="/${dir}/"
+    fi
   else
     nameonly="${base%.html}"
-    urlpath="/${dir}/${nameonly}/"
+    if [ "$dir" = "." ]; then
+      urlpath="/${nameonly}/"
+    else
+      urlpath="/${dir}/${nameonly}/"
+    fi
   fi
+  urlpath=$(echo "$urlpath" | sed 's|//|/|g')
   priority="0.6"
   [ "$urlpath" = "/" ] && priority="1.0"
   echo "$urlpath" | grep -q "^/services/" && priority="0.9"
