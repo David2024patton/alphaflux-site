@@ -107,6 +107,10 @@ flow performance. The system should be boring and reliable, not clever and
 broken. If a flow cannot state its job in one sentence, it should not ship.
 
 
+## WHY AUTOMATION PROJECTS FAIL
+
+Most automation projects fail before the first flow ships, because they start with the tool instead of the outcome. The CRM is purchased, the integration is wired, and then someone asks what the flows should actually do. The right order is: map the customer journey first, score the leads, then buy the tool that fits the map. The second failure mode is set-and-forget: flows that launch, run for six months, and die because nobody read their conversion numbers. The third is data quality: automations wired on top of a CRM that nobody updates, sending leads to the wrong rep or scoring contacts that are already closed-lost. Every one of these is fixable in the audit, and every one of them costs more in lost revenue than the automation cost to build.
+
 ## CTA
 
 Your Leads Are Already in the Funnel. Stop Dropping Them.

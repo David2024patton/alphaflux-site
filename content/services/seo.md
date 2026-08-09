@@ -100,6 +100,10 @@ standalone program. See /pricing/ for numbers and add-ons.
 
 ---
 
+## THE SEO COMPOUND EFFECT
+
+SEO is not a project with a finish line. It is a program that compounds monthly. Month one closes the technical gaps that are costing you rankings. Month three starts building topic clusters and authority. Month six shows the trend line. Month twelve shows the return. The brands that win are not the ones with the biggest budget. They are the ones that stayed in the program long enough for the compound effect to kick in while their competitors cycled through one-off SEO projects that ended where they started. The value of SEO is not the first ranking. It is the fact that a ranking, once earned and maintained, earns revenue every month without a media cost attached.
+
 ## CTA
 
 Put Your Site in Print.

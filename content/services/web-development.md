@@ -100,6 +100,10 @@ A: Yes. Maintenance is a published a la carte service from $750/mo. See /pricing
 
 ---
 
+## STATIC-FIRST: WHY IT MATTERS
+
+Static sites are faster, safer, and simpler than any dynamic platform. No database to patch, no plugin to update, no server runtime to crash under traffic. A static site serves pre-built HTML, CSS, and JavaScript from a CDN, and it loads in under a second anywhere in the world. Search engines reward speed; users reward speed with higher conversion rates. The trade-off is that content management requires a build step, not a live admin panel. That trade-off is worth it for almost every marketing site, because the things that break WordPress sites (plugins, updates, PHP versions, database corruption) do not exist in a static build. The sites we build are designed to stay fast, stay secure, and stay ranked with minimal maintenance.
+
 ## CTA
 
 If Your Site Is Costing You Leads, That Is a Fixable Problem.

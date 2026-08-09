@@ -3,6 +3,23 @@ layout: base.njk
 title: "Marketing Agency Pricing | AlphaFlux"
 description: "Transparent marketing agency pricing. Published plans from $900/month. Flat-fee management, client-owned ad accounts, itemized scopes. No surprises, ever."
 schemaType: WebPage
+faq:
+  - question: 'Do I own my ad accounts?'
+    answer: 'Yes. Client-owned accounts, client-held data, always. You keep the keys to every ad account, analytics property, and domain. If we part ways, your data and accounts go with you.'
+  - question: 'Is ad spend included in the price?'
+    answer: 'No. Retainer is the management fee. Ad spend is separate and never a percentage of our fee. Your media budget goes to the platforms, not our margin.'
+  - question: 'How fast do we start?'
+    answer: 'Onboarding runs 3 days (Starter) to 14 days (Enterprise). Industry typical is 2 to 4 weeks. Our AI research layer starts mapping your market the hour you sign.'
+  - question: 'Can I start with one service?'
+    answer: 'Yes. A la carte pricing is published for every line. Start with the service that moves the needle fastest, then scale when the numbers justify it.'
+  - question: 'What does the setup fee cover?'
+    answer: 'Audit, keyword research, campaign build, analytics and CRM configuration, and onboarding. No surprise line items, no strategy charges that are really just setup.'
+  - question: 'What is the contract term?'
+    answer: 'Month to month after the initial term. Annual prepay saves 10%.'
+  - question: 'What if my existing website is broken?'
+    answer: 'We fix or rebuild it. Web development and CRO are published services, not upsell ambushes. You will know the cost before we write a line of code.'
+  - question: 'How do I know it is working?'
+    answer: 'Monthly value report: delivered versus paid, plus a live FluxData dashboard. Every engagement ships with a real-time dashboard. You never wonder what you are paying for.'
 ---
 <section class="hero" style="padding:var(--space-24) 0;">
   <div class="hero-bg"></div>
@@ -236,3 +253,45 @@ schemaType: WebPage
     <div class="cta-actions"><a href="/contact/" class="btn btn-accent btn-lg">Get Your Free AI Visibility Audit</a></div>
   </div>
 </section>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AlphaFlux Marketing Services",
+  "provider": {
+    "@type": "Organization",
+    "name": "AlphaFlux"
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "lowPrice": "900",
+    "highPrice": "50000",
+    "offerCount": "4",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Starter",
+        "price": "900",
+        "priceCurrency": "USD",
+        "description": "Local SMBs building a foundation. Local SEO, 2 blog posts per month, analytics dashboard, monthly strategy review, standard reporting, email and Slack support."
+      },
+      {
+        "@type": "Offer",
+        "name": "Growth",
+        "price": "3500",
+        "priceCurrency": "USD",
+        "description": "Growth-stage brands scaling channels. Everything in Starter plus advanced SEO, 4 blog posts per month, PPC management, social media, email marketing, creative services, phone support."
+      },
+      {
+        "@type": "Offer",
+        "name": "Enterprise",
+        "price": "8500",
+        "priceCurrency": "USD",
+        "description": "Multi-channel enterprise programs. Everything in Growth plus 8 plus blog posts per month, digital PR, CRO, marketing automation, dedicated pod lead, quarterly business reviews, enterprise SLA."
+      }
+    ]
+  }
+}
+</script>

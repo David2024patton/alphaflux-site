@@ -3,6 +3,12 @@ layout: base.njk
 ---
 {# Industry vertical page layout per design spec 4.3 #}
 {% set industryH1 = h1 or title %}
+{% set industryName = industryH1 %}
+{% set breadcrumbItems = [
+  { name: "Home", url: "/" },
+  { name: "Industries", url: "/industries/" },
+  { name: industryName, url: page.url }
+] %}
 
 <section class="hero service-hero">
   <div class="hero-bg"></div>

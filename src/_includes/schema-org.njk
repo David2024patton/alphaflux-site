@@ -25,6 +25,47 @@
   }
 }
 </script>
+{% set breadcrumbItems = [] %}
+{% if '/services/' in page.url and page.url != '/services/' and '/ai-visibility-audit/' not in page.url %}
+  {% set serviceName = (title or h1 or '') | replace(' | AlphaFlux', '') %}
+  {% set breadcrumbItems = [
+    { name: 'Home', url: '/' },
+    { name: 'Services', url: '/services/' },
+    { name: serviceName, url: page.url }
+  ] %}
+{% elif '/industries/' in page.url and page.url != '/industries/' %}
+  {% set industryName = h1 or title or '' %}
+  {% set breadcrumbItems = [
+    { name: 'Home', url: '/' },
+    { name: 'Industries', url: '/industries/' },
+    { name: industryName, url: page.url }
+  ] %}
+{% elif '/blog/' in page.url and page.url != '/blog/' %}
+  {% set postName = h1 or title or '' %}
+  {% set breadcrumbItems = [
+    { name: 'Home', url: '/' },
+    { name: 'Blog', url: '/blog/' },
+    { name: postName, url: page.url }
+  ] %}
+{% endif %}
+{% if breadcrumbItems and breadcrumbItems.length > 0 %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {% for item in breadcrumbItems %}
+    {
+      "@type": "ListItem",
+      "position": {{ loop.index }},
+      "name": "{{ item.name }}",
+      "item": "{{ site.url }}{{ item.url }}"
+    }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
 {% if faq and faq.length %}
 <script type="application/ld+json">
 {

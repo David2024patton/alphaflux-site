@@ -94,6 +94,12 @@ See /pricing/.
 
 ---
 
+## WHY EMAIL COMPOUNDS HARDER THAN PAID
+
+A dollar of paid spend buys one click. A dollar of email infrastructure buys a relationship that pays out every month. The math is simple: paid acquisition costs rise with competition; email cost stays flat while the list and the results compound. Every subscriber you onboard, every flow you optimize, and every segment you refine adds to a base that grows in value, not cost. The brands winning email today are not sending more. They are sending smarter, with behavioral triggers and dynamic content that makes every recipient feel like the only one on the list. When you own the list and the lifecycle, no algorithm change, no bid inflation, and no platform policy shift can take that asset away from you.
+
+The brands that master email are not the ones with the biggest lists. They are the ones whose segmentation says “this person bought X, browsed Y, and opened Z, so they get this offer.” That level of personalization is why email ROI sits at the top of every marketing channel comparison. A well-built lifecycle does not just pay for itself. It becomes the channel that funds every other channel.
+
 ## CTA
 
 Put Your List to Work.

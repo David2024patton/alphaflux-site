@@ -4,6 +4,11 @@ layout: base.njk
 {# Blog post layout #}
 {% set postTitle = h1 or title %}
 {% set postDate = date or "" %}
+{% set breadcrumbItems = [
+  { name: "Home", url: "/" },
+  { name: "Blog", url: "/blog/" },
+  { name: postTitle, url: page.url }
+] %}
 
 <article class="blog-post">
   <header class="blog-post-header" style="padding:var(--space-24) 0 var(--space-16);">

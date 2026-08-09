@@ -107,6 +107,10 @@ about polishing a badge. It is a conversion system that sits between your local
 ranking and your calendar, and it compounds with everything else you do.
 
 
+## THE REVIEW SNOWBALL
+
+Reputation is a flywheel: more reviews attract more customers, more customers leave more reviews, and the cycle compounds. The brands with 300 reviews and a 4.8 rating did not get there by accident. They built a system that asks at the right moment, responds to every review, and optimizes the profiles that surface. The brands with 12 reviews and a 3.9 rating are losing customers every day to competitors they have never heard of, because the review is the first impression and the last tiebreaker. Reputation management is not crisis response. It is the system that makes crisis response unnecessary, because the review volume is high enough that one bad review is a signal, not a verdict.
+
 ## CTA
 
 Prospects Are Reading Your Reviews. Make Them Work.

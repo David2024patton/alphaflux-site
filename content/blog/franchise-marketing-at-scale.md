@@ -6,6 +6,15 @@ h1: "Franchise Marketing at Scale: One System, Every Location."
 permalink: "/blog/franchise-marketing-at-scale/"
 date: 2026-08-01
 schemaType: Article
+faq:
+  - question: 'Do franchisees have to do anything?'
+    answer: 'Some approve local details, but the system is built so franchisees get playbooks and assets instead of homework.'
+  - question: 'Can this scale to 100+ locations?'
+    answer: 'Yes. Templated generation and one dashboard are built for network scale.'
+  - question: 'How is this different from just doing SEO for each location?'
+    answer: 'Doing SEO 50 times manually is how networks end up inconsistent. One architecture, generated at scale, keeps the network consistent and the cost linear.'
+  - question: 'Who owns the accounts and data?'
+    answer: 'The network does. Client-owned accounts, client-held data, always.'
 tags:
   - franchise
   - multi-location

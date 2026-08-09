@@ -6,6 +6,15 @@ h1: "AI Search Optimization: The Brand Playbook for ChatGPT, Perplexity, and AI 
 permalink: "/blog/ai-search-optimization-guide/"
 date: 2026-08-01
 schemaType: Article
+faq:
+  - question: 'Can you really control what AI engines say about a brand?'
+    answer: 'No one controls outputs. You engineer the signals engines weigh: entity consistency, structured data, authority, quotable content. That measurably moves citation share.'
+  - question: 'How is AI search optimization different from GEO?'
+    answer: 'GEO is the citation science; AI search optimization is the applied campaign work across specific engines, including paid AI presence. They run together.'
+  - question: 'Do I need this if I rank on Google?'
+    answer: 'If your buyers ask AI first, yes. AI answers are replacing the first click for a growing share of demand.'
+  - question: 'How do I start?'
+    answer: 'Run a visibility audit across the major engines. The report shows your baseline, your gaps, and the fix list.'
 tags:
   - ai-search
   - chatgpt

@@ -6,6 +6,15 @@ h1: "What Is GEO? Generative Engine Optimization Explained."
 permalink: "/blog/what-is-geo-generative-engine-optimization/"
 date: 2026-08-01
 schemaType: Article
+faq:
+  - question: 'Is GEO the same as SEO?'
+    answer: 'No, but they compound. SEO targets rankings; GEO targets citations inside AI answers. Most programs should run both.'
+  - question: 'How long until GEO shows results?'
+    answer: 'Structured data and entity fixes can move citations in 30 to 90 days. Authority building compounds over 3 to 6 months.'
+  - question: 'Can I do GEO myself?'
+    answer: 'You can start with the entity, schema, and content fixes above. The monitoring and authority layer is where a dedicated program earns its keep.'
+  - question: 'How do I know where I stand?'
+    answer: 'Run a visibility audit: check how your brand appears across ChatGPT, Perplexity, Gemini, and AI Overviews. AlphaFlux offers this free; see the AI visibility audit page.'
 tags:
   - geo
   - ai-search

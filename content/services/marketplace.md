@@ -106,6 +106,10 @@ research that precedes it. AlphaFlux runs both under one pod and one budget
 model, so the spend moves with the data instead of defending separate silos.
 
 
+## THE SHELF ECONOMICS
+
+Every product category on Amazon has a shelf, and the shelf has a limited number of spots. The brands in the top sponsored positions and the top organic results get the click. Everyone else gets scrolled past. That shelf is won or lost on three levers: listing quality, ad structure, and bid strategy, all tuned to the category economics. A generalist agency runs the same campaign template across every product. A specialist treats each ASIN as its own profit center with its own ACoS target, its own keyword set, and its own creative. When the catalog grows to hundreds of SKUs, the difference between template management and ASIN-level management is the difference between margin and noise.
+
 ## CTA
 
 Your Products Are On the Shelf. Are They Winning the Shelf?

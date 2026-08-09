@@ -110,6 +110,10 @@ pitched to the right journalists, compounds across every surface your buyers
 check.
 
 
+## LINK VALUE VERSUS LINK VOLUME
+
+One placement in a trusted publication is worth a hundred links from sites nobody reads. Search engines do not count links; they weight them. The weight comes from the publication’s own authority, the relevance of the page to your industry, and whether the link is surrounded by real editorial content. A placement in a major industry publication earns a link that moves rankings. A link from a directory nobody visits earns nothing except a line on a report. The difference is editorial value: real journalists, real stories, and real data that someone wants to cite. That is why digital PR replaces link buying: earned links from real publications keep earning long after the campaign ends, and bought links stop working the month the payment stops.
+
 ## CTA
 
 Your Authority Is a Balance Sheet. Build It on Purpose.

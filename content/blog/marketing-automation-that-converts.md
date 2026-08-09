@@ -6,6 +6,15 @@ h1: "Marketing Automation That Actually Converts, Not Just Automates."
 permalink: "/blog/marketing-automation-that-converts/"
 date: 2026-08-01
 schemaType: Article
+faq:
+  - question: 'Is marketing automation the same as email marketing?'
+    answer: 'No. Email is a channel; automation is the system that routes, scores, and nurtures across channels. You usually want both.'
+  - question: 'What tools do we need?'
+    answer: 'That depends on your funnel. A CRM, an email platform, and a way to connect them covers most SMB and mid-market cases. Buy the stack after the audit, not before.'
+  - question: 'How long does implementation take?'
+    answer: 'Simple routing can go live in days. Full scoring and CDP architecture runs weeks. AlphaFlux onboarding runs 3 to 14 days depending on scope.'
+  - question: 'Do we need automation at our size?'
+    answer: 'If you are losing leads to follow-up lag, yes. The system scales with you.'
 tags:
   - automation
   - lead-gen

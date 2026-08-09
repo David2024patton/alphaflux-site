@@ -4,6 +4,12 @@ layout: base.njk
 {# Service detail page layout per design spec 4.2 #}
 {% set serviceH1 = h1 or title %}
 {% set servicePrice = price or "" %}
+{% set serviceName = (title or serviceH1) | replace(" | AlphaFlux", "") %}
+{% set breadcrumbItems = [
+  { name: "Home", url: "/" },
+  { name: "Services", url: "/services/" },
+  { name: serviceName, url: page.url }
+] %}
 
 <section class="hero service-hero">
   <div class="hero-bg"></div>

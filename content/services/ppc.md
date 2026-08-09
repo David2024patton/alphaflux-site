@@ -95,6 +95,12 @@ A: Yes. Marketplace advertising is a dedicated service line. See
 
 ---
 
+## THE FLAT-FEE DIFFERENCE
+
+The standard agency model charges a percentage of ad spend. The more you spend, the more the agency earns. That misalignment is invisible on a spreadsheet and catastrophic to a budget. The flat-fee model removes the incentive to inflate spend. When management earns on quality, not budget growth, the optimization math flips: efficient spend, creative testing that kills losers fast, and a monthly report that celebrates the right numbers. Ad spend flows through your accounts and is never marked up. That is not a pricing detail. It is the structural difference between a partner who wants your margin to grow and a vendor who wants your budget to grow.
+
+The platforms want you to spend more. The agency model wants you to spend more. The flat-fee model wants you to spend efficiently. When your agency earns the same fee whether you spend five thousand or fifty thousand on media, the incentives align with your margin, not the platform’s revenue target. That is not a selling point. It is the foundation of a partnership.
+
 ## CTA
 
 Stop Paying for Clicks. Start Paying for Customers.

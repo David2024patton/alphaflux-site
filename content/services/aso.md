@@ -105,6 +105,12 @@ and they test it like one. That is the difference between an app that grows on
 budget and an app that grows on system.
 
 
+## THE STOREFRONT CONVERSION GAP
+
+Most app listings are written by developers, not marketers. The title is the product name, the description is a feature list, and the screenshots show the app, not what the app does for the user. A store listing is a landing page with a conversion rate, and most apps treat it like a form. The apps that win run the store listing as a marketing asset: keyword-rich title and subtitle, screenshots that show the outcome, and a description that answers the search query. The store algorithms rank for relevance, and relevance means matching the search intent. When the listing speaks the language of the searcher, not the developer, installs follow.
+
+The store algorithm is a search engine with different ranking signals. Title, subtitle, keyword field, and conversion rate are the levers. Reviews and ratings are the tiebreaker. The difference between ranking third and ranking first for a high-volume keyword is the difference between a business and a hobby. ASO is not a nice-to-have next to paid acquisition. It is the organic layer that makes paid acquisition profitable at scale.
+
 ## CTA
 
 Your App Is One Search Away From Its Next User.

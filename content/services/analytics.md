@@ -105,6 +105,10 @@ the whole thing is one page a board member can read. That is the difference
 between reporting and accountability.
 
 
+## THE VALUE REPORT GAP
+
+Most marketing reports are busywork with a logo on top: impressions, clicks, and a list of activities that look busy. They answer what happened and dodge the only question that matters: was it worth it. The value report closes that gap with three sections: what shipped, what moved, and what we change next. Every number ties to revenue, every action has a cost, and the bottom line is whether the program paid for itself. A board member who reads a value report knows whether marketing earned its budget. A board member who reads an activity log knows what happened and learns nothing about what to do next.
+
 ## CTA
 
 Stop Guessing. Start Knowing.

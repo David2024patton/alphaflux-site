@@ -3,7 +3,7 @@ layout: base.njk
 title: "Free AI Visibility Audit | Check Your Brand Across Google, ChatGPT & Perplexity | AlphaFlux"
 description: "Free AI visibility audit from AlphaFlux: see how your brand appears across AI engines."
 permalink: "/services/ai-geo/ai-visibility-audit/"
-schemaType: WebPage
+schemaType: Service
 faq:
   - question: 'Is the audit really free?'
     answer: 'Yes. No credit card, no trial period, no commitment. We run the audit, you get the report. If you want to act on the gaps, we talk about a program. If not, you keep the report.'
