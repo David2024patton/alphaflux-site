@@ -22,6 +22,20 @@ heroLead: 'B2B buyers research longer, trust more sources, and now ask AI engine
 
 ---
 
+# B2B VERTICAL PAGE
+
+## HERO
+
+B2B Marketing That Fills the Pipeline and Shortens the Cycle.
+
+B2B buyers research longer, trust more sources, and now ask AI
+engines before they ask sales. AlphaFlux builds the authority, content, and
+demand systems that make your brand the answer at every stage of the cycle.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## WHY B2B COMPANIES CHOOSE ALPHAFLUX
 
 Built for Long Cycles and Committee Decisions.
@@ -84,28 +98,32 @@ The B2B Growth Stack.
 
 ## Results We Can Show.
 
-[REAL DATA REQUIRED: B2B client case studies and metrics before launch.]
+The tracking comes first. We wire the dashboard, the CRM fields, and the
+attribution rules you will be reported against before any campaign runs, so
+the pipeline numbers are yours to audit from day one. Benchmarks we cite are
+labeled with their source, and client results publish only with the client's
+approval.
 
 ---
 
 ## FAQ
 
-**Do you understand long sales cycles?**
+Do you understand long sales cycles?
 Yes. Our attribution and lifecycle work is built for cycles measured in
 quarters, not clicks.
 
-**Can you handle ABM-style programs?**
+Can you handle ABM-style programs?
 We support account-based motions through paid, content, and automation
 architecture. The program is scoped to your ICP.
 
-**What does B2B marketing cost?**
+What does B2B marketing cost?
 Plans start at $900/mo and scale with scope. See /pricing/.
 
-**Do you work with early-stage and enterprise B2B?**
+Do you work with early-stage and enterprise B2B?
 Both. Starter and Growth fit pre-scale teams; strategic engagements from
 $50K/mo cover enterprise revenue engines. Scope is set by ICP and cycle.
 
-**How do you prove marketing drove revenue?**
+How do you prove marketing drove revenue?
 Influenced-revenue and SQL tracking in your CRM, plus AI answer share for
 your category, reported every month. No vanity dashboards.
 

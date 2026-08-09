@@ -22,6 +22,20 @@ heroLead: 'Home services run on local visibility: the map pack, the reviews, and
 
 ---
 
+# HOME SERVICES VERTICAL PAGE
+
+## HERO
+
+Home Services Marketing That Fills the Schedule.
+
+Home services run on local visibility: the map pack, the reviews,
+and the first call. AlphaFlux builds the local SEO, review systems, and paid
+campaigns that make your phone ring from the customers worth driving to.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## WHY HOME SERVICES COMPANIES CHOOSE ALPHAFLUX
 
 Built for the Map Pack and the First Call.
@@ -82,28 +96,31 @@ The Home Services Growth Stack.
 
 ## Results We Can Show.
 
-[REAL DATA REQUIRED: home services client case studies and metrics before launch.]
+Calls and booked jobs are the scoreboard. We wire call tracking and
+job-value reporting first, so you can watch leads turn into revenue in your
+own dashboard. Benchmarks we cite are labeled with their source, and client
+results publish only with the client's approval.
 
 ---
 
 ## FAQ
 
-**Do you work with pest control, HVAC, roofing, and similar?**
+Do you work with pest control, HVAC, roofing, and similar?
 Yes. The local SEO architecture is built for service businesses with defined
 service areas and repeat-purchase models.
 
-**Can you handle multiple locations?**
+Can you handle multiple locations?
 Yes. Multi-location and franchise systems are a dedicated line. See
 /services/franchise/.
 
-**How fast can we start?**
+How fast can we start?
 Onboarding runs about 3 days on the Starter plan. See /pricing/.
 
-**Do you handle emergency-service businesses?**
+Do you handle emergency-service businesses?
 Yes, with call-first tracking and fast-start landing pages built for the
 jobs that cannot wait.
 
-**Do you work with single-location and multi-branch operators?**
+Do you work with single-location and multi-branch operators?
 Both. Single-service-area local SEO and multi-location systems are
 supported, with franchise-grade architecture available as you grow.
 

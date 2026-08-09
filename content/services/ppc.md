@@ -23,6 +23,22 @@ heroLead: 'Clicks are cheap. Customers are not. AlphaFlux runs paid search, paid
 
 ---
 
+# PPC SERVICES PAGE
+
+## HERO
+
+Paid Media Managed for Efficiency, Not Vanity Spend.
+
+Clicks are cheap. Customers are not. AlphaFlux runs paid search, paid
+social, programmatic, and shopping campaigns against the only KPI that matters:
+efficient revenue. Ad spend flows through your accounts and is never marked up.
+
+Management from $1,200/mo. Ad spend never marked up.
+
+Get a media plan
+
+---
+
 ## WHAT PPC INCLUDES AT ALPHAFLUX
 
 Every Channel, One Strategy.
@@ -71,35 +87,35 @@ Numbers on a Cadence You Can Actually Use.
 - First full optimization cycle: within 2 weeks of launch.
 - Weekly performance summaries, monthly deep-dive reporting.
 - A dashboard that ties spend to pipeline and revenue, not just CTR.
-- [REAL DATA REQUIRED: verified ROAS/CPL benchmarks once accounts ship.]
+- A documented decision log for every bid and audience change, so the account improves with evidence, not guesses.
 
 ---
 
 ## FAQ
 
-**Do you take a percentage of ad spend?**
+Do you take a percentage of ad spend?
 No. Ad spend flows through your accounts and is never marked up. This keeps us
 incentivized toward efficiency, not spend inflation.
 
-**How much ad spend do we need to start?**
+How much ad spend do we need to start?
 It depends on channel and goal, but most engagements start between $5,000 and
 $25,000 per month in spend, with management included in your retainer.
 
-**What is your management fee?**
+What is your management fee?
 Paid media management is included in your AlphaFlux retainer tier. See /pricing/
 for the transparent breakdown.
 
-**Do you manage Amazon ads?**
+Do you manage Amazon ads?
 Yes. Marketplace advertising is a dedicated service line. See
 /services/marketplace/ for details.
 
 ---
 
-## THE FLAT-FEE DIFFERENCE
+## When Paid Is the Right Lever
 
-The standard agency model charges a percentage of ad spend. The more you spend, the more the agency earns. That misalignment is invisible on a spreadsheet and catastrophic to a budget. The flat-fee model removes the incentive to inflate spend. When management earns on quality, not budget growth, the optimization math flips: efficient spend, creative testing that kills losers fast, and a monthly report that celebrates the right numbers. Ad spend flows through your accounts and is never marked up. That is not a pricing detail. It is the structural difference between a partner who wants your margin to grow and a vendor who wants your budget to grow.
+Paid media is not always the answer, and the honest first conversation is about whether it is the answer for you. Paid works when there is intent to capture: search demand that exists today, a competitor's audience you can take, or a launch that needs velocity. Paid is the wrong lever when the funnel behind it leaks, the offer is untested, or the margin cannot carry the cost per acquisition. That is why the AlphaFlux engagement starts with the funnel, not the spend. We look at your landing pages, your offer, your pricing page, and your follow-up before we recommend a budget. When paid is right, it runs on a discipline: campaigns built around intent, creative tested in batches, bids managed weekly, and spend tied to pipeline, not clicks. Ad spend flows through your accounts and is never marked up, so our incentive is efficiency, not volume. The monthly report shows what the media actually added, measured against what would have happened anyway. That is incrementality, and it is the number that tells you whether the channel is earning its place.
 
-The platforms want you to spend more. The agency model wants you to spend more. The flat-fee model wants you to spend efficiently. When your agency earns the same fee whether you spend five thousand or fifty thousand on media, the incentives align with your margin, not the platform’s revenue target. That is not a selling point. It is the foundation of a partnership.
+---
 
 ## Stop Paying for Clicks. Start Paying for Customers.
 

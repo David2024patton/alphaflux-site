@@ -24,6 +24,23 @@ heroLead: 'Franchise marketing fails when every location improvises. AlphaFlux b
 
 ---
 
+# FRANCHISE & MULTI-LOCATION MARKETING PAGE
+
+## HERO
+
+One System, Every Location, Consistent Growth.
+
+Franchise marketing fails when every location improvises. AlphaFlux
+builds one system that every location runs: local SEO at scale, centralized paid
+media, location-level content, and review management, with a dashboard that shows
+the whole network at once.
+
+Scoped to your market. All plans from $900/mo. [See full pricing](/pricing/).
+
+Free location audit
+
+---
+
 ## WHAT FRANCHISE MARKETING INCLUDES AT ALPHAFLUX
 
 Central Control, Local Relevance.
@@ -70,27 +87,27 @@ A Network You Can See, Manage, and Grow.
 - A per-location audit, then a network-wide visibility baseline.
 - City x service pages that rank locally without franchisee effort.
 - Monthly network reporting: rankings, reviews, leads, and spend.
-- [REAL DATA REQUIRED: verified franchise network benchmarks once accounts ship.]
+- A per-location playbook and a network scorecard, so weak locations show up before they cost you leads.
 
 ---
 
 ## FAQ
 
-**Do franchisees have to do anything?**
+Do franchisees have to do anything?
 Some locations will need to approve local details, but the system is built so
 franchisees get playbooks and assets instead of homework. Adoption is designed in,
 not hoped for.
 
-**How do you handle 50 locations?**
+How do you handle 50 locations?
 With templates and automation, not 50 times the manual work. The city x
 service architecture generates pages at scale, and one dashboard runs the whole
 network.
 
-**Do you work with the corporate office or franchisees?**
+Do you work with the corporate office or franchisees?
 Both. Corporate sets the system and the brand; franchisees get enablement and
 local control where it matters. One pod runs it.
 
-**What does franchise marketing cost?**
+What does franchise marketing cost?
 Scoped by network size, standalone or add-on. See /pricing/ for anchors and
 setup fees.
 
@@ -110,9 +127,11 @@ improvising and start adopting, because the system fills their schedule. That is
 how a network turns marketing from a cost center into its best growth lever.
 
 
-## THE FRANCHISE CONTENT ARCHITECTURE
+## The Adoption Problem
 
-Multi-location marketing fails when every location reinvents the wheel. The content architecture that works is one system, generated at scale: a city-page template that pulls local data, a review-response system that knows which franchisee owns which location, and a paid media account structure that budgets at the network level but bids at the local level. Franchisees do not need to become marketers. They need a playbook that takes thirty minutes a week and a dashboard that shows whether it is working. The networks that win are the ones that centralize the system and localize the execution, with a report that ranks every location and shows the gap between the best and the rest.
+Franchise marketing does not fail on strategy; it fails on adoption. Corporate builds a beautiful campaign, and franchisees ignore it because it does not fit their market or their day. The AlphaFlux system designs adoption in from the start. Corporate sets the brand, the playbook, and the local architecture. Franchisees get assets, templates, and training they can run without being marketing experts. Local SEO pages generate at scale with city and service variations, so every location has a storefront without fifty locations reinventing the wheel. Reviews route to the right location for response, and the network dashboard shows every location's rankings, reviews, leads, and spend in one view. The weekly cadence surfaces winners and laggards, so corporate knows where to push and where to help. Franchisees stop improvising because the system fills their schedule with work that moves their local numbers. That alignment, corporate strategy plus local execution, is what turns a network of locations into one compounding brand.
+
+---
 
 ## One System. Every Location. Consistent Growth.
 

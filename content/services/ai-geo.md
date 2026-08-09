@@ -24,6 +24,23 @@ heroLead: 'Buyers no longer ask Google first. They ask ChatGPT, Perplexity, Gemi
 
 ---
 
+# AI SEARCH & GEO (PARENT PAGE)
+
+## HERO
+
+Own the Answers AI Engines Give Your Buyers. FluxGEO Is the Reason.
+
+Buyers no longer ask Google first. They ask ChatGPT, Perplexity,
+Gemini, and Google AI Overviews, and the brand that gets cited in those answers
+wins the click before the search ever happens. AlphaFlux built FluxGEO to own that
+surface, and it is the first module we lead with.
+
+From $1,500/mo. Free AI Visibility Audit included on request.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## THE SHIFT
 
 Search Is No Longer Ten Blue Links.
@@ -86,36 +103,38 @@ A Visibility Score You Can Watch Move.
 - A baseline GEO visibility score in week one.
 - Monthly citation share and answer presence reporting.
 - A fix list that ties directly to FluxGEO workstreams.
-- [REAL DATA REQUIRED: verified GEO visibility benchmarks once accounts ship.]
+- A month-over-month score you can watch move, with every change tied to the workstream that shipped it.
 
 ---
 
 ## FAQ
 
-**What is GEO?**
+What is GEO?
 Generative Engine Optimization is the practice of making your brand the source
 AI answer engines cite. It combines structured data, entity building, quoted
 content, and authority signals. See the GEO program page for the full breakdown.
 
-**How is this different from SEO?**
+How is this different from SEO?
 SEO optimizes for ranking links. GEO optimizes for being cited in synthesized
 answers. They reinforce each other, which is why FluxGEO and FluxSEO run together.
 
-**Do you offer a free way to see where we stand?**
+Do you offer a free way to see where we stand?
 Yes. The Free AI Visibility Audit checks your brand and keywords across Google,
 ChatGPT, Perplexity, and AI Overviews, and delivers a 48 hour report with a
 visibility score and fix list. That is where every engagement starts.
 
-**How soon do AI visibility gains show?**
+How soon do AI visibility gains show?
 Citation wins typically start showing in 30 to 90 days. Entity and authority
 building compounds over 3 to 6 months, which is why GEO runs as a program, not a
 project.
 
 ---
 
-## THE CITATION ADVANTAGE
+## The Answer Economy
 
-Traditional SEO wins the ranking. GEO wins the citation inside the answer. When a buyer asks ChatGPT who is the best marketing agency for healthcare, the engine does not return ten blue links. It synthesizes an answer from the brands it trusts most. If your brand is not in that answer, you are invisible to that buyer. GEO builds the signals that make engines trust you: entity consistency, structured data, quotable content, and source authority. The brands investing in GEO today are capturing a surface that most competitors have not discovered yet, and the first-mover advantage in AI citations compounds the same way first-page rankings did ten years ago.
+The shift from search results to synthesized answers is not coming; it is here, and it is reordering where demand flows. Every category now has a set of answers that shape buying decisions before a single click. The brands that own those answers get the consideration, and the brands that are absent never enter the conversation. FluxGEO exists because this surface is winnable: it runs on signals that can be measured and improved, citation share, entity consistency, and source authority. The programs on this page are the playbook for winning it, and the free AI visibility audit is the first step. In 48 hours you will know exactly who answers for your brand today, and what it takes to be the answer tomorrow.
+
+---
 
 ## Find Out Who Answers for You Right Now.
 

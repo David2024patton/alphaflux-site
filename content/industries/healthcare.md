@@ -22,6 +22,20 @@ heroLead: 'Healthcare marketing has a compliance layer most agencies ignore. Alp
 
 ---
 
+# HEALTHCARE VERTICAL PAGE
+
+## HERO
+
+Healthcare Marketing That Grows Patient Volume, Safely.
+
+Healthcare marketing has a compliance layer most agencies ignore.
+AlphaFlux builds patient growth systems that respect HIPAA and advertising rules:
+local visibility, reputation, and content that earns trust without risking it.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## WHY HEALTHCARE ORGANIZATIONS CHOOSE ALPHAFLUX
 
 Built for Trust and Compliance.
@@ -80,28 +94,31 @@ The Healthcare Growth Stack.
 
 ## Results We Can Show.
 
-[REAL DATA REQUIRED: healthcare client case studies and metrics before launch.]
+Compliance first, and honest reporting right behind it. Tracking is built
+inside the privacy guardrails, with patient volume and acquisition cost
+reported from your systems. Benchmarks we cite are labeled with their source,
+and client results publish only with the client's approval.
 
 ---
 
 ## FAQ
 
-**Are you HIPAA-aware?**
+Are you HIPAA-aware?
 Yes. We design tracking, forms, and content with healthcare privacy rules in
 mind, and we flag compliance questions for your review before anything ships.
 
-**Do you work with individual providers or systems?**
+Do you work with individual providers or systems?
 Both. Single-practice local SEO and multi-location provider networks are
 supported.
 
-**What does healthcare marketing cost?**
+What does healthcare marketing cost?
 Plans start at $900/mo and scale with scope and compliance needs. See /pricing/.
 
-**Do you work with dental, PT, and specialty practices?**
+Do you work with dental, PT, and specialty practices?
 Yes. The local SEO and reputation architecture fits any service-area
 practice model, from single providers to multi-location groups.
 
-**Can you manage provider-level pages for networks?**
+Can you manage provider-level pages for networks?
 Yes. Multi-location provider pages are supported, with each provider and
 service area getting its own rankable surface.
 

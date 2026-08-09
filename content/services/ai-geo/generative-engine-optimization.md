@@ -23,6 +23,22 @@ heroLead: 'Answer engines do not rank pages. They synthesize answers from truste
 
 ---
 
+# GENERATIVE ENGINE OPTIMIZATION (GEO) PAGE
+
+## HERO
+
+GEO: The Science of Being the Source AI Engines Cite.
+
+Answer engines do not rank pages. They synthesize answers from trusted
+sources. GEO is the practice of making your brand the source they cite, and FluxGEO
+is the system AlphaFlux built to run it.
+
+From $1,500/mo. Free AI Visibility Audit included on request.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## WHAT GEO IS
 
 The New Layer of Organic Visibility.
@@ -82,34 +98,36 @@ Citation Share You Can Measure.
 - A baseline GEO score, then a monthly visibility and citation share report.
 - Structured data and entity fixes shipped, not just recommended.
 - A fix list tied to revenue terms, not vanity terms.
-- [REAL DATA REQUIRED: verified GEO score movement once accounts ship.]
+- Every fix shipped with the score change it was meant to drive, so movement is explained by work, not weather.
 
 ---
 
 ## FAQ
 
-**Is GEO the same as SEO?**
+Is GEO the same as SEO?
 No, but they compound. SEO wins the ranking; GEO wins the citation inside the
 answer. Both run in an AlphaFlux engagement, with FluxGEO leading the AI surface
 and FluxSEO handling the classic one.
 
-**How do AI engines decide who to cite?**
+How do AI engines decide who to cite?
 They weigh entity consistency, structured data, source authority, freshness,
 and how directly content answers the question. GEO optimizes all of those signals.
 
-**How long until we see results?**
+How long until we see results?
 Structured data and entity fixes can move citations within 30 to 90 days.
 Authority building compounds over 3 to 6 months.
 
-**Can you do GEO without SEO?**
+Can you do GEO without SEO?
 Technically yes, but it is a worse program. GEO and SEO reinforce each other.
 We scope them together by default.
 
 ---
 
-## THE GEO LAYER
+## The Entity Layer
 
-GEO sits on top of SEO the way mobile SEO sat on top of desktop SEO a decade ago. It is a new layer of the same organic visibility problem, with new rules and a new mechanism. The mechanism is citation, not ranking. The signal is entity consistency and quotable content, not backlinks and keyword density. The surface is the answer engine, not the search results page. Every brand that invested early in mobile SEO captured traffic that late movers could never catch up. GEO is the same window, open right now, and the brands that build the entity layer and the quotable content today will own the citations when the rest of the market notices the surface exists.
+Every GEO program starts at the entity layer, because AI engines cannot cite a brand they cannot identify. Your name, address, logo, description, and category have to be consistent across your site, your profiles, and the directories engines crawl. One inconsistent detail is enough for an engine to treat your presence as uncertain, and uncertainty costs you the citation. The AlphaFlux GEO audit maps that consistency first, then fixes the gaps. Structured data is the second layer: Organization, Service, FAQ, Review, and HowTo schema give engines a parseable picture of what you offer and what others say about you. Quotable content is the third: clear, direct answers to the questions buyers actually ask, written so an engine can lift them into a synthesized response. Authority sits underneath all of it, because engines cite trusted sources. Entity, schema, quotable content, and authority are the four layers of the FluxGEO stack, and each one is measurable, which is why GEO is a program with a score and a fix list, not a hope.
+
+---
 
 ## Become the Source, Not the Snippet.
 

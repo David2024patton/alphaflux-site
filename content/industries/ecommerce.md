@@ -22,6 +22,20 @@ heroLead: 'Ecommerce is won on three numbers: traffic, conversion rate, and repe
 
 ---
 
+# ECOMMERCE VERTICAL PAGE
+
+## HERO
+
+eCommerce Marketing That Grows Revenue Per Session.
+
+Ecommerce is won on three numbers: traffic, conversion rate, and
+repeat purchase rate. AlphaFlux runs all three: SEO and shopping campaigns for
+traffic, CRO for conversion, and lifecycle email for the repeat buy.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## WHY ECOMMERCE BRANDS CHOOSE ALPHAFLUX
 
 Built for the Storefront, Online and On-Shelf.
@@ -82,28 +96,31 @@ The Ecommerce Growth Stack.
 
 ## Results We Can Show.
 
-[REAL DATA REQUIRED: ecommerce client case studies and metrics before launch.]
+The storefront is the scoreboard. We wire revenue and return-on-ad-spend
+tracking before the first campaign, so every dollar of spend lands in a
+report tied to sales. Benchmarks we cite are labeled with their source, and
+client results publish only with the client's approval.
 
 ---
 
 ## FAQ
 
-**Do you manage our marketplace ads too?**
+Do you manage our marketplace ads too?
 Yes. Amazon, Walmart, and Instacart are a dedicated service line. See
 /services/marketplace/.
 
-**Can you handle high-volume product catalogs?**
+Can you handle high-volume product catalogs?
 Yes. Feed management, faceted navigation, and category architecture are core
 to our ecommerce SEO.
 
-**What does ecommerce marketing cost?**
+What does ecommerce marketing cost?
 Plans start at $900/mo and scale with catalog and channel scope. See /pricing/.
 
-**Do you manage product feeds and promotions?**
+Do you manage product feeds and promotions?
 Yes. Feed management, promotions, and creative for shopping and marketplace
 surfaces are part of the stack, kept in one catalog.
 
-**How do you handle seasonal peaks?**
+How do you handle seasonal peaks?
 Calendars are built around your catalog's peak seasons, with creative,
 budget, and content ramped ahead of demand instead of behind it.
 

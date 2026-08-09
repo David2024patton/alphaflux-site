@@ -22,6 +22,23 @@ heroLead: 'Most marketing reports are busywork with a logo on top. AlphaFlux bui
 
 ---
 
+# ANALYTICS & REPORTING PAGE
+
+## HERO
+
+A Dashboard You Trust, Delivered Monthly.
+
+Most marketing reports are busywork with a logo on top. AlphaFlux
+builds live FluxData dashboards that tie spend to pipeline and revenue, plus a
+monthly value report that answers one question: what did we ship, and what did it
+move?
+
+From $500/mo.
+
+See a sample dashboard
+
+---
+
 ## WHAT ANALYTICS INCLUDES AT ALPHAFLUX
 
 The Intelligence Layer Under Every Service.
@@ -68,25 +85,25 @@ Reporting That Ends in a Decision.
 - A live dashboard you can open any day, not a PDF every month.
 - A monthly value report that compares delivered work to paid fees.
 - Tracking that is verified, not assumed.
-- [REAL DATA REQUIRED: verified reporting metrics once accounts ship.]
+- Every number traceable to its source, so the report survives a skeptical CFO.
 
 ---
 
 ## FAQ
 
-**Do you use our existing tools?**
+Do you use our existing tools?
 Yes. We work in GA4, Looker, Power BI, Tableau, HubSpot, Salesforce, and your
 existing stack. We fix broken tracking before we build anything on top of it.
 
-**How is this different from a standard agency report?**
+How is this different from a standard agency report?
 Most reports are activity logs. Ours is a value report: what shipped, what
 moved, what we change next. Numbers first, narrative second.
 
-**Is analytics included in every tier?**
+Is analytics included in every tier?
 Every AlphaFlux tier includes a FluxData dashboard. Advanced attribution, MMM,
 and custom BI are add-ons. See /pricing/.
 
-**Who owns the data?**
+Who owns the data?
 You do. Client-owned accounts, client-held data, always.
 
 ---
@@ -105,9 +122,11 @@ the whole thing is one page a board member can read. That is the difference
 between reporting and accountability.
 
 
-## THE VALUE REPORT GAP
+## Why Numbers Without Decisions Are Decor
 
-Most marketing reports are busywork with a logo on top: impressions, clicks, and a list of activities that look busy. They answer what happened and dodge the only question that matters: was it worth it. The value report closes that gap with three sections: what shipped, what moved, and what we change next. Every number ties to revenue, every action has a cost, and the bottom line is whether the program paid for itself. A board member who reads a value report knows whether marketing earned its budget. A board member who reads an activity log knows what happened and learns nothing about what to do next. That is the standard AlphaFlux ships every month.
+A dashboard full of charts is decoration if nobody acts on it. The AlphaFlux reporting standard is that every report ends in a decision: what shipped, what moved, and what we change next. The monthly value report is built for that standard. It compares delivered work to paid fees, shows which channels added revenue and which added cost, and names the next action with an owner. The live dashboard underneath gives you the numbers on demand, not on schedule: pipeline, spend, conversion, and the trend lines that matter. Tracking health is the foundation, because you cannot decide on data you do not trust. The audit verifies events, conversions, and platform wiring before we build anything on top, and GA4 health is a standing part of the program. Quarterly reviews go deeper: attribution, cohort analysis, and the budget moves the data supports. The reports you receive are the ones a board member can read and a manager can act on, which is the difference between reporting and accountability.
+
+---
 
 ## Stop Guessing. Start Knowing.
 

@@ -23,6 +23,23 @@ heroLead: 'The next generation of buyers starts in chat, and chat answers with b
 
 ---
 
+# AI SEARCH OPTIMIZATION PAGE
+
+## HERO
+
+Visible Where Your Buyers Ask: ChatGPT, Perplexity, Gemini, AI Overviews.
+
+The next generation of buyers starts in chat, and chat answers with
+brands it trusts. AlphaFlux runs AI search optimization on FluxGEO: your brand
+present in the answers, the recommendations, and the AI-driven research your buyers
+read before they buy.
+
+From $1,500/mo. Free AI Visibility Audit included on request.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## WHAT AI SEARCH OPTIMIZATION INCLUDES
 
 The Full AI Search Surface.
@@ -79,37 +96,39 @@ Answers You Can Track, Not Just Hope For.
 - A per-engine visibility baseline and monthly citation share report.
 - Campaign and presence work that is measured against pipeline, not impressions.
 - A fix list that tells you exactly what to do next.
-- [REAL DATA REQUIRED: verified AI visibility benchmarks once accounts ship.]
+- A per-engine scorecard that moves with the work, so presence improves where your buyers actually ask.
 
 ---
 
 ## FAQ
 
-**Can you really control what ChatGPT says about a brand?**
+Can you really control what ChatGPT says about a brand?
 No one controls what an AI says, and anyone who promises that is selling
 something. What we do is engineer the signals engines weigh: entity consistency,
 structured data, source authority, and quotable content. That measurably moves
 citation share.
 
-**What are ChatGPT Ads?**
+What are ChatGPT Ads?
 Sponsored placements inside AI conversations, a new paid surface. We plan,
 launch, and measure them under the same flat-fee, client-owned-account model as
 every other channel.
 
-**How is this different from GEO?**
+How is this different from GEO?
 GEO is the broader citation science. AI search optimization is the applied
 campaign work across the specific engines, including paid AI presence. They run
 together on FluxGEO.
 
-**Do we need AI search if we already rank on Google?**
+Do we need AI search if we already rank on Google?
 If your buyers ask AI first, yes. AI answers are replacing the first click for
 a growing share of demand. Being cited there is the new ranking.
 
 ---
 
-## THE AI ANSWER SURFACE
+## The AI Answer Funnel
 
-Every AI chatbot is a new search box, and every one of them cites sources. The brands that get cited in those answers win the click before the search ever happens. ChatGPT, Perplexity, Gemini, and Google AI Overviews each have their own citation logic, and each one weights sources differently. A brand cited in Perplexity may be invisible in Gemini. The strategy that works is surface-specific: entity schema that every engine can parse, content structured to answer direct questions, and authority signals that make every engine trust the source. AI search optimization is not one channel. It is five surfaces that share a common architecture, and the brands building that architecture today are the ones whose names will appear in the answers tomorrow.
+AI search follows a funnel, and each stage has a job. The first stage is presence: is your brand among the sources an engine can see at all? That is the audit, and it is where most brands discover they are invisible. The second stage is citation: when the engine writes an answer, does it name you? Citation comes from entity consistency, structured data, and source authority. The third stage is recommendation: does the answer point to you as the choice, not just a mention? That is where quotable content and positive coverage compound. The fourth stage is conversion: does the person who followed the answer land on a page that turns them into a customer? AlphaFlux runs all four stages as one program, measured by a monthly citation share report that shows movement engine by engine. The fix list ties each gap to a workstream, so the program is never a mystery. Consistency matters more than any single win, because AI engines update their answers constantly, and the brands that stay cited are the ones that keep feeding the signals.
+
+---
 
 ## See Where AI Answers for You Today.
 

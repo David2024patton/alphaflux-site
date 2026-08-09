@@ -24,6 +24,22 @@ heroLead: 'Rankings are not the goal. Revenue from organic search is. AlphaFlux 
 
 ---
 
+# SEO SERVICES PAGE
+
+## HERO
+
+Rank Where Your Buyers Search, Including the AI Answers They Ask First.
+
+Rankings are not the goal. Revenue from organic search is. AlphaFlux
+runs technical, on-page, and authority programs on FluxOS, with AI handling the
+grunt work and humans owning the strategy.
+
+Local SEO from $750/mo. Full programs from $2,000/mo.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## WHAT SEO INCLUDES AT ALPHAFLUX
 
 The Full Organic Engine, Not Just Blog Posts.
@@ -74,35 +90,37 @@ Honest Expectations, Printed Early.
 - First meaningful movement: 30-90 days (fixes) and 90-180 days (rankings).
 - Organic revenue, not vanity rankings, is the north star.
 - Monthly value report: what shipped, what moved, what is next.
-- [REAL DATA REQUIRED: add verified client result stats here before launch.]
+- Every fix logged with expected impact and a date, so the report reads as shipped work, not promises.
 
 ---
 
 ## FAQ
 
-**How is AlphaFlux SEO different from other agencies?**
+How is AlphaFlux SEO different from other agencies?
 AI accelerates the research, auditing, and drafting so more real work ships per
 month. Humans own strategy and quality. And we publish our pricing, so you know
 what the program costs before the sales call.
 
-**Do you guarantee rankings?**
+Do you guarantee rankings?
 No one honest guarantees rankings, because search engines do not sign contracts.
 We guarantee delivery, reporting, and a strategy with a revenue case behind it.
 
-**How long until I see results?**
+How long until I see results?
 Technical and on-page fixes usually move within 30-90 days. Rankings for
 competitive terms typically build over 3-6 months, which is why we work in
 6-12 month programs.
 
-**What does SEO cost?**
+What does SEO cost?
 SEO runs inside our transparent tiers (Starter, Growth, Enterprise) or as a
 standalone program. See /pricing/ for numbers and add-ons.
 
 ---
 
-## THE SEO COMPOUND EFFECT
+## Why SEO and GEO Compound
 
-SEO is not a project with a finish line. It is a program that compounds monthly. Month one closes the technical gaps that are costing you rankings. Month three starts building topic clusters and authority. Month six shows the trend line. Month twelve shows the return. The brands that win are not the ones with the biggest budget. They are the ones that stayed in the program long enough for the compound effect to kick in while their competitors cycled through one-off SEO projects that ended where they started. The value of SEO is not the first ranking. It is the fact that a ranking, once earned and maintained, earns revenue every month without a media cost attached.
+Classic SEO and AI search are not competing strategies; they are two ends of the same funnel, and AlphaFlux runs them as one engine. SEO wins the ranking: the technical foundation, the on-page optimization, and the authority that put your pages in the results. GEO wins the citation: the entity consistency, structured data, and quotable content that make AI engines name you in their answers. The signals overlap. A page with clean schema, strong content, and real authority performs in both systems, and every technical fix serves both. That is why the AlphaFlux program builds them together: technical audits and on-page work feed the ranking, while the same foundation feeds the citations. The monthly report covers both surfaces, with organic revenue as the north star and citation share as the leading indicator. Brands that treat them as one program get ahead of the shift, instead of chasing it after their demand has already moved to the answers.
+
+---
 
 ## Put Your Site in Print.
 

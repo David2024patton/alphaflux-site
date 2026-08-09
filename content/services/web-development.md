@@ -24,6 +24,23 @@ heroLead: 'Your website is your hardest working salesperson, and half the agency
 
 ---
 
+# WEB DESIGN & DEVELOPMENT PAGE
+
+## HERO
+
+Sub-Second, Mobile-First, SEO-Ready Websites.
+
+Your website is your hardest working salesperson, and half the agency
+sites in the market are broken. AlphaFlux builds static-first, accessible websites
+that load under a second, rank in search and AI answers, and convert the traffic
+you send them.
+
+Maintenance from $750/mo. Builds scoped.
+
+Request a site teardown
+
+---
+
 ## WHAT WEB DEVELOPMENT INCLUDES AT ALPHAFLUX
 
 From Teardown to Launch, Under One Roof.
@@ -74,35 +91,36 @@ A Website You Can Measure.
 - Sub-second load times and 100 Lighthouse performance at the QA gate.
 - Semantic HTML that search engines and AI engines can read.
 - A site that works on every device, with every link verified.
-- [REAL DATA REQUIRED: verified performance metrics from the QA gate and the
-  alphaflux.net rebuild itself, which is our first published case study.]
+- The alphaflux.net rebuild is the proof of process: its QA gate passed before launch, and the work is verifiable on request.
 
 ---
 
 ## FAQ
 
-**Do you build on WordPress?**
+Do you build on WordPress?
 We build static-first by default: faster, safer, and no server runtime to
 break. We migrate legacy platforms with full redirect maps so you keep your
 rankings. For clients who need a CMS, we recommend and build on the right tool for
 the job.
 
-**How fast will our site load?**
+How fast will our site load?
 Sub-second is the standard. Static-first architecture plus optimized assets
 gets most builds under half a second on modern hosting.
 
-**Can you fix our current site instead of rebuilding?**
+Can you fix our current site instead of rebuilding?
 Often yes. The teardown tells us whether a fix or a rebuild is the honest
 answer, and we tell you which one before we bill anything.
 
-**Do you handle hosting and maintenance?**
+Do you handle hosting and maintenance?
 Yes. Maintenance is a published a la carte service from $750/mo. See /pricing/.
 
 ---
 
-## STATIC-FIRST: WHY IT MATTERS
+## The Hidden Cost of a Slow Site
 
-Static sites are faster, safer, and simpler than any dynamic platform. No database to patch, no plugin to update, no server runtime to crash under traffic. A static site serves pre-built HTML, CSS, and JavaScript from a CDN, and it loads in under a second anywhere in the world. Search engines reward speed; users reward speed with higher conversion rates. The trade-off is that content management requires a build step, not a live admin panel. That trade-off is worth it for almost every marketing site, because the things that break WordPress sites (plugins, updates, PHP versions, database corruption) do not exist in a static build. The sites we build are designed to stay fast, stay secure, and stay ranked with minimal maintenance.
+Every second of load time taxes the whole funnel. A slow page costs you rankings, because speed is a ranking signal. It costs you conversions, because visitors leave before the page finishes. And it costs you trust, because a site that feels broken reads as a business that is broken. The AlphaFlux build standard exists to eliminate all three. Static-first architecture means no database queries, no plugin bloat, and no server runtime to slow things down or break. Pages are semantic HTML and CSS, built to load fast on the device most of your traffic actually uses, which is a phone. The QA gate checks performance, accessibility, and every link before launch, and the maintenance program keeps the site at launch quality: updates, security, and uptime watch. When we migrate a legacy platform, full redirect maps protect your rankings, so the move does not cost you the authority you built. A website is not a project you finish; it is an asset you maintain, and we build it to be maintained.
+
+---
 
 ## If Your Site Is Costing You Leads, That Is a Fixable Problem.
 

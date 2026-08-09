@@ -23,6 +23,23 @@ heroLead: 'Content is how you win search, feed your social, fill your email, and
 
 ---
 
+# CONTENT MARKETING PAGE
+
+## HERO
+
+Editorial With an Engine: AI Scale, Human Quality.
+
+Content is how you win search, feed your social, fill your email, and
+arm your sales team. AlphaFlux runs the whole content engine on FluxContent: AI
+drafts at scale, human editors guard the voice, and every piece answers one question
+or drives one action.
+
+Blog programs from $1,200/mo.
+
+Content sample pack
+
+---
+
 ## WHAT CONTENT INCLUDES AT ALPHAFLUX
 
 The Full Content System, Not Just Blog Posts.
@@ -69,35 +86,35 @@ Volume With a Quality Bar, Printed in the Contract.
 - A published calendar, not a content graveyard.
 - 4 to 8+ posts per month by tier, each with a brief, a KPI, and an edit pass.
 - Monthly reporting: rankings, organic sessions, and the leads content produced.
-- [REAL DATA REQUIRED: verified content performance metrics once accounts ship.]
+- Every piece tied to a keyword with business intent and a measured outcome, so the archive earns its page count.
 
 ---
 
 ## FAQ
 
-**Is this AI-generated content?**
+Is this AI-generated content?
 AI drafts; humans edit, verify, and sign off. You get scale without the AI smell,
 and you will not find placeholder paragraphs or hallucinated stats in anything we ship.
 
-**How many blog posts do we need?**
+How many blog posts do we need?
 The tier model starts at 4 posts per month and scales to 8+. Consistency beats
 volume: 4 good posts monthly for a year outranks 40 dumped in one month.
 
-**Do you do SEO as part of content?**
+Do you do SEO as part of content?
 Every piece ships with on-page SEO, internal links, and schema. For the full
 technical and authority program, see /services/seo/.
 
-**What does content cost?**
+What does content cost?
 Content runs inside your retainer tier or as a standalone program. See /pricing/
 for transparent numbers and add-ons.
 
 ---
 
-## THE COMPOUNDING CONTENT TRADE
+## The Quality Bar
 
-A blog post is not a publish-and-forget asset. It is a machine that earns compound interest. The post that ranks on page one today will earn traffic in month six without a dollar of additional spend. Content marketing is the only channel where last month’s investment keeps paying this month and the month after. The catch is that the content has to earn it: the right topic, the right depth, and the right structure to hold the ranking. AI can scale the draft, but human editors and a real brief decide whether the piece earns a spot on page one or page ten. The brands winning search today are the ones publishing fewer, better pieces on a schedule that compounds over years, not weeks.
+The quality bar is not a mood; it is a checklist that ships with every piece. Each article answers one question or drives one action, and if it does neither, it does not publish. The brief names the keyword, the intent, the audience, and the one-line job before drafting starts. Drafts come from AI at scale, but nothing ships without a senior editor's pass: voice, accuracy, claims, and structure all get checked, and any stat that cannot be verified is cut. On-page SEO, internal links, and schema land with the piece, not as an afterthought. Every piece carries a KPI, and the monthly loop is brutal about the numbers: winners get refreshed and repurposed, losers get rebuilt or retired. The result is a library that compounds. Each month the ranking pages earn more traffic, the cluster builds topical authority, and the pieces that convert feed the email list and the sales team. Consistency beats heroics. Four strong posts a month, every month, outrank forty posts dumped in one quarter. That is the engine, and the quality bar is what keeps it running.
 
-The calendar is the engine. Without it, content is a series of one-off bets. With it, every piece builds on the last: the pillar article ranks, the supporting pieces link to it, the email sends drive traffic to both, and the social clips recycle the research. A content calendar that ties every piece to a keyword, a funnel stage, and a repurposing path turns a blog from a graveyard of forgotten posts into the most durable acquisition channel a brand can build.
+---
 
 ## Give Your Brand a Voice That Earns Its Place.
 

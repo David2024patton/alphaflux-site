@@ -22,6 +22,20 @@ heroLead: 'People hire lawyers after research, and increasingly after asking AI 
 
 ---
 
+# LEGAL VERTICAL PAGE
+
+## HERO
+
+Legal Marketing That Wins the Research and the Case.
+
+People hire lawyers after research, and increasingly after asking AI
+engines which firm to trust. AlphaFlux builds the authority, local visibility,
+and reputation systems that make your firm the answer.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## WHY LAW FIRMS CHOOSE ALPHAFLUX
 
 Built for the Research-Heavy Decision.
@@ -81,27 +95,31 @@ The Legal Growth Stack.
 
 ## Results We Can Show.
 
-[REAL DATA REQUIRED: legal client case studies and metrics before launch.]
+Case intake is the metric, and the reporting is the proof. We wire intake and
+cost-per-acquisition tracking inside the bar advertising rules, so the
+numbers hold up anywhere they are reviewed. Benchmarks we cite are labeled
+with their source, and client results publish only with the client's
+approval.
 
 ---
 
 ## FAQ
 
-**Do you understand legal advertising rules?**
+Do you understand legal advertising rules?
 Yes. We build with state bar advertising and disclosure rules in mind and
 route claims through your review before publication.
 
-**Can you support multiple practice areas and locations?**
+Can you support multiple practice areas and locations?
 Yes. City x practice area pages scale to the firm's footprint.
 
-**What does legal marketing cost?**
+What does legal marketing cost?
 Plans start at $900/mo and scale with scope. See /pricing/.
 
-**Do you work with solo practitioners and multi-attorney firms?**
+Do you work with solo practitioners and multi-attorney firms?
 Both. City x practice area pages scale to the firm's footprint, from one
 attorney to many offices.
 
-**Can you support firms licensed in multiple states?**
+Can you support firms licensed in multiple states?
 Yes, with compliance notes per jurisdiction built into the content and
 advertising workflow.
 

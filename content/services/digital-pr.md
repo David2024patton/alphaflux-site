@@ -23,6 +23,22 @@ heroLead: 'Links from real publications are the currency of trust in both search
 
 ---
 
+# DIGITAL PR & LINK BUILDING PAGE
+
+## HERO
+
+Authority You Do Not Buy, Earned Where Journalists Link.
+
+Links from real publications are the currency of trust in both search
+and AI answers. AlphaFlux runs digital PR: data-driven campaigns, journalist
+outreach, and earned placements that build authority you actually own.
+
+From $2,000/mo.
+
+PR opportunity scan
+
+---
+
 ## WHAT DIGITAL PR INCLUDES AT ALPHAFLUX
 
 Earned Media, Built on a System.
@@ -69,26 +85,26 @@ Earned Authority, Measured Monthly.
 - A monthly placement and referring domain report.
 - Campaign assets that keep earning links long after launch.
 - Coverage that supports both SEO authority and brand trust.
-- [REAL DATA REQUIRED: verified PR placement counts once accounts ship.]
+- A pitch and outreach log you can review, so every placement is provable and every earned angle is reusable.
 
 ---
 
 ## FAQ
 
-**Do you guarantee placements?**
+Do you guarantee placements?
 No one honest guarantees media coverage, because editors decide. We guarantee
 the system: targeted outreach, real campaigns, and a monthly report of what
 landed and what is in flight.
 
-**Is this the same as buying links?**
+Is this the same as buying links?
 No. We earn links through outreach and assets. Bought links are a risk to your
 site, not an investment in it.
 
-**How does PR help with AI search?**
+How does PR help with AI search?
 Answer engines weight source authority heavily. Coverage in trusted
 publications is a direct signal that makes engines cite you.
 
-**Is digital PR included in SEO?**
+Is digital PR included in SEO?
 It is a linked program. SEO runs the technical and on-page layer; digital PR
 builds the authority layer. They are scoped together in Growth and above. See
 /pricing/.
@@ -110,9 +126,11 @@ pitched to the right journalists, compounds across every surface your buyers
 check.
 
 
-## LINK VALUE VERSUS LINK VOLUME
+## The Editorial Standard
 
-One placement in a trusted publication is worth a hundred links from sites nobody reads. Search engines do not count links; they weight them. The weight comes from the publication’s own authority, the relevance of the page to your industry, and whether the link is surrounded by real editorial content. A placement in a major industry publication earns a link that moves rankings. A link from a directory nobody visits earns nothing except a line on a report. The difference is editorial value: real journalists, real stories, and real data that someone wants to cite. That is why digital PR replaces link buying: earned links from real publications keep earning long after the campaign ends, and bought links stop working the month the payment stops.
+Journalists do not need pitches; they need stories they can use. The AlphaFlux outreach standard is built around that. Every campaign starts with a data hook or an angle a reporter can verify, not a press release with adjectives. Pitches go to a targeted list of writers covering your beat, with a subject line that names the story, and outreach is measured like any channel: open, reply, placement. The assets we build keep earning after the campaign ends, because a useful data page or a well-sourced guide attracts links on its own. Guest contributions and op-eds place your people where your buyers read. Newsjacking puts your brand in the story of the day when it fits. The monthly report shows placements, referring domains, and authority growth, so PR is a line item with a number, not a faith-based exercise.
+
+---
 
 ## Your Authority Is a Balance Sheet. Build It on Purpose.
 

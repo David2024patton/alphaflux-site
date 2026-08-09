@@ -23,6 +23,23 @@ heroLead: 'Most brands do not have a traffic problem. They have a conversion pro
 
 ---
 
+# CONVERSION RATE OPTIMIZATION PAGE
+
+## HERO
+
+Turn the Traffic You Already Pay For Into Customers.
+
+Most brands do not have a traffic problem. They have a conversion
+problem. AlphaFlux runs structured CRO programs: behavior analysis, testing
+roadmaps, and page optimization that squeeze more revenue out of every visit you
+already earned.
+
+From $1,200/mo.
+
+Free landing page review
+
+---
+
 ## WHAT CRO INCLUDES AT ALPHAFLUX
 
 A Testing Program, Not Random Tweaks.
@@ -70,34 +87,34 @@ A Conversion Program With a Paper Trail.
 - Every test ships with a hypothesis and a decision rule, so nothing is vibes.
 - Monthly reporting of tests, winners, and revenue impact.
 - Landing page work that connects to your ad copy and your funnel.
-- [REAL DATA REQUIRED: verified conversion lift benchmarks once accounts ship.]
+- A running archive of every test with its result and its decision rule, so the next test starts where the last one ended.
 
 ---
 
 ## FAQ
 
-**How many tests can you run?**
+How many tests can you run?
 The tier model starts at 1 to 2 tests per month and scales to 4+. Testing volume
 matters less than decision quality, which is why every test carries a decision rule.
 
-**Do we need a lot of traffic for CRO?**
+Do we need a lot of traffic for CRO?
 Statistical confidence needs volume, but behavior analytics and usability fixes
 pay off at any scale. We scope the program to what your traffic can support.
 
-**Is CRO part of web development?**
+Is CRO part of web development?
 CRO is strategy and testing; implementation may touch your site. Both live under
 one roof, so recommendations ship instead of gathering dust. See /services/web-development/.
 
-**What does CRO cost?**
+What does CRO cost?
 CRO runs inside your retainer tier or as a standalone program. See /pricing/.
 
 ---
 
-## THE TRAFFIC TRAP
+## The Testing Discipline
 
-Most brands believe the problem is not enough visitors. The real problem is that the visitors they have are not converting. Traffic is a cost; conversion is the multiplier on that cost. A two percent lift in conversion rate on the same traffic produces more revenue than a ten percent lift in traffic at the same conversion rate, and it costs nothing in media. The brands that win do not chase more traffic. They fix the landing page, the form, the checkout, and the offer until every dollar of traffic earns its keep. That is structured CRO: not random tweaks, but a program that turns your existing audience into customers before you spend one dollar chasing the next one.
+Most CRO fails for one reason: it is a series of opinions. Someone decides the button should be green, someone else disagrees, and nothing ever gets measured. AlphaFlux runs the opposite system. Every test starts with a hypothesis that names the visitor, the friction, and the expected outcome. Every test carries a decision rule before it runs, so the result is a verdict, not a debate. If the lift clears the bar with statistical confidence, the winner rolls out sitewide. If it does not, it is retired and the learning is logged. That learning library is the real asset. After a year, you are not testing guesses; you are stacking evidence about your own customers. The audit finds the pages with the highest traffic and the worst conversion, because that is where the revenue is hiding. Behavior analytics show where visitors stall and where they leave. The roadmap ranks fixes by projected impact, and the monthly report shows tests run, winners shipped, and revenue moved. Conversion work done this way is boring and reliable, which is exactly why it compounds.
 
-The testing mindset is what separates CRO from random optimization. Every test has a hypothesis, a metric, and a decision rule. When the test ends, the data decides: ship it, iterate it, or kill it. Most teams never get past “make the button bigger.” The teams that win run a program where every month produces at least one winner, and every winner compounds on the next test.
+---
 
 ## Stop Buying Traffic. Start Keeping It.
 

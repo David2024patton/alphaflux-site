@@ -23,6 +23,22 @@ heroLead: 'Email is the highest-ROI channel most brands underuse. AlphaFlux buil
 
 ---
 
+# EMAIL & LIFECYCLE MARKETING PAGE
+
+## HERO
+
+Automated Nurture That Sells While You Sleep.
+
+Email is the highest-ROI channel most brands underuse. AlphaFlux builds
+the lifecycle: onboarding flows, nurture sequences, win-back campaigns, and the
+segmentation that makes every send count. The list you own compounds forever.
+
+From $800/mo.
+
+Lifecycle map sample
+
+---
+
 ## WHAT EMAIL & LIFECYCLE INCLUDES AT ALPHAFLUX
 
 From First Click to Lifetime Customer.
@@ -69,36 +85,42 @@ A Lifecycle That Works in the Background.
 - Flows and campaigns with a written calendar, not ad hoc sends.
 - Monthly reporting: deliverability, open and click rates, revenue per send.
 - Segmentation copy per audience, not one message to everyone.
-- [REAL DATA REQUIRED: verified email performance benchmarks once accounts ship.]
+- A documented sending log for every flow and campaign, so list performance is explained by what shipped, not by guesswork.
 
 ---
 
 ## FAQ
 
-**Do you handle our email platform?**
+Do you handle our email platform?
 We work in your existing ESP (Klaviyo, HubSpot, Mailchimp, and similar) or
 recommend one during the audit. We build flows, write copy, and manage strategy.
 
-**How many sends per month?**
+How many sends per month?
 The tier model starts at 4 sends per month plus automation flows, and scales to
 full lifecycle. Quality and segmentation beat raw send volume.
 
-**Is email separate from marketing automation?**
+Is email separate from marketing automation?
 Email is the channel; marketing automation is the system that runs it across
 CRM, lead scoring, and nurture. See /services/marketing-automation/ for the full
 picture.
 
-**What does email cost?**
+What does email cost?
 Email and lifecycle run inside your retainer tier or as a standalone program.
 See /pricing/.
 
 ---
 
-## WHY EMAIL COMPOUNDS HARDER THAN PAID
+## Why the List Compounds
 
-A dollar of paid spend buys one click. A dollar of email infrastructure buys a relationship that pays out every month. The math is simple: paid acquisition costs rise with competition; email cost stays flat while the list and the results compound. Every subscriber you onboard, every flow you optimize, and every segment you refine adds to a base that grows in value, not cost. The brands winning email today are not sending more. They are sending smarter, with behavioral triggers and dynamic content that makes every recipient feel like the only one on the list. When you own the list and the lifecycle, no algorithm change, no bid inflation, and no platform policy shift can take that asset away from you.
+An owned email list is the only audience channel that compounds without paying for reach every time. Social platforms change their algorithms and their pricing. Search results shift with every update. But the inbox you build is yours: the subscribers, the segments, and the relationship, all client-owned and all portable. That is why the first job of this program is list health. We clean stale addresses, fix deliverability, and restore sender reputation before we add volume, because a list that lands in spam is worth less than no list at all. Then the lifecycle takes over. Onboarding turns a new subscriber into a buyer in the first weeks. Nurture moves the cold to sales-ready. Win-back recovers revenue you already earned but were about to lose. Every flow is written to a segment and measured against a number: open, click, reply, and revenue per send. Month over month the same list is worth more, because the data tells us who to talk to, when, and with what offer. At the end of each quarter you have:
 
-The brands that master email are not the ones with the biggest lists. They are the ones whose segmentation says “this person bought X, browsed Y, and opened Z, so they get this offer.” That level of personalization is why email ROI sits at the top of every marketing channel comparison. A well-built lifecycle does not just pay for itself. It becomes the channel that funds every other channel.
+- A subscriber base that belongs to you, not a platform.
+- Flows that keep running while you sleep.
+- A revenue-per-send trend you can show the board.
+
+That is the compounding your competitors are missing while they rent attention elsewhere.
+
+---
 
 ## Put Your List to Work.
 

@@ -23,6 +23,23 @@ heroLead: 'Influencer marketing is not paying for posts. It is building partners
 
 ---
 
+# INFLUENCER MARKETING PAGE
+
+## HERO
+
+Audiences You Do Not Rent, Partnerships You Measure.
+
+Influencer marketing is not paying for posts. It is building
+partnerships with creators whose audiences trust them, then measuring what those
+partnerships actually move. AlphaFlux runs the whole system: vetting, strategy,
+briefs, and performance tracking.
+
+Scoped to your market. All plans from $900/mo. [See full pricing](/pricing/).
+
+Influencer match sample
+
+---
+
 ## WHAT INFLUENCER INCLUDES AT ALPHAFLUX
 
 From Creator Search to Performance Report.
@@ -69,25 +86,25 @@ Every Dollar of Creator Spend, Accounted For.
 - Creator shortlists with the reasoning, not just the names.
 - Campaigns with contracts, disclosure, and rights handled.
 - Monthly reporting that separates reach from results.
-- [REAL DATA REQUIRED: verified influencer performance benchmarks once accounts ship.]
+- A contract and rights log per creator, with performance tracked per deal, so spend stays auditable after the campaign ends.
 
 ---
 
 ## FAQ
 
-**How do you vet creators?**
+How do you vet creators?
 Audience quality, engagement authenticity, content fit, and past campaign
 performance. We pass on creators whose numbers do not hold up, regardless of size.
 
-**Is influencer marketing only for consumer brands?**
+Is influencer marketing only for consumer brands?
 No. B2B thought leadership and executive creator partnerships are a growing
 play, and we run both.
 
-**Do you negotiate contracts?**
+Do you negotiate contracts?
 Yes, with support for scopes, exclusivity, usage rights, and compliance. You
 keep final approval.
 
-**What does it cost?**
+What does it cost?
 Influencer programs are scoped per campaign or as an add-on. See /pricing/ for
 published anchors.
 
@@ -107,11 +124,11 @@ buyers is worth more than the one who shows a million passive views. That is the
 difference between renting an audience and building a partnership.
 
 
-## THE CREATOR ECONOMY MATH
+## What We Measure Per Partnership
 
-The creator economy is not about who has the most followers. It is about who has the most trust. Audiences have learned to spot paid posts in half a scroll, and they tune out anything that feels transactional. The creators who move product are the ones whose recommendations carry the weight of a friend, not an ad. That trust takes years to build and one bad partnership to break, which is why vetting, brand alignment, and creative freedom matter more than raw reach. The engagement number that counts is not likes. It is saves, shares, and the comment that reads “I bought this because of you.” Measure influencer spend against pipeline and repeat purchase rate, not impressions, and you find out fast which partnerships are assets and which are rentals.
+An influencer campaign that ends with a content folder is a campaign that did not work. The deliverable is not the post; it is the answer to whether that partnership moved the business. AlphaFlux reports every creator against the same scorecard: reach, engagement quality, referral traffic, and pipeline value. We tag links and promo codes so revenue is attributable to a specific creator, not a campaign blob. We watch the second-order effects too, because a creator who drives signups also lifts branded search and social proof. The monthly report separates reach from results, and that separation drives the renewal decision. A creator with a large audience and zero attributable pipeline is retired. A creator with a smaller audience of engaged buyers gets more budget and more creative freedom. The vetting process is the other half of the discipline. We check audience authenticity, engagement patterns, content fit, and past campaign performance before we brief anyone, so the partnerships that launch are the ones with a real chance of moving numbers. That is how influencer spend stops being a bet and becomes a channel.
 
-The brands winning influencer today are not chasing the biggest names. They are building rosters of mid-tier creators whose audiences match their buyer profile, then measuring everything against pipeline. A creator with fifty thousand followers and a three percent engagement rate will outsell a creator with a million followers and dead comments every time. The metric is not reach. It is revenue per creator, and it is the only number that keeps a partnership alive.
+---
 
 ## Stop Renting Audiences. Start Building Partnerships.
 

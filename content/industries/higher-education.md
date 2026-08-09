@@ -22,6 +22,21 @@ heroLead: 'Prospective students research programs for months, and they now ask C
 
 ---
 
+# HIGHER EDUCATION VERTICAL PAGE
+
+## HERO
+
+Higher Ed Marketing That Owns the Search and AI Answers Driving Enrollment.
+
+Prospective students research programs for months, and they now ask
+ChatGPT and Perplexity which schools and programs fit. AlphaFlux builds the
+content, visibility, and enrollment-funnel systems that make your institution the
+answer.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## WHY INSTITUTIONS CHOOSE ALPHAFLUX
 
 Built for the Long, Distributed Enrollment Decision.
@@ -82,28 +97,31 @@ The Higher Ed Growth Stack.
 
 ## Results We Can Show.
 
-[REAL DATA REQUIRED: higher education client case studies and metrics before
-launch.]
+Enrollment is the metric, and the tracking is the proof. We wire inquiry,
+application, and enrollment cost reporting before the campaigns, so the
+numbers are yours before anyone judges them. Benchmarks we cite are labeled
+with their source, and client results publish only with the client's
+approval.
 
 ---
 
 ## FAQ
 
-**Do you work with traditional and online programs?**
+Do you work with traditional and online programs?
 Yes. Program-level SEO and paid scope differ by format, and we build for both.
 
-**Can you support multi-campus institutions?**
+Can you support multi-campus institutions?
 Yes, including program x campus page architecture and local visibility per
 campus.
 
-**What does higher ed marketing cost?**
+What does higher ed marketing cost?
 Plans start at $900/mo and scale with scope. See /pricing/.
 
-**Do you work with community colleges and four-year institutions?**
+Do you work with community colleges and four-year institutions?
 Yes. Scope differs by program mix and admissions model, and we build for
 both.
 
-**How do you handle accreditation-related claims?**
+How do you handle accreditation-related claims?
 Copy and claims route through your review before anything ships, so the
 standards your institution answers to stay in control.
 

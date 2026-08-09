@@ -23,6 +23,22 @@ heroLead: 'Creative is the difference between an ad that gets scrolled and an ad
 
 ---
 
+# CREATIVE SERVICES PAGE
+
+## HERO
+
+Performance Creative That Earns Its Place in the Feed.
+
+Creative is the difference between an ad that gets scrolled and an ad
+that gets clicked. AlphaFlux produces performance creative: ad assets, brand
+identity, video, and motion built to win attention and tested against the numbers.
+
+From $2,000/mo.
+
+Sample creative set
+
+---
+
 ## WHAT CREATIVE INCLUDES AT ALPHAFLUX
 
 Creative Built for the Feed, Measured by the Numbers.
@@ -68,25 +84,25 @@ Creative With a Job and a Score.
 - Assets that ship with a brief and a testing plan, not just a file.
 - Monthly creative testing reports: what won, what lost, what is next.
 - AI-scale variant production with human art direction and QA.
-- [REAL DATA REQUIRED: verified creative performance benchmarks once accounts ship.]
+- A library organized by hypothesis and result, so winning angles are reusable and losing ones are not repeated.
 
 ---
 
 ## FAQ
 
-**Do you do brand design or just ads?**
+Do you do brand design or just ads?
 Both. Brand identity, refresh, and full visual systems are services; so is
 performance creative. See the brand program options on this page and in /pricing/.
 
-**Can you produce video?**
+Can you produce video?
 Yes: short-form, long-form, motion graphics, and UGC sourcing. Video scripts
 and production planning run through our content line.
 
-**Is creative included in retainers?**
+Is creative included in retainers?
 Retainer tiers include creative at the Growth tier and above, and creative
 add-ons are published. See /pricing/ for the numbers.
 
-**Who owns the final assets?**
+Who owns the final assets?
 You do. Delivered files and brand assets belong to the client on final payment,
 always.
 
@@ -107,9 +123,11 @@ is a feed presence that compounds instead of decaying, with the creative team
 always working from the numbers.
 
 
-## CREATIVE FATIGUE AND THE TESTING FIX
+## The Testing Cadence
 
-Every ad gets scrolled past a little more each week. Creative fatigue is not a failure of the channel; it is the natural life cycle of an asset, and the fix is a pipeline, not a prayer. The AlphaFlux creative system runs on a testing framework: new angles enter, winners get variants, losers get retired, and the data decides the mix. AI variant production keeps the pipeline full between human concepts, and human art direction keeps the brand voice intact. The result is a feed presence that compounds instead of decaying, with the creative team always working from the numbers.
+Creative dies on a schedule, and the only cure is a pipeline. Every asset has a life cycle: fresh, familiar, fatigued. The difference between brands that win and brands that stall is how fast the pipeline replaces the fatigued with the fresh. The AlphaFlux creative system runs on a testing cadence. New angles and formats enter every month, built from the briefs that performed. Winners get variants and more budget. Losers get retired with the learning logged. AI variant production keeps the pipeline full between human concepts, and human art direction keeps every asset on voice and on brand. The monthly report is blunt: what won, what lost, what we test next. That cadence is what keeps a feed presence compounding instead of decaying, and it is why creative here ships with a testing plan, not just a file.
+
+---
 
 ## Give Your Ads a Fighting Chance.
 

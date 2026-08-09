@@ -22,6 +22,21 @@ heroLead: 'SaaS growth is a compound problem: acquire, activate, retain, expand.
 
 ---
 
+# SAAS VERTICAL PAGE
+
+## HERO
+
+SaaS Marketing That Fills the Pipeline and Keeps It Full.
+
+SaaS growth is a compound problem: acquire, activate, retain, expand.
+AlphaFlux runs the full loop for software companies: demand generation, content
+that ranks and answers AI queries, lifecycle programs that reduce churn, and
+dashboards that tie it all to MRR.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## WHY SAAS COMPANIES CHOOSE ALPHAFLUX
 
 Built for Subscription Math.
@@ -79,30 +94,32 @@ The SaaS Growth Stack.
 
 ## Results We Can Show.
 
-[REAL DATA REQUIRED: SaaS client case studies and metrics before launch. See
-04_case_studies/ for the template and the alphaflux.net rebuild as the first
-published case.]
+MRR, CAC, and payback are the metrics, and you can audit the tracking. We
+wire the dashboard to your own data before the campaigns, so the report and
+the books agree. Benchmarks we cite are labeled with their source, and client
+results publish only with the client's approval. The alphaflux.net rebuild
+is our first published case, and its QA record is available for review.
 
 ---
 
 ## FAQ
 
-**Do you understand SaaS metrics?**
+Do you understand SaaS metrics?
 Yes. MRR, CAC, LTV, payback, activation rate, and logo churn are the language
 of every SaaS engagement we run.
 
-**Can you support a product-led motion?**
+Can you support a product-led motion?
 Yes: trial optimization, activation flows, and ASO for the app store surface
 all run under one roof.
 
-**Do you work with early-stage SaaS?**
+Do you work with early-stage SaaS?
 The Starter and Growth plans fit pre-scale software companies. See /pricing/.
 
-**Can you integrate with our CRM and product analytics?**
+Can you integrate with our CRM and product analytics?
 Yes. Reporting connects to the tools you already run, so marketing is
 judged on the same data product and sales use.
 
-**How do you approach category creation versus competition?**
+How do you approach category creation versus competition?
 Both. Comparison content captures existing demand; category content builds
 the demand your product is best positioned to own.
 

@@ -17,166 +17,128 @@ heroLead: 'Your buyers are asking ChatGPT, Perplexity, Gemini, and Google AI Ove
 
 ---
 
-<section class="hero" style="padding:var(--space-24) 0;">
-  <div class="hero-bg"></div>
-  <div class="hero-glow"></div>
-  <div class="container hero-content">
-    <h1 class="display-md" style="margin-bottom:1rem;">Who Answers for Your Brand <span class="gradient-text">Right Now?</span></h1>
-    <p class="hero-desc">We check your brand across Google, ChatGPT, Perplexity, and AI Overviews. You get a 48-hour report showing exactly where you stand, who is citing you, and what to fix first. Free.</p>
-  </div>
-</section>
+## HERO
 
-<section class="section">
-  <div class="container" style="max-width:720px;">
+Who Answers for Your Brand Right Now? Find Out Free.
 
-    <div id="audit-form-section" style="background:var(--gradient-card);border:1px solid var(--color-surface-border);border-radius:var(--border-radius-lg);padding:var(--space-8);margin-bottom:var(--space-12);">
-      <h2 style="font-size:var(--text-2xl);font-weight:700;margin-bottom:var(--space-2);">Get Your Free AI Visibility Audit</h2>
-      <p style="color:var(--color-text-secondary);margin-bottom:var(--space-6);">Report delivered within 48 hours. No credit card, no commitment.</p>
+Your buyers are asking ChatGPT, Perplexity, Gemini, and Google AI
+Overviews for recommendations in your category. Who do those engines recommend?
+Run the free AI visibility audit and find out in 48 hours, with a score and a fix
+list. No sales call required to get the report.
 
-      <form id="audit-form" style="display:flex;flex-direction:column;gap:var(--space-4);">
-        <div style="position:absolute;opacity:0;pointer-events:none;">
-          <label for="audit_hp">Leave this empty</label>
-          <input type="text" id="audit_hp" name="_hp" tabindex="-1" autocomplete="off">
-        </div>
-        <div>
-          <label for="audit_name" style="display:block;font-size:var(--text-sm);font-weight:600;margin-bottom:var(--space-1);color:var(--color-text);">Name *</label>
-          <input type="text" id="audit_name" name="name" required placeholder="Your full name" style="width:100%;padding:12px 16px;background:var(--color-surface);border:1px solid var(--color-surface-border);border-radius:var(--border-radius);color:var(--color-text);font-size:var(--text-base);box-sizing:border-box;">
-        </div>
-        <div>
-          <label for="audit_email" style="display:block;font-size:var(--text-sm);font-weight:600;margin-bottom:var(--space-1);color:var(--color-text);">Email *</label>
-          <input type="email" id="audit_email" name="email" required placeholder="you@company.com" style="width:100%;padding:12px 16px;background:var(--color-surface);border:1px solid var(--color-surface-border);border-radius:var(--border-radius);color:var(--color-text);font-size:var(--text-base);box-sizing:border-box;">
-        </div>
-        <div>
-          <label for="audit_company" style="display:block;font-size:var(--text-sm);font-weight:600;margin-bottom:var(--space-1);color:var(--color-text);">Company</label>
-          <input type="text" id="audit_company" name="company" placeholder="Your company name" style="width:100%;padding:12px 16px;background:var(--color-surface);border:1px solid var(--color-surface-border);border-radius:var(--border-radius);color:var(--color-text);font-size:var(--text-base);box-sizing:border-box;">
-        </div>
-        <div>
-          <label for="audit_website" style="display:block;font-size:var(--text-sm);font-weight:600;margin-bottom:var(--space-1);color:var(--color-text);">Website URL *</label>
-          <input type="url" id="audit_website" name="website" required placeholder="https://yourcompany.com" style="width:100%;padding:12px 16px;background:var(--color-surface);border:1px solid var(--color-surface-border);border-radius:var(--border-radius);color:var(--color-text);font-size:var(--text-base);box-sizing:border-box;">
-        </div>
-        <div>
-          <label for="audit_budget" style="display:block;font-size:var(--text-sm);font-weight:600;margin-bottom:var(--space-1);color:var(--color-text);">Monthly Marketing Budget</label>
-          <select id="audit_budget" name="budget" style="width:100%;padding:12px 16px;background:var(--color-surface);border:1px solid var(--color-surface-border);border-radius:var(--border-radius);color:var(--color-text);font-size:var(--text-base);box-sizing:border-box;">
-            <option value="">Select range</option>
-            <option value="<5k">Under ,000</option>
-            <option value="5k-15k">,000 - 5,000</option>
-            <option value="15k-50k">5,000 - 0,000</option>
-            <option value="50k+">0,000+</option>
-          </select>
-        </div>
-        <button type="submit" class="btn btn-accent btn-lg" style="width:100%;margin-top:var(--space-2);padding:14px;font-size:var(--text-lg);">Get Your Free AI Visibility Audit</button>
-        <p style="font-size:var(--text-xs);color:var(--color-text-muted);text-align:center;margin-top:var(--space-2);">No spam, no obligation. Report delivered by email within 48 hours.</p>
-      </form>
-      <div id="audit-success" style="display:none;text-align:center;padding:var(--space-6) 0;">
-        <div style="font-size:var(--text-3xl);margin-bottom:var(--space-4);">&#10003;</div>
-        <h3 style="font-size:var(--text-xl);font-weight:700;margin-bottom:var(--space-2);">Audit Request Received</h3>
-        <p style="color:var(--color-text-secondary);">You will receive your AI visibility report within 48 hours. We audit your brand across ChatGPT, Perplexity, Gemini, and Google AI Overviews and deliver a prioritized action plan.</p>
-      </div>
-      <div id="audit-error" style="display:none;text-align:center;padding:var(--space-6) 0;">
-        <p style="color:var(--color-error);">Something went wrong. Please try again or email us at david@alphaflux.net.</p>
-      </div>
-    </div>
+From $1,500/mo. Free AI Visibility Audit included on request.
 
-    <div style="margin-bottom:var(--space-12);">
-      <h2 class="section-title">What You Get</h2>
-      <div class="grid-3" style="margin-top:var(--space-6);">
-        <div class="card">
-          <h3 class="card-title">GEO Visibility Score</h3>
-          <p class="card-desc">See how often your brand is cited, on which AI engines, and how you compare to your competitors. One number that captures your AI search presence.</p>
-        </div>
-        <div class="card">
-          <h3 class="card-title">Surface-by-Surface Breakdown</h3>
-          <p class="card-desc">ChatGPT, Perplexity, Gemini, and Google AI Overviews analyzed individually. Know exactly where you are visible and where you are absent.</p>
-        </div>
-        <div class="card">
-          <h3 class="card-title">Prioritized Fix List</h3>
-          <p class="card-desc">Entity, schema, content, and authority fixes ranked by impact. The same playbook our clients use to capture AI citation share.</p>
-        </div>
-      </div>
-    </div>
+Run My Free Audit
 
-    <div style="background:var(--gradient-card);border:1px solid var(--color-surface-border);border-radius:var(--border-radius-lg);padding:var(--space-8);margin-bottom:var(--space-12);text-align:center;">
-      <h2 style="font-size:var(--text-2xl);font-weight:700;margin-bottom:var(--space-2);">Sample Visibility Score</h2>
-      <p style="color:var(--color-text-secondary);margin-bottom:var(--space-6);">A real example of the report you will receive.</p>
-      <div style="display:flex;gap:var(--space-6);justify-content:center;flex-wrap:wrap;">
-        <div style="text-align:center;min-width:90px;">
-          <div style="font-size:var(--text-3xl);font-weight:800;color:var(--color-accent);">72</div>
-          <div style="font-size:var(--text-xs);color:var(--color-text-muted);text-transform:uppercase;letter-spacing:0.1em;">ChatGPT</div>
-        </div>
-        <div style="text-align:center;min-width:90px;">
-          <div style="font-size:var(--text-3xl);font-weight:800;color:var(--color-accent);">58</div>
-          <div style="font-size:var(--text-xs);color:var(--color-text-muted);text-transform:uppercase;letter-spacing:0.1em;">Perplexity</div>
-        </div>
-        <div style="text-align:center;min-width:90px;">
-          <div style="font-size:var(--text-3xl);font-weight:800;color:var(--color-accent);">81</div>
-          <div style="font-size:var(--text-xs);color:var(--color-text-muted);text-transform:uppercase;letter-spacing:0.1em;">Gemini</div>
-        </div>
-        <div style="text-align:center;min-width:90px;">
-          <div style="font-size:var(--text-3xl);font-weight:800;color:var(--color-accent);">44</div>
-          <div style="font-size:var(--text-xs);color:var(--color-text-muted);text-transform:uppercase;letter-spacing:0.1em;">AI Overviews</div>
-        </div>
-      </div>
-      <p style="font-size:var(--text-sm);color:var(--color-text-muted);margin-top:var(--space-4);">[REAL DATA REQUIRED] Example scores from an AlphaFlux client. Your report will show your own numbers.</p>
-    </div>
+---
 
-    <div style="margin-bottom:var(--space-12);">
-      <h2 class="section-title">FAQ</h2>
-      <div style="margin-top:var(--space-6);display:flex;flex-direction:column;gap:var(--space-6);">
-        <div>
-          <h3 style="font-size:var(--text-lg);font-weight:600;margin-bottom:var(--space-2);">Is the audit really free?</h3>
-          <p style="color:var(--color-text-secondary);">Yes. No credit card, no trial period, no commitment. We run the audit, you get the report. If you want to act on the gaps, we talk about a program. If not, you keep the report.</p>
-        </div>
-        <div>
-          <h3 style="font-size:var(--text-lg);font-weight:600;margin-bottom:var(--space-2);">What do you need from me?</h3>
-          <p style="color:var(--color-text-secondary);">Your name, your email, and your website URL. That is enough to run a full visibility check across the major AI surfaces.</p>
-        </div>
-        <div>
-          <h3 style="font-size:var(--text-lg);font-weight:600;margin-bottom:var(--space-2);">How long until I get the report?</h3>
-          <p style="color:var(--color-text-secondary);">48 hours or less. The audit is automated where possible and human-reviewed where it matters.</p>
-        </div>
-        <div>
-          <h3 style="font-size:var(--text-lg);font-weight:600;margin-bottom:var(--space-2);">What if I do not show up at all?</h3>
-          <p style="color:var(--color-text-secondary);">Then the report tells you exactly where you are invisible and why. That is the most actionable report you can receive, because it gives you the gap and the fix list in one document.</p>
-        </div>
-      </div>
-    </div>
+## WHAT YOU GET
 
-  </div>
-</section>
+A 48 Hour Report That Answers Four Questions.
 
-<script>
-(function() {
-  var form = document.getElementById('audit-form');
-  var success = document.getElementById('audit-success');
-  var errorEl = document.getElementById('audit-error');
+| Deliverable | What You Learn |
+|-------------|----------------|
+| Visibility Score | 0 to 100 across Google, ChatGPT, Perplexity, and AI Overviews |
+| Citation Share | Which competitors are cited for your terms, and how often |
+| Answer Presence | What the engines actually say about you, quoted verbatim |
+| Fix List | The top prioritized actions to take your answers back |
 
-  if (!form) return;
+---
 
-  form.addEventListener('submit', function(e) {
-    e.preventDefault();
+## SAMPLE SCORES
 
-    var hp = form.querySelector('#audit_hp');
-    if (hp && hp.value) return;
+A Real Example of the Report You Will Receive.
 
-    var payload = new FormData(form);
+| Surface | Example Score |
+|---------|---------------|
+| ChatGPT | 72 |
+| Perplexity | 58 |
+| Gemini | 81 |
+| Google AI Overviews | 44 |
 
-    fetch('https://formsubmit.co/ajax/REPLACE_WITH_INBOX_EMAIL', {
-      method: 'POST',
-      body: payload
-    })
-    .then(function(r) {
-      if (!r.ok) throw new Error('FormSubmit error');
-      return r.json();
-    })
-    .then(function() {
-      if (typeof gtag === 'function') { gtag('event', 'generate_lead', { event_category: 'audit' }); }
-      form.style.display = 'none';
-      success.style.display = 'block';
-    })
-    .catch(function() {
-      if (typeof gtag === 'function') { gtag('event', 'form_error', { event_category: 'audit' }); }
-      errorEl.style.display = 'block';
-    });
-  });
-})();
-</script>
+Illustrative sample of the report layout. The scores above are placeholders, not
+client results; your report will show your own verified numbers.
+
+---
+
+## HOW IT WORKS
+
+No Call. No Pitch. Just the Report.
+
+1. **Submit (Day 1).** Brand name, website, and up to 5 keywords. Form is 4
+   fields, under 60 seconds.
+2. **Scan (Days 1-2).** FluxGEO checks your brand across the major engines and
+   scores your presence against your competitors.
+3. **Deliver (Day 2).** The report lands in your inbox with the score, the gaps,
+   and the fix list.
+4. **Optional call.** If the report is useful, we are happy to walk through it.
+   It is not required to get it.
+
+---
+
+## WHY IT MATTERS
+
+Invisibility in AI Answers Is the New Ranking Problem.
+
+Most brands have no idea who AI engines recommend in their category, because
+nobody has checked. Meanwhile, a growing share of buying decisions are made from
+AI answers before a single search result is clicked. This audit is the first step
+to being the answer instead of being absent.
+
+---
+
+## FAQ
+
+Is the audit really free?
+Yes. No credit card, no trial period, no commitment. We run the audit, you get
+the report. If you want to act on the gaps, we talk about a program. If not, you
+keep the report.
+
+What do you need from me?
+Your name, your email, and your website URL. That is enough to run a full
+visibility check across the major AI surfaces.
+
+How long until I get the report?
+48 hours or less. The audit is automated where possible and human-reviewed where
+it matters.
+
+What if I do not show up at all?
+Then the report tells you exactly where you are invisible and why. That is the
+most actionable report you can receive, because it gives you the gap and the fix
+list in one document.
+
+---
+
+## FORM SPEC (for Engineering and UI/UX)
+
+**Form fields (max 4, per Marketing 7.4):**
+1. Name (text, required)
+2. Work email (email, required)
+3. Company (text, required)
+4. Monthly marketing budget (select: under $5K / $5-20K / $20-50K / $50K+)
+
+**Optional notes field** (non-blocking).
+
+**Delivery:** the audit report arrives by email, 48 hour
+SLA. Tracking event: `lead_magnet_submit` into GA4 G-GZV90ZCT4E.
+
+**Form endpoint:** the audit form posts to `https://formsubmit.co/ajax/REPLACE_WITH_INBOX_EMAIL`
+(same marker as /contact/). David clicks the FormSubmit inbox link to set the
+destination; keep this marker through wiring.
+
+**Modal variant:** the same form ships in a modal from every page CTA (per
+UI/UX design system spec), with chatbot slot adjacent per Marketing 7.3.
+
+---
+
+# APPENDIX: PRODUCTION NOTES
+
+# FREE AI VISIBILITY AUDIT (LEAD MAGNET ASSET)
+
+## PURPOSE
+
+This page is the delivery point for the named lead magnet. Every primary CTA on the
+site routes here. It sells one thing: the 48 hour answer to the question every
+brand should know but almost none do. Per Marketing's MESSAGING_AND_POSITIONING.md
+section 7.1, this is the wedge: nobody in the sixteen-agency set offers a free AI
+visibility check.

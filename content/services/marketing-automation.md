@@ -23,6 +23,23 @@ heroLead: 'Your marketing generates leads. Your follow-up either converts them o
 
 ---
 
+# MARKETING AUTOMATION PAGE
+
+## HERO
+
+Flows That Convert Every Touchpoint Into a Pipeline.
+
+Your marketing generates leads. Your follow-up either converts them
+or loses them. AlphaFlux builds marketing automation that turns every touchpoint
+into a step in the pipeline: lead scoring, CRM automation, nurture flows, and the
+MarTech stack that runs it.
+
+From $800/mo for automation flows. Full lifecycle from $2,000/mo. [See full pricing](/pricing/).
+
+Flow map sample
+
+---
+
 ## WHAT MARKETING AUTOMATION INCLUDES AT ALPHAFLUX
 
 The System Between Your Marketing and Your Revenue.
@@ -69,26 +86,26 @@ Automation With an Audit Trail.
 - A flow map you can see before we build anything.
 - Automations tested end to end, with documented handoffs.
 - Monthly reporting on flow performance and pipeline impact.
-- [REAL DATA REQUIRED: verified automation benchmarks once accounts ship.]
+- A documented map of every trigger, branch, and handoff, so the system explains itself when someone asks why an email sent.
 
 ---
 
 ## FAQ
 
-**Is this the same as email marketing?**
+Is this the same as email marketing?
 Email is the channel; automation is the system. AlphaFlux does both. See
 /services/email/ for the lifecycle copy and channel work.
 
-**What platforms do you work with?**
+What platforms do you work with?
 HubSpot, Salesforce, Marketo, Klaviyo, ActiveCampaign, and similar. The audit
 recommends the right stack for your size; we do not sell you software we do not
 need.
 
-**Do we need automation at our size?**
+Do we need automation at our size?
 If you are losing leads to follow-up lag, yes. We scope the system to your
 volume, from simple routing to full CDP architecture.
 
-**What does it cost?**
+What does it cost?
 Automation is a published service line, standalone or add-on. See /pricing/.
 
 ---
@@ -107,9 +124,11 @@ flow performance. The system should be boring and reliable, not clever and
 broken. If a flow cannot state its job in one sentence, it should not ship.
 
 
-## WHY AUTOMATION PROJECTS FAIL
+## The 30-Day On-Ramp
 
-Most automation projects fail before the first flow ships, because they start with the tool instead of the outcome. The CRM is purchased, the integration is wired, and then someone asks what the flows should actually do. The right order is: map the customer journey first, score the leads, then buy the tool that fits the map. The second failure mode is set-and-forget: flows that launch, run for six months, and die because nobody read their conversion numbers. The third is data quality: automations wired on top of a CRM that nobody updates, sending leads to the wrong rep or scoring contacts that are already closed-lost. Every one of these is fixable in the audit, and every one of them costs more in lost revenue than the automation cost to build.
+The first thirty days of an automation engagement are deliberately boring. The audit maps your stack, your data quality, and the leak points in your funnel: where leads arrive and where they go dark. The flow map is drawn before anything is built, and you approve it before a single automation ships. Then the build starts with the highest-leak handoff, usually the lead-to-sales follow-up, because that is where revenue is bleeding fastest. Every flow is tested against real scenarios before it goes live, and every handoff is documented, so the system does not depend on one person's memory. Month two looks different. The early flows are running, the CRM is being updated, and the scoring model starts separating hot leads from noise. The monthly report shows flow performance, drop-off points, and what we iterate next. The goal is a system that is boring and reliable: routing that never sleeps, follow-up that never misses, and reporting that generates itself. That is when automation stops being a project and becomes the plumbing your revenue runs through.
+
+---
 
 ## Your Leads Are Already in the Funnel. Stop Dropping Them.
 

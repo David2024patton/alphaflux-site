@@ -23,6 +23,23 @@ heroLead: 'Prospects check your reviews before they check your price. If your ra
 
 ---
 
+# REPUTATION MANAGEMENT PAGE
+
+## HERO
+
+Own What Your Reviews Say Before Prospects Read Them.
+
+Prospects check your reviews before they check your price. If your
+ratings, responses, and review visibility are left to chance, you are losing
+customers to competitors with worse service and better review strategy. AlphaFlux
+runs reputation as a system.
+
+Scoped to your market. All plans from $900/mo. [See full pricing](/pricing/).
+
+Free review audit
+
+---
+
 ## WHAT REPUTATION INCLUDES AT ALPHAFLUX
 
 The Full Review-to-Revenue System.
@@ -69,26 +86,26 @@ A Reputation You Can Point To.
 - A response system that makes every review an asset.
 - Review volume that grows through legitimate, compliant methods.
 - Monthly reporting on ratings, sentiment, and search visibility.
-- [REAL DATA REQUIRED: verified reputation metrics once accounts ship.]
+- A response log with every reply documented, so the record shows the work before the rating does.
 
 ---
 
 ## FAQ
 
-**Can you make bad reviews disappear?**
+Can you make bad reviews disappear?
 No, and we will not try. We build review volume and visibility so your best
 reviews surface first, and we respond to criticism in a way that converts
 onlookers. That is how reputation actually compounds.
 
-**Is it ethical to ask customers for reviews?**
+Is it ethical to ask customers for reviews?
 Yes, when done right: asking happy customers at the right moment, never
 incentivizing specific ratings, and following platform rules. We design for that.
 
-**Does reputation affect SEO?**
+Does reputation affect SEO?
 Yes. Ratings schema and Google Business Profile signals feed local SEO
 directly. Review visibility and rankings reinforce each other.
 
-**What does reputation management cost?**
+What does reputation management cost?
 It is a published service line, standalone or add-on. See /pricing/.
 
 ---
@@ -107,9 +124,11 @@ about polishing a badge. It is a conversion system that sits between your local
 ranking and your calendar, and it compounds with everything else you do.
 
 
-## THE REVIEW SNOWBALL
+## The Response as a Conversion Point
 
-Reputation is a flywheel: more reviews attract more customers, more customers leave more reviews, and the cycle compounds. The brands with 300 reviews and a 4.8 rating did not get there by accident. They built a system that asks at the right moment, responds to every review, and optimizes the profiles that surface. The brands with 12 reviews and a 3.9 rating are losing customers every day to competitors they have never heard of, because the review is the first impression and the last tiebreaker. Reputation management is not crisis response. It is the system that makes crisis response unnecessary, because the review volume is high enough that one bad review is a signal, not a verdict. That is the flywheel AlphaFlux builds and runs for every client.
+Most brands treat a bad review as damage control. The brands that win treat every review, good or bad, as a conversion point. The onlooker is the audience: the prospect who reads your recent reviews, checks how you respond to criticism, and decides whether to trust you. A thoughtful public response to a complaint does more for that prospect than a page of five-star reviews, because it proves you fix problems instead of hiding from them. The AlphaFlux response system makes that repeatable. Every review gets a reply on a defined cadence, in a voice that matches your brand, and complaints get a structure that moves the conversation toward resolution publicly and privately. Volume does the other half of the work. We build acquisition programs that ask happy customers at the right moment, never incentivizing specific ratings, always following platform rules. Ratings schema and Google Business Profile signals then surface your best reviews where prospects look first. Reputation becomes a system that sits between your ranking and your calendar, and it compounds with everything else you run.
+
+---
 
 ## Prospects Are Reading Your Reviews. Make Them Work.
 

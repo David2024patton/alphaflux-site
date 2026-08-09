@@ -22,6 +22,20 @@ heroLead: 'Financial decisions are high-stakes, heavily researched, and regulate
 
 ---
 
+# FINANCIAL SERVICES VERTICAL PAGE
+
+## HERO
+
+Financial Marketing That Earns Trust and Meets the Rules.
+
+Financial decisions are high-stakes, heavily researched, and
+regulated. AlphaFlux builds marketing for wealth, lending, fintech, and insurance
+that earns the trust the category demands, with compliance built into the process.
+
+Get Your Free AI Visibility Audit
+
+---
+
 ## WHY FINANCIAL FIRMS CHOOSE ALPHAFLUX
 
 Built for High-Stakes Research.
@@ -82,28 +96,32 @@ The Financial Growth Stack.
 
 ## Results We Can Show.
 
-[REAL DATA REQUIRED: financial client case studies and metrics before launch.]
+Trust is the product, so the reporting is auditable. We wire AUM, loan, or
+policy pipeline tracking before any campaign, and the numbers you see are
+pulled from your systems, not a template deck. Benchmarks we cite are labeled
+with their source, and client results publish only with the client's
+approval.
 
 ---
 
 ## FAQ
 
-**Do you handle regulated advertising?**
+Do you handle regulated advertising?
 Yes. Copy, creative, and targeting are built with financial advertising and
 disclosure rules in mind, with a compliance review gate before launch.
 
-**Can you support wealth, lending, fintech, and insurance?**
+Can you support wealth, lending, fintech, and insurance?
 All four. The programs differ by compliance surface and funnel, and we scope
 accordingly.
 
-**What does financial marketing cost?**
+What does financial marketing cost?
 Plans start at $900/mo and scale with scope and compliance needs. See /pricing/.
 
-**Do you handle disclosures in paid creative?**
+Do you handle disclosures in paid creative?
 Yes. Disclosure and approval processes are part of the workflow, built in
 before the first impression, not bolted on after review.
 
-**Can you support RIA and advisor teams?**
+Can you support RIA and advisor teams?
 Yes, with branch and advisor-level local pages that turn local searches
 into consultations.
 
