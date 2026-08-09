@@ -99,11 +99,9 @@ Most brands believe the problem is not enough visitors. The real problem is that
 
 The testing mindset is what separates CRO from random optimization. Every test has a hypothesis, a metric, and a decision rule. When the test ends, the data decides: ship it, iterate it, or kill it. Most teams never get past “make the button bigger.” The teams that win run a program where every month produces at least one winner, and every winner compounds on the next test.
 
-## CTA
-
-Stop Buying Traffic. Start Keeping It.
+## Stop Buying Traffic. Start Keeping It.
 
 Get the free AI visibility audit and a conversion teardown of your highest traffic
 pages.
 
-Free landing page review / See Pricing
+Get the free landing page review, or see published pricing.

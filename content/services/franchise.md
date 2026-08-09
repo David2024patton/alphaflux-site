@@ -114,11 +114,9 @@ how a network turns marketing from a cost center into its best growth lever.
 
 Multi-location marketing fails when every location reinvents the wheel. The content architecture that works is one system, generated at scale: a city-page template that pulls local data, a review-response system that knows which franchisee owns which location, and a paid media account structure that budgets at the network level but bids at the local level. Franchisees do not need to become marketers. They need a playbook that takes thirty minutes a week and a dashboard that shows whether it is working. The networks that win are the ones that centralize the system and localize the execution, with a report that ranks every location and shows the gap between the best and the rest.
 
-## CTA
-
-One System. Every Location. Consistent Growth.
+## One System. Every Location. Consistent Growth.
 
 Run the free location audit and see which locations are winning, which are
 leaking, and what one system would fix.
 
-Free location audit / See Pricing
+Run the free location audit, or see published pricing.

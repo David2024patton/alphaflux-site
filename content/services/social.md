@@ -104,11 +104,9 @@ Algorithms reward consistency and engagement, not volume. A brand posting three 
 
 The brands that win organic social treat every post as an asset with a job and a shelf life. The post that educates earns saves. The post that proves earns trust. The post that entertains earns shares. And the post that asks earns clicks. A calendar built on those four jobs, with the data deciding the mix each month, turns social from a chore into a compounding distribution channel that costs nothing but time and taste.
 
-## CTA
-
-Stop Posting. Start Compounding.
+## Stop Posting. Start Compounding.
 
 Get the free AI visibility audit and a content plan that treats social like the
 asset it should be.
 
-See a content calendar / See Pricing
+Ask to see a content calendar, or see published pricing.

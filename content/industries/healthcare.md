@@ -109,10 +109,8 @@ service area getting its own rankable surface.
 
 ---
 
-## CTA
-
-Be the Practice Patients Find First.
+## Be the Practice Patients Find First.
 
 Run the free AI visibility audit and see who answers for your specialty today.
 
-Get Your Free AI Visibility Audit / See Pricing
+Get your free AI visibility audit, or see published pricing.

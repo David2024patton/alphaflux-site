@@ -108,11 +108,9 @@ national brand dollars and local offers do not cannibalize each other.
 
 ---
 
-## CTA
-
-Every Location, Winning Its Market.
+## Every Location, Winning Its Market.
 
 Run the free AI visibility audit and see where your network is winning and where
 it is leaking.
 
-Get Your Free AI Visibility Audit / See Pricing
+Get your free AI visibility audit, or see published pricing.

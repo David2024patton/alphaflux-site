@@ -113,11 +113,9 @@ The creator economy is not about who has the most followers. It is about who has
 
 The brands winning influencer today are not chasing the biggest names. They are building rosters of mid-tier creators whose audiences match their buyer profile, then measuring everything against pipeline. A creator with fifty thousand followers and a three percent engagement rate will outsell a creator with a million followers and dead comments every time. The metric is not reach. It is revenue per creator, and it is the only number that keeps a partnership alive.
 
-## CTA
-
-Stop Renting Audiences. Start Building Partnerships.
+## Stop Renting Audiences. Start Building Partnerships.
 
 Get the influencer match sample and see the creators who fit your brand, with the
 reasoning attached.
 
-Influencer match sample / See Pricing
+Ask for the influencer match sample, or see published pricing.

@@ -101,11 +101,9 @@ The standard agency model charges a percentage of ad spend. The more you spend, 
 
 The platforms want you to spend more. The agency model wants you to spend more. The flat-fee model wants you to spend efficiently. When your agency earns the same fee whether you spend five thousand or fifty thousand on media, the incentives align with your margin, not the platform’s revenue target. That is not a selling point. It is the foundation of a partnership.
 
-## CTA
-
-Stop Paying for Clicks. Start Paying for Customers.
+## Stop Paying for Clicks. Start Paying for Customers.
 
 Get a free AI visibility audit and a straight answer about whether paid media is
 the right lever for your growth right now.
 
-Get a media plan / See Pricing
+Get a media plan, or see published pricing.

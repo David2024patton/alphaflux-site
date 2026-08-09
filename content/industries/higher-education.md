@@ -111,10 +111,8 @@ standards your institution answers to stay in control.
 
 ---
 
-## CTA
-
-Be the School Students Ask About First.
+## Be the School Students Ask About First.
 
 Run the free AI visibility audit and see who answers for your programs today.
 
-Get Your Free AI Visibility Audit / See Pricing
+Get your free AI visibility audit, or see published pricing.

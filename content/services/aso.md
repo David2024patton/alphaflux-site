@@ -111,11 +111,9 @@ Most app listings are written by developers, not marketers. The title is the pro
 
 The store algorithm is a search engine with different ranking signals. Title, subtitle, keyword field, and conversion rate are the levers. Reviews and ratings are the tiebreaker. The difference between ranking third and ranking first for a high-volume keyword is the difference between a business and a hobby. ASO is not a nice-to-have next to paid acquisition. It is the organic layer that makes paid acquisition profitable at scale.
 
-## CTA
-
-Your App Is One Search Away From Its Next User.
+## Your App Is One Search Away From Its Next User.
 
 Run the free ASO scorecard and see exactly where your storefront is leaking
 installs.
 
-Free ASO scorecard / See Pricing
+Run the free ASO scorecard, or see published pricing.

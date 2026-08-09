@@ -109,10 +109,8 @@ advertising workflow.
 
 ---
 
-## CTA
-
-Be the Firm Clients Name First.
+## Be the Firm Clients Name First.
 
 Run the free AI visibility audit and see who answers for your practice area today.
 
-Get Your Free AI Visibility Audit / See Pricing
+Get your free AI visibility audit, or see published pricing.

@@ -111,11 +111,9 @@ budget, and content ramped ahead of demand instead of behind it.
 
 ---
 
-## CTA
-
-Win the Click, the Cart, and the Repeat.
+## Win the Click, the Cart, and the Repeat.
 
 Run the free AI visibility audit and see who is winning your category's searches
 and AI answers today.
 
-Get Your Free AI Visibility Audit / See Pricing
+Get your free AI visibility audit, or see published pricing.

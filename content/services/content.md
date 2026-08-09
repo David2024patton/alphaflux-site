@@ -99,11 +99,9 @@ A blog post is not a publish-and-forget asset. It is a machine that earns compou
 
 The calendar is the engine. Without it, content is a series of one-off bets. With it, every piece builds on the last: the pillar article ranks, the supporting pieces link to it, the email sends drive traffic to both, and the social clips recycle the research. A content calendar that ties every piece to a keyword, a funnel stage, and a repurposing path turns a blog from a graveyard of forgotten posts into the most durable acquisition channel a brand can build.
 
-## CTA
-
-Give Your Brand a Voice That Earns Its Place.
+## Give Your Brand a Voice That Earns Its Place.
 
 Get the free AI visibility audit and a content plan built around what your buyers
 actually search and ask.
 
-Content sample pack / See Pricing
+Ask for the content sample pack, or see published pricing.

@@ -111,10 +111,8 @@ into consultations.
 
 ---
 
-## CTA
-
-Be the Firm They Choose Before They Call.
+## Be the Firm They Choose Before They Call.
 
 Run the free AI visibility audit and see who answers for your category today.
 
-Get Your Free AI Visibility Audit / See Pricing
+Get your free AI visibility audit, or see published pricing.

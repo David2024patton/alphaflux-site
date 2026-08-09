@@ -109,11 +109,9 @@ between reporting and accountability.
 
 Most marketing reports are busywork with a logo on top: impressions, clicks, and a list of activities that look busy. They answer what happened and dodge the only question that matters: was it worth it. The value report closes that gap with three sections: what shipped, what moved, and what we change next. Every number ties to revenue, every action has a cost, and the bottom line is whether the program paid for itself. A board member who reads a value report knows whether marketing earned its budget. A board member who reads an activity log knows what happened and learns nothing about what to do next. That is the standard AlphaFlux ships every month.
 
-## CTA
-
-Stop Guessing. Start Knowing.
+## Stop Guessing. Start Knowing.
 
 See a sample dashboard and a one-page teardown of what your current reporting is
 missing.
 
-See a sample dashboard / See Pricing
+Ask for a sample dashboard, or see published pricing.

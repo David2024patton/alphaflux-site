@@ -110,10 +110,8 @@ the demand your product is best positioned to own.
 
 ---
 
-## CTA
-
-Make Your Software the Answer.
+## Make Your Software the Answer.
 
 Run the free AI visibility audit and see who answers for your category today.
 
-Get Your Free AI Visibility Audit / See Pricing
+Get your free AI visibility audit, or see published pricing.

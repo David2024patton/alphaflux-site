@@ -111,11 +111,9 @@ a growing share of demand. Being cited there is the new ranking.
 
 Every AI chatbot is a new search box, and every one of them cites sources. The brands that get cited in those answers win the click before the search ever happens. ChatGPT, Perplexity, Gemini, and Google AI Overviews each have their own citation logic, and each one weights sources differently. A brand cited in Perplexity may be invisible in Gemini. The strategy that works is surface-specific: entity schema that every engine can parse, content structured to answer direct questions, and authority signals that make every engine trust the source. AI search optimization is not one channel. It is five surfaces that share a common architecture, and the brands building that architecture today are the ones whose names will appear in the answers tomorrow.
 
-## CTA
-
-See Where AI Answers for You Today.
+## See Where AI Answers for You Today.
 
 Run the free AI visibility audit. 48 hours later you will know exactly which
 engines mention you, which competitors they mention instead, and what to fix.
 
-Get Your Free AI Visibility Audit / See Pricing
+Get your free AI visibility audit, or see published pricing.

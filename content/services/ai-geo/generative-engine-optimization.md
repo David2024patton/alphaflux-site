@@ -111,11 +111,9 @@ We scope them together by default.
 
 GEO sits on top of SEO the way mobile SEO sat on top of desktop SEO a decade ago. It is a new layer of the same organic visibility problem, with new rules and a new mechanism. The mechanism is citation, not ranking. The signal is entity consistency and quotable content, not backlinks and keyword density. The surface is the answer engine, not the search results page. Every brand that invested early in mobile SEO captured traffic that late movers could never catch up. GEO is the same window, open right now, and the brands that build the entity layer and the quotable content today will own the citations when the rest of the market notices the surface exists.
 
-## CTA
-
-Become the Source, Not the Snippet.
+## Become the Source, Not the Snippet.
 
 Run the free AI visibility audit and see exactly who is answering for your brand
 today.
 
-Get Your Free AI Visibility Audit / See Pricing
+Get your free AI visibility audit, or see published pricing.

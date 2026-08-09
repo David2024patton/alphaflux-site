@@ -111,10 +111,8 @@ supported, with franchise-grade architecture available as you grow.
 
 ---
 
-## CTA
-
-Make the Phone Ring With the Right Calls.
+## Make the Phone Ring With the Right Calls.
 
 Run the free AI visibility audit and see who owns your local category's answers.
 
-Get Your Free AI Visibility Audit / See Pricing
+Get your free AI visibility audit, or see published pricing.

@@ -111,11 +111,9 @@ always working from the numbers.
 
 Every ad gets scrolled past a little more each week. Creative fatigue is not a failure of the channel; it is the natural life cycle of an asset, and the fix is a pipeline, not a prayer. The AlphaFlux creative system runs on a testing framework: new angles enter, winners get variants, losers get retired, and the data decides the mix. AI variant production keeps the pipeline full between human concepts, and human art direction keeps the brand voice intact. The result is a feed presence that compounds instead of decaying, with the creative team always working from the numbers.
 
-## CTA
-
-Give Your Ads a Fighting Chance.
+## Give Your Ads a Fighting Chance.
 
 Request a sample creative set and a one-page look at what your current creative is
 leaving on the table.
 
-Sample creative set / See Pricing
+Ask for the sample creative set, or see published pricing.

@@ -100,11 +100,9 @@ A dollar of paid spend buys one click. A dollar of email infrastructure buys a r
 
 The brands that master email are not the ones with the biggest lists. They are the ones whose segmentation says “this person bought X, browsed Y, and opened Z, so they get this offer.” That level of personalization is why email ROI sits at the top of every marketing channel comparison. A well-built lifecycle does not just pay for itself. It becomes the channel that funds every other channel.
 
-## CTA
-
-Put Your List to Work.
+## Put Your List to Work.
 
 Get the free AI visibility audit and an email teardown that shows exactly what your
 list is worth.
 
-Lifecycle map sample / See Pricing
+Ask for the lifecycle map sample, or see published pricing.
