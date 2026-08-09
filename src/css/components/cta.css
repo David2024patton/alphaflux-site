@@ -1,0 +1,18 @@
+.cta-section { text-align: center; padding: var(--space-24) 0; position: relative; overflow: hidden; }
+.cta-section::before { content: ''; position: absolute; inset: 0; background: radial-gradient(circle at center, var(--color-primary-glow) 0%, transparent 70%); pointer-events: none; }
+.cta-title { font-size: var(--text-4xl); margin-bottom: var(--space-4); }
+.cta-desc { font-size: var(--text-lg); color: var(--color-text-secondary); max-width: 520px; margin: 0 auto var(--space-8); }
+.cta-actions { display: flex; gap: var(--space-4); justify-content: center; flex-wrap: wrap; }
+
+/* === Process / Steps === */
+.steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--space-6); }
+.step { text-align: center; padding: var(--space-6); }
+.step-number { width: 48px; height: 48px; border-radius: var(--border-radius-full); background: var(--gradient-brand); color: #fff; display: flex; align-items: center; justify-content: center; font-size: var(--text-lg); font-weight: 800; margin: 0 auto var(--space-4); }
+.step-title { font-weight: 700; margin-bottom: var(--space-2); }
+
+@media (max-width: 768px) { .steps { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 480px) { .steps { grid-template-columns: 1fr; } }
+
+/* === Logos Bar === */
+.logos-bar { display: flex; gap: var(--space-10); justify-content: center; align-items: center; flex-wrap: wrap; opacity: 0.4; }
+.logos-bar span { font-size: var(--text-lg); font-weight: 700; color: var(--color-text-muted); white-space: nowrap; }

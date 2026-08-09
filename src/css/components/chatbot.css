@@ -1,0 +1,20 @@
+#fluxchat-container { position: fixed; bottom: 24px; right: 24px; z-index: var(--z-tooltip); font-family: var(--font-sans); }
+.fluxchat-toggle { width: 56px; height: 56px; border-radius: 50%; background: var(--gradient-brand); box-shadow: var(--shadow-glow-primary); display: flex; align-items: center; justify-content: center; transition: transform var(--transition-fast); }
+.fluxchat-toggle:hover { transform: scale(1.08); }
+.fluxchat-icon { width: 28px; height: 28px; fill: #fff; }
+.fluxchat-close-icon { width: 20px; height: 20px; fill: #fff; display: none; }
+.fluxchat-open .fluxchat-icon { display: none; }
+.fluxchat-open .fluxchat-close-icon { display: block; }
+.fluxchat-window { position: absolute; bottom: 68px; right: 0; width: 360px; max-height: 500px; background: var(--color-surface-card); border: 1px solid var(--color-surface-border); border-radius: var(--border-radius-lg); overflow: hidden; display: none; flex-direction: column; box-shadow: var(--shadow-xl); }
+.fluxchat-open .fluxchat-window { display: flex; }
+.fluxchat-header { background: var(--gradient-brand); color: #fff; padding: 12px 16px; font-size: 14px; font-weight: 700; }
+.fluxchat-body { flex: 1; overflow-y: auto; padding: 16px; display: flex; flex-direction: column; gap: 10px; max-height: 320px; }
+.fluxchat-bubble { background: var(--color-surface-border); color: var(--color-text); padding: 10px 14px; border-radius: var(--border-radius); font-size: 13px; line-height: 1.5; max-width: 85%; align-self: flex-start; animation: fluxchat-fade 0.3s ease; }
+.fluxchat-bubble.fluxchat-user { background: var(--color-primary); color: #fff; align-self: flex-end; }
+@keyframes fluxchat-fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+.fluxchat-footer { padding: 10px 14px; border-top: 1px solid var(--color-surface-border); }
+.fluxchat-opts { display: flex; flex-direction: column; gap: 6px; }
+.fluxchat-opt { width: 100%; padding: 10px 12px; background: var(--color-surface); border: 1px solid var(--color-surface-border); border-radius: var(--border-radius); color: var(--color-text); font-size: 12px; text-align: left; transition: border-color var(--transition-fast); cursor: pointer; }
+.fluxchat-opt:hover { border-color: var(--color-primary); }
+.fluxchat-cta { display: block; text-align: center; padding: 10px 16px; background: var(--gradient-cta); color: #fff; border-radius: var(--border-radius); font-weight: 700; font-size: 13px; }
+@media (max-width: 480px) { .fluxchat-window { width: calc(100vw - 40px); right: -8px; } }

@@ -1,0 +1,20 @@
+<nav class="nav" role="navigation" aria-label="Main">
+  <div class="container nav-inner">
+    <a href="/" class="nav-brand" aria-label="AlphaFlux Home">
+      Alpha<span class="accent">Flux</span>
+    </a>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <div class="nav-links">
+      {% for item in site.nav %}
+      <a href="{{ item.url }}" {% if page.url == item.url %}class="active" aria-current="page"{% endif %}>{{ item.label }}</a>
+      {% endfor %}
+      <a href="/contact/" class="btn btn-primary btn-sm">Get Started</a>
+    </div>
+    <div class="nav-cta">
+      <a href="/pricing/" class="btn btn-secondary btn-sm desktop-only">Pricing</a>
+      <a href="/contact/" class="btn btn-primary btn-sm">Get Started</a>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,43 @@
+/* === Service Card === */
+.card { background: var(--gradient-card); border: 1px solid var(--color-surface-border); border-radius: var(--border-radius-lg); padding: var(--space-8); transition: all var(--transition); position: relative; overflow: hidden; }
+.card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: var(--gradient-brand); opacity: 0; transition: opacity var(--transition); }
+.card:hover { border-color: var(--color-primary-dark); transform: translateY(-4px); box-shadow: var(--shadow-lg); }
+.card:hover::before { opacity: 1; }
+.card-icon { width: 48px; height: 48px; border-radius: var(--border-radius); background: var(--color-primary-glow); display: flex; align-items: center; justify-content: center; margin-bottom: var(--space-4); }
+.card-icon svg { width: 24px; height: 24px; fill: var(--color-primary-light); }
+.card-title { font-size: var(--text-xl); font-weight: 700; margin-bottom: var(--space-3); }
+.card-desc { color: var(--color-text-secondary); font-size: var(--text-sm); line-height: 1.7; margin-bottom: var(--space-4); }
+.card-link { font-size: var(--text-sm); font-weight: 600; color: var(--color-primary-light); display: inline-flex; align-items: center; gap: var(--space-1); transition: gap var(--transition-fast); }
+.card-link:hover { gap: var(--space-2); }
+.card-link::after { content: '→'; font-size: var(--text-lg); }
+
+/* === Pricing Card === */
+.pricing-card { background: var(--gradient-card); border: 1px solid var(--color-surface-border); border-radius: var(--border-radius-xl); padding: var(--space-10); text-align: center; transition: all var(--transition); position: relative; }
+.pricing-card.featured { border-color: var(--color-primary); box-shadow: var(--shadow-glow-primary); transform: scale(1.04); }
+.pricing-badge { position: absolute; top: var(--space-4); right: var(--space-4); background: var(--gradient-brand); color: #fff; font-size: var(--text-xs); font-weight: 700; padding: var(--space-1) var(--space-3); border-radius: var(--border-radius-full); }
+.pricing-name { font-size: var(--text-lg); font-weight: 700; margin-bottom: var(--space-2); }
+.pricing-price { font-size: var(--text-5xl); font-weight: 800; margin-bottom: var(--space-2); }
+.pricing-price span { font-size: var(--text-base); color: var(--color-text-secondary); font-weight: 400; }
+.pricing-desc { color: var(--color-text-secondary); font-size: var(--text-sm); margin-bottom: var(--space-6); }
+.pricing-features { text-align: left; margin-bottom: var(--space-8); }
+.pricing-features li { font-size: var(--text-sm); padding: var(--space-2) 0; border-bottom: 1px solid var(--color-surface-border); display: flex; align-items: center; gap: var(--space-2); }
+.pricing-features li::before { content: '✓'; color: var(--color-accent); font-weight: 700; }
+
+/* === Case Study Card === */
+.cs-card { display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-8); background: var(--gradient-card); border: 1px solid var(--color-surface-border); border-radius: var(--border-radius-xl); overflow: hidden; transition: all var(--transition); }
+.cs-card:hover { border-color: var(--color-primary-dark); box-shadow: var(--shadow-lg); }
+.cs-card-image { position: relative; min-height: 300px; overflow: hidden; }
+.cs-card-image img { width: 100%; height: 100%; object-fit: cover; }
+.cs-card-body { padding: var(--space-8); display: flex; flex-direction: column; justify-content: center; }
+.cs-card-metrics { display: flex; gap: var(--space-8); margin: var(--space-6) 0; }
+.cs-metric { text-align: center; }
+.cs-metric-value { font-size: var(--text-3xl); font-weight: 800; color: var(--color-accent); }
+.cs-metric-label { font-size: var(--text-xs); color: var(--color-text-muted); text-transform: uppercase; letter-spacing: 0.1em; }
+
+@media (max-width: 768px) { .cs-card { grid-template-columns: 1fr; } .cs-card-image { min-height: 200px; } }
+
+/* === Industry Card === */
+.ind-card { background: var(--gradient-card); border: 1px solid var(--color-surface-border); border-radius: var(--border-radius-lg); padding: var(--space-6); transition: all var(--transition); text-align: center; }
+.ind-card:hover { border-color: var(--color-primary-dark); transform: translateY(-2px); }
+.ind-card-icon { font-size: 2rem; margin-bottom: var(--space-3); }
+.ind-card-title { font-size: var(--text-base); font-weight: 700; }
