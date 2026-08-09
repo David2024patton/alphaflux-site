@@ -11,3 +11,96 @@ moduleChips:
   - "FluxData"
   - "FluxContent"
 ---
+
+## WHAT MARKETING AUTOMATION INCLUDES AT ALPHAFLUX
+
+**H2:** The System Between Your Marketing and Your Revenue.
+
+| Service | What We Do |
+|---------|-----------|
+| MarTech Stack Design | Audit, selection, and configuration of the right toolset |
+| CRM Implementation | HubSpot, Salesforce, and custom CRM setup and migration |
+| Lead Scoring | Models that rank leads by fit and readiness |
+| Pipeline Automation | Routing, alerts, and follow-up triggers that never sleep |
+| Nurture Flows | Multi-step sequences that move cold contacts to sales-ready |
+| CDP Strategy | Customer data platform architecture for unified profiles |
+| Reporting Automation | Dashboards and reports that generate themselves |
+
+---
+
+## HOW THE PROGRAM RUNS
+
+**H2:** Built on FluxData, Wired Into Your Stack.
+
+1. **Audit.** Current stack, data quality, and leak points in the funnel.
+2. **Architect.** Flow and scoring maps drawn before anything is built.
+3. **Build.** Automations, integrations, and reporting wire up.
+4. **Test.** Every flow is tested against real scenarios before it goes live.
+5. **Optimize.** Monthly: flow performance, drop-off, and next iterations.
+
+---
+
+## WHO IT'S FOR
+
+**H2:** Built for Teams Whose Leads Are Falling Through Cracks.
+
+- B2B companies with leads going dark after the demo request.
+- Marketing teams drowning in manual follow-up and spreadsheet tracking.
+- Sales teams that never see the marketing data they need to close.
+- Anyone whose MarTech stack costs more than it converts.
+
+---
+
+## WHAT YOU CAN EXPECT
+
+**H2:** Automation With an Audit Trail.
+
+- A flow map you can see before we build anything.
+- Automations tested end to end, with documented handoffs.
+- Monthly reporting on flow performance and pipeline impact.
+- [REAL DATA REQUIRED: verified automation benchmarks once accounts ship.]
+
+---
+
+## FAQ
+
+**Q: Is this the same as email marketing?**
+A: Email is the channel; automation is the system. AlphaFlux does both. See
+/services/email/ for the lifecycle copy and channel work.
+
+**Q: What platforms do you work with?**
+A: HubSpot, Salesforce, Marketo, Klaviyo, ActiveCampaign, and similar. The audit
+recommends the right stack for your size; we do not sell you software we do not
+need.
+
+**Q: Do we need automation at our size?**
+A: If you are losing leads to follow-up lag, yes. We scope the system to your
+volume, from simple routing to full CDP architecture.
+
+**Q: What does it cost?**
+A: Automation is a published service line, standalone or add-on. See /pricing/.
+
+---
+---
+
+## THE COMMON AUTOMATION TRAPS
+
+**H2:** Four Ways Automation Projects Die.
+
+First, the tool-first trap: buying a platform and then inventing a use for it.
+Second, the data trap: wiring automations on top of a CRM nobody updates. Third,
+the volume trap: sending more email to a list nobody scored. Fourth, the
+set-and-forget trap: launching flows and never reading their conversion numbers.
+Every one of these is fixable in the audit: stack, data quality, scoring, and
+flow performance. The system should be boring and reliable, not clever and
+broken. If a flow cannot state its job in one sentence, it should not ship.
+
+
+## CTA
+
+**H2:** Your Leads Are Already in the Funnel. Stop Dropping Them.
+
+Get the flow map sample and see what a leak-proof follow-up system looks like for
+your business.
+
+CTA: Flow map sample / See Pricing

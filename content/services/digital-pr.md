@@ -11,3 +11,99 @@ moduleChips:
   - "FluxContent"
   - "FluxSEO"
 ---
+
+## WHAT DIGITAL PR INCLUDES AT ALPHAFLUX
+
+**H2:** Earned Media, Built on a System.
+
+| Service | What We Do |
+|---------|-----------|
+| Journalist Outreach | Targeted pitches to writers covering your beat, not spray and pray |
+| Data-Driven Campaigns | Original research and stats that journalists want to cite |
+| Resource Link Building | Guides and assets that earn links on merit |
+| Guest Contributing | Op-eds and bylines on authority publications |
+| Newsjacking | Reactive PR that puts your brand in the story of the day |
+| Mention Monitoring | Find unlinked mentions and reclaim them as links |
+
+---
+
+## HOW THE PROGRAM RUNS
+
+**H2:** Pitches, Proof, Placements.
+
+1. **Scan.** We map your industry's journalists, publications, and link
+   opportunities before we pitch anything.
+2. **Build.** Campaign assets with a data hook journalists can actually use.
+3. **Pitch.** Outreach with a targeted list and a story, not a template blast.
+4. **Place.** Placements land with proper attribution and tracking.
+5. **Report.** Monthly: placements, referring domains, and authority growth.
+
+---
+
+## WHO IT'S FOR
+
+**H2:** Built for Brands That Want Links That Matter.
+
+- Companies whose SEO is strong but whose authority profile is thin.
+- Brands with a great story nobody has heard, because nobody has pitched it.
+- Teams tired of buying links that stop working the month the payment stops.
+- Anyone who wants to be cited by AI engines, which favor trusted sources.
+
+---
+
+## WHAT YOU CAN EXPECT
+
+**H2:** Earned Authority, Measured Monthly.
+
+- A monthly placement and referring domain report.
+- Campaign assets that keep earning links long after launch.
+- Coverage that supports both SEO authority and brand trust.
+- [REAL DATA REQUIRED: verified PR placement counts once accounts ship.]
+
+---
+
+## FAQ
+
+**Q: Do you guarantee placements?**
+A: No one honest guarantees media coverage, because editors decide. We guarantee
+the system: targeted outreach, real campaigns, and a monthly report of what
+landed and what is in flight.
+
+**Q: Is this the same as buying links?**
+A: No. We earn links through outreach and assets. Bought links are a risk to your
+site, not an investment in it.
+
+**Q: How does PR help with AI search?**
+A: Answer engines weight source authority heavily. Coverage in trusted
+publications is a direct signal that makes engines cite you.
+
+**Q: Is digital PR included in SEO?**
+A: It is a linked program. SEO runs the technical and on-page layer; digital PR
+builds the authority layer. They are scoped together in Growth and above. See
+/pricing/.
+
+---
+---
+
+## HOW PR COMPOUNDS WITH SEO AND GEO
+
+**H2:** One Placement, Three Wins.
+
+A placement in a trusted publication does three jobs at once. It earns a
+referring domain that boosts classic SEO authority. It signals to AI answer
+engines that your brand is a source they can cite, which is the currency of GEO.
+And it gives your sales team a proof point a prospect can verify. That is why
+digital PR is not a nice-to-have next to SEO. It is the authority layer that
+makes the technical and on-page work pay. One campaign, built on real data and
+pitched to the right journalists, compounds across every surface your buyers
+check.
+
+
+## CTA
+
+**H2:** Your Authority Is a Balance Sheet. Build It on Purpose.
+
+Run the PR opportunity scan and see the journalists, publications, and angles your
+brand should be pursuing this month.
+
+CTA: PR opportunity scan / See Pricing

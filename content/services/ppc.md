@@ -11,3 +11,84 @@ moduleChips:
   - "FluxMedia"
   - "FluxData"
 ---
+
+## WHAT PPC INCLUDES AT ALPHAFLUX
+
+**H2:** Every Channel, One Strategy.
+
+| Channel | What We Do | Why It Works |
+|---------|-----------|--------------|
+| Paid Search | Google Ads and Microsoft Ads: campaign architecture, bidding, Performance Max, RSA optimization | Captures intent at the moment it exists |
+| Paid Social | Meta, LinkedIn, TikTok, Pinterest, Reddit, Snapchat | Fills the top of funnel with precision targeting |
+| Programmatic & Display | DSP management, retargeting, native, connected TV | Keeps your brand present across the open web |
+| Shopping & Feeds | Google Shopping, product feed optimization, catalog syndication | Turns product data into sales, not errors |
+| Streaming & Audio | YouTube, Spotify, podcast advertising | Reaches audiences where linear TV no longer does |
+| Marketplace Ads | Amazon Sponsored Products, Brands, Display, DSP | Wins the search box where buyers already are |
+
+---
+
+## HOW WE MANAGE SPEND
+
+**H2:** Aligned With Your Revenue, Not Our Billings.
+
+- **Ad spend is never marked up.** It flows through your accounts. We earn on
+  management, not on inflating your budget.
+- **Weekly optimization cadence.** Bids, audiences, and creative change on data,
+  not on a quarterly review schedule.
+- **Creative testing built in.** Every campaign carries a testing framework, so
+  winning angles get more budget and losers get cut.
+- **Incrementality over vanity.** We measure what paid media actually adds, not
+  what it would have gotten anyway.
+
+---
+
+## WHO IT'S FOR
+
+**H2:** Built for Growth-Stage Budgets, Scaled for Enterprise.
+
+- Companies spending $5K to $1M+ per month who want a partner, not a vendor.
+- Brands tired of agencies that report clicks while revenue stalls.
+- Ecommerce operators who need shopping and marketplace ads done right.
+- B2B teams who need LinkedIn and search to feed a pipeline, not just a report.
+
+---
+
+## WHAT YOU CAN EXPECT
+
+**H2:** Numbers on a Cadence You Can Actually Use.
+
+- First full optimization cycle: within 2 weeks of launch.
+- Weekly performance summaries, monthly deep-dive reporting.
+- A dashboard that ties spend to pipeline and revenue, not just CTR.
+- [REAL DATA REQUIRED: verified ROAS/CPL benchmarks once accounts ship.]
+
+---
+
+## FAQ
+
+**Q: Do you take a percentage of ad spend?**
+A: No. Ad spend flows through your accounts and is never marked up. This keeps us
+incentivized toward efficiency, not spend inflation.
+
+**Q: How much ad spend do we need to start?**
+A: It depends on channel and goal, but most engagements start between $5,000 and
+$25,000 per month in spend, with management included in your retainer.
+
+**Q: What is your management fee?**
+A: Paid media management is included in your AlphaFlux retainer tier. See /pricing/
+for the transparent breakdown.
+
+**Q: Do you manage Amazon ads?**
+A: Yes. Marketplace advertising is a dedicated service line. See
+/services/marketplace/ for details.
+
+---
+
+## CTA
+
+**H2:** Stop Paying for Clicks. Start Paying for Customers.
+
+Get a free AI visibility audit and a straight answer about whether paid media is
+the right lever for your growth right now.
+
+CTA: Get a media plan / See Pricing

@@ -11,3 +11,95 @@ moduleChips:
   - "FluxMedia"
   - "FluxData"
 ---
+
+## WHAT MARKETPLACE ADS INCLUDES AT ALPHAFLUX
+
+**H2:** Every Shelf Your Product Sits On.
+
+| Marketplace | What We Do |
+|-------------|-----------|
+| Amazon | Sponsored Products, Sponsored Brands, Sponsored Display, DSP |
+| Walmart | Walmart Connect search and display campaigns |
+| Instacart | Instacart Ads for grocery and CPG brands |
+| Feed Management | Product feed optimization, catalog syndication, error cleanup |
+
+---
+
+## HOW THE PROGRAM RUNS
+
+**H2:** Managed on FluxMedia, Like Every Paid Channel.
+
+1. **Audit.** Listing quality, feed health, and account structure get a full
+   teardown first.
+2. **Structure.** Campaign architecture and keyword strategy map to the catalog.
+3. **Launch.** Campaigns go live with bidding and budget guardrails.
+4. **Optimize.** Weekly bid and keyword work, creative testing, and ACoS tuning.
+5. **Report.** Monthly: sales, ACoS, share of voice, and next actions.
+
+---
+
+## WHO IT'S FOR
+
+**H2:** Built for Brands That Sell Where Buyers Search.
+
+- Ecommerce brands already on Amazon with flat or declining sales.
+- Brands launching on Walmart or Instacart and need it done right the first time.
+- Sellers whose ACoS is bleeding margin and cannot find the leak.
+- Direct-to-consumer brands discovering that marketplace search is a new
+  acquisition channel, not a competitor.
+
+---
+
+## WHAT YOU CAN EXPECT
+
+**H2:** Marketplace Ads Run on the Same Rules as Everything Else.
+
+- Flat-fee management: never a percentage of ad spend, never a markup on the media.
+- Client-owned accounts and data, always.
+- Monthly reporting that ties ad spend to sales and share of voice.
+- [REAL DATA REQUIRED: verified marketplace performance benchmarks once accounts ship.]
+
+---
+
+## FAQ
+
+**Q: Do you manage the Amazon account or just the ads?**
+A: We manage advertising within your account. Listing optimization and catalog
+health are part of the audit and program scope.
+
+**Q: What is a good ACoS?**
+A: It depends on margin and goal. We scope targets per product line and report
+against them, instead of chasing a number that means nothing for your math.
+
+**Q: Is this included in the standard PPC retainer?**
+A: Marketplace ads are a dedicated service line, scoped as an add-on or a
+standalone program. See /pricing/ for the numbers.
+
+**Q: Can we run Amazon and Google together?**
+A: Yes, and we recommend it. Marketplace search and Google search capture
+different intent. One pod runs both, so budget moves with the data.
+
+---
+---
+
+## MARKETPLACE SEARCH VERSUS GOOGLE SEARCH
+
+**H2:** Two Search Bars, Two Jobs.
+
+Google search captures consideration; marketplace search captures intent.
+Someone searching Google for "best coffee grinder" is researching. Someone
+searching Amazon for "burr coffee grinder" is buying. The two surfaces need
+different strategies, different keyword sets, and different creative. Marketplace
+ads win the shelf where the wallet is already open, while Google captures the
+research that precedes it. AlphaFlux runs both under one pod and one budget
+model, so the spend moves with the data instead of defending separate silos.
+
+
+## CTA
+
+**H2:** Your Products Are On the Shelf. Are They Winning the Shelf?
+
+Get the free listing audit and see exactly what is costing you sales in the search
+that starts on the store.
+
+CTA: Free listing audit / See Pricing

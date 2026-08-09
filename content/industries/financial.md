@@ -9,4 +9,99 @@ schemaType: Service
 verticalName: "Financial Services Firm"
 ---
 
-Financial Marketing That Earns Trust and Meets the Rules.
+## WHY FINANCIAL FIRMS CHOOSE ALPHAFLUX
+
+**H2:** Built for High-Stakes Research.
+
+- **Compliance-first.** Advertising and disclosure rules handled in the
+  workflow, not after the fact.
+- **Authority content.** Financial education content that ranks and answers AI
+  queries with accuracy.
+- **Local trust.** RIA and branch-level visibility that turns searches into
+  consultations.
+- **Transparent reporting.** Exactly what you expect from a category that runs
+  on numbers.
+
+---
+
+## PAIN / SOLUTION
+
+**H2:** Three Problems Financial Firms Hit, and How We Solve Them.
+
+**1. Regulated advertising scares agencies off, or worse, gets run carelessly.**
+Financial marketing sits under advertising and disclosure rules most agencies
+ignore until a review board notices. We build compliance into the workflow:
+copy, creative, and targeting are drafted against the rules, and a review gate
+catches problems before anything launches, not after.
+
+**2. Trust is the product, and one careless claim can cost it.**
+In wealth, lending, fintech, and insurance, a single overpromise or mishandled
+review can undo years of credibility. We write accurate, sourced content and
+run reputation systems that protect the trust your category depends on, with
+every claim routed through your review.
+
+**3. The sale happens in a consultation, so digital attribution goes dark.**
+When conversion is a phone call or a branch visit, marketing spend is hard to
+defend. We track calls, forms, and consultations and tie them to the metrics
+that matter in financial services: AUM, loan volume, or policies bound,
+reported on one dashboard.
+
+**How the financial engagement runs:** the free AI visibility audit maps who
+answers for your category today, in search and AI. We then scope the program
+around your compliance surface and funnel, and report against pipeline every
+month. Pricing is published on the page.
+
+---
+
+## WHAT'S INCLUDED
+
+**H2:** The Financial Growth Stack.
+
+| Channel | Focus |
+|---------|-------|
+| SEO + GEO | Authority content and AI answer visibility |
+| Local SEO | Branch and advisor-level local presence |
+| Paid | Search and LinkedIn within compliance guardrails |
+| Reputation | Trust signals across review and directory platforms |
+| Analytics | AUM, loan, or policy pipeline tracking |
+
+---
+
+## PROOF
+
+**H2:** Results We Can Show.
+
+[REAL DATA REQUIRED: financial client case studies and metrics before launch.]
+
+---
+
+## FAQ
+
+**Q: Do you handle regulated advertising?**
+A: Yes. Copy, creative, and targeting are built with financial advertising and
+disclosure rules in mind, with a compliance review gate before launch.
+
+**Q: Can you support wealth, lending, fintech, and insurance?**
+A: All four. The programs differ by compliance surface and funnel, and we scope
+accordingly.
+
+**Q: What does financial marketing cost?**
+A: Plans start at $900/mo and scale with scope and compliance needs. See /pricing/.
+
+**Q: Do you handle disclosures in paid creative?**
+A: Yes. Disclosure and approval processes are part of the workflow, built in
+before the first impression, not bolted on after review.
+
+**Q: Can you support RIA and advisor teams?**
+A: Yes, with branch and advisor-level local pages that turn local searches
+into consultations.
+
+---
+
+## CTA
+
+**H2:** Be the Firm They Choose Before They Call.
+
+Run the free AI visibility audit and see who answers for your category today.
+
+CTA: Get Your Free AI Visibility Audit / See Pricing

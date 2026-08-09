@@ -9,4 +9,98 @@ schemaType: Service
 verticalName: "SaaS Business"
 ---
 
-SaaS Marketing That Fills the Pipeline and Keeps It Full.
+## WHY SAAS COMPANIES CHOOSE ALPHAFLUX
+
+**H2:** Built for Subscription Math.
+
+- **Pipeline science.** Content, paid, and SEO scoped to SQLs and MRR, not vanity.
+- **AI search visibility.** Buyers validate software in ChatGPT and Perplexity.
+  FluxGEO makes you the cited answer, not a footnote.
+- **Lifecycle depth.** Onboarding, activation, and win-back flows that protect LTV.
+- **Product-led support.** Website, trials, and app store presence working together.
+
+---
+
+## PAIN / SOLUTION
+
+**H2:** Three Problems SaaS Companies Hit, and How We Solve Them.
+
+**1. Vanity metrics hide whether marketing actually grows MRR.**
+Traffic and demo counts look good in a board deck and say nothing about
+payback. We run dashboards tied to SQLs, CAC, payback period, activation rate,
+and logo churn, so every channel is judged on the subscription math that
+actually compounds.
+
+**2. Buyers validate in AI engines and comparison pages, and absent brands lose the shortlist.**
+Software buyers now ask ChatGPT and Perplexity which tool fits, and they read
+comparison content before the demo. FluxGEO plus comparison and category
+content puts you in the answer and on the shortlist, instead of leaving the
+recommendation to a competitor.
+
+**3. Trial signups leak without activation and onboarding flow.**
+A full funnel of trials means nothing if activation stalls. We build the
+trial-to-paid and onboarding flows, lifecycle emails, and app store presence
+that convert signups into retained, expanding accounts, protecting LTV where
+most SaaS marketing loses it.
+
+**How the SaaS engagement runs:** the free AI visibility audit maps who answers
+for your category today. We then build the pillar content, demand engine, and
+lifecycle programs around your product motion, and report against MRR-linked
+KPIs every month. Pricing is published on the page.
+
+---
+
+## WHAT'S INCLUDED
+
+**H2:** The SaaS Growth Stack.
+
+| Channel | Focus |
+|---------|-------|
+| SEO + GEO | Comparison content, category pages, AI answer citations |
+| Paid | Search and LinkedIn for high-intent pipeline |
+| Content | Pillar clusters that feed both search and sales |
+| Lifecycle | Trial-to-paid and churn-prevention flows |
+| Analytics | Dashboards tied to MRR, CAC, and payback |
+
+---
+
+## PROOF
+
+**H2:** Results We Can Show.
+
+[REAL DATA REQUIRED: SaaS client case studies and metrics before launch. See
+04_case_studies/ for the template and the alphaflux.net rebuild as the first
+published case.]
+
+---
+
+## FAQ
+
+**Q: Do you understand SaaS metrics?**
+A: Yes. MRR, CAC, LTV, payback, activation rate, and logo churn are the language
+of every SaaS engagement we run.
+
+**Q: Can you support a product-led motion?**
+A: Yes: trial optimization, activation flows, and ASO for the app store surface
+all run under one roof.
+
+**Q: Do you work with early-stage SaaS?**
+A: The Starter and Growth plans fit pre-scale software companies. See /pricing/.
+
+**Q: Can you integrate with our CRM and product analytics?**
+A: Yes. Reporting connects to the tools you already run, so marketing is
+judged on the same data product and sales use.
+
+**Q: How do you approach category creation versus competition?**
+A: Both. Comparison content captures existing demand; category content builds
+the demand your product is best positioned to own.
+
+---
+
+## CTA
+
+**H2:** Make Your Software the Answer.
+
+Run the free AI visibility audit and see who answers for your category today.
+
+CTA: Get Your Free AI Visibility Audit / See Pricing

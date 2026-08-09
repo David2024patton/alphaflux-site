@@ -11,3 +11,94 @@ moduleChips:
   - "FluxSEO"
   - "FluxData"
 ---
+
+## WHAT ASO INCLUDES AT ALPHAFLUX
+
+**H2:** The Full Storefront System.
+
+| Service | What We Do |
+|---------|-----------|
+| Keyword Strategy | Search term research, prioritization, and listing mapping |
+| Listing Optimization | Title, subtitle, description, and screenshot copy that converts |
+| Visual Optimization | Icon, screenshots, and preview video guidance (with Creative) |
+| Conversion Tuning | Ratings, reviews, and landing page flow that lift install rate |
+| Competitive Intel | Storefront tracking for every competitor in your category |
+| Localization | Multi-market keyword and listing adaptation |
+
+---
+
+## HOW THE PROGRAM RUNS
+
+**H2:** Built on FluxSEO's Search DNA.
+
+1. **Scorecard.** Current ranking, keyword coverage, and conversion baseline.
+2. **Research.** Keyword demand mapping across both stores.
+3. **Optimize.** Listing changes ship in testable batches.
+4. **Measure.** Installs, conversion rate, and keyword movement monthly.
+5. **Iterate.** What works gets doubled; what does not gets retired.
+
+---
+
+## WHO IT'S FOR
+
+**H2:** Built for Apps That Deserve More Installs.
+
+- Mobile apps with good ratings and flat organic growth.
+- SaaS and consumer apps competing in crowded storefronts.
+- Apps whose paid acquisition works but whose organic installs lag.
+- Teams that have never treated the store listing as a landing page.
+
+---
+
+## WHAT YOU CAN EXPECT
+
+**H2:** ASO With a Paper Trail.
+
+- A baseline scorecard, then monthly keyword and conversion reporting.
+- Listing changes that ship with the reasoning attached.
+- Coordination with creative and paid teams when the program needs them.
+- [REAL DATA REQUIRED: verified ASO benchmarks once accounts ship.]
+
+---
+
+## FAQ
+
+**Q: Is ASO included in SEO?**
+A: ASO is a separate discipline with separate ranking systems, so it has its own
+program. It runs alongside SEO and paid when the app is part of the funnel.
+
+**Q: How long until keyword rankings move?**
+A: Listing and keyword changes typically show movement in 2 to 6 weeks, with
+compounding over 2 to 3 months.
+
+**Q: Do you handle app store ratings and reviews?**
+A: We manage the strategy: review acquisition, response cadence, and using
+reviews in conversion. We do not buy or fake reviews, and neither should you.
+
+**Q: What does ASO cost?**
+A: ASO is scoped as a standalone program or add-on. See /pricing/ for anchors.
+
+---
+---
+
+## ASO VERSUS PAID ACQUISITION
+
+**H2:** Organic Installs Are the Margin You Never Pay For.
+
+Paid acquisition fills the funnel today; ASO fills it forever. A dollar of paid
+spend buys an install. A ranking keyword buys installs for as long as the ranking
+holds. The compounding play is the mix: paid validates demand and buy time, ASO
+captures the demand that already exists. Most apps treat the store listing as a
+formality. The apps that win treat it as a landing page with a conversion rate,
+and they test it like one. That is the difference between an app that grows on
+budget and an app that grows on system.
+
+
+## CTA
+
+**H2:** Your App Is One Search Away From Its Next User.
+
+Run the free ASO scorecard and see exactly where your storefront is leaking
+installs.
+
+CTA: Free ASO scorecard / See Pricing

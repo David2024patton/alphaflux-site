@@ -12,3 +12,101 @@ moduleChips:
   - "FluxSEO"
   - "FluxData"
 ---
+
+## THE SHIFT
+
+**H2:** Search Is No Longer Ten Blue Links.
+
+Body: More than half of search-style queries now end in an AI answer, not a link.
+When a buyer asks "which marketing agency is best for my industry", the answer
+engines synthesize from a handful of sources. If your brand is not among them, you
+are invisible where your buyers now look first. This is not a future trend. It is
+the current search behavior, and it compounds monthly.
+
+---
+
+## THE FLUXGEO SYSTEM
+
+**H2:** How We Make Your Brand the Answer.
+
+| Layer | What We Do |
+|-------|-----------|
+| AI Citation Audits | Which engines cite you, which competitors they cite instead |
+| Answer Engine Optimization | Structure, schema, and content tuned for AI extraction |
+| Source Authority | Build the citations and entities engines trust |
+| Brand Monitoring | Track your mentions across ChatGPT, Perplexity, Gemini, AI Overviews |
+| GEO Reporting | Visibility score, citation share, and fix list every month |
+
+---
+
+## WHAT'S INSIDE
+
+**H2:** Two Dedicated Programs, One Wedge.
+
+1. **Generative Engine Optimization (GEO).** The science of being cited in AI
+   answers: entity building, structured data, quoted content, and authority. See
+   the full program: /services/ai-geo/generative-engine-optimization/
+2. **AI Search Optimization.** Visibility across ChatGPT, Perplexity, Gemini, and
+   Google AI Overviews, including AI-answer campaigns and brand presence in
+   AI-driven commerce. See the full program:
+   /services/ai-geo/ai-search-optimization/
+
+Plus the entry point every CTA routes to: the **Free AI Visibility Audit**, a
+48 hour scan of your brand across Google, ChatGPT, Perplexity, and AI Overviews,
+with a visibility score and a fix list. Details: /services/ai-geo/ai-visibility-audit/
+
+---
+
+## WHO IT'S FOR
+
+**H2:** Built for Brands That Want to Be the Default Answer.
+
+- Companies being answered by competitors in AI search results.
+- Brands whose traditional rankings are healthy but invisible in AI citations.
+- Teams that suspect AI answers are quietly redirecting their demand.
+- Anyone who wants to win the surface their competitors have not built for yet.
+
+---
+
+## WHAT YOU CAN EXPECT
+
+**H2:** A Visibility Score You Can Watch Move.
+
+- A baseline GEO visibility score in week one.
+- Monthly citation share and answer presence reporting.
+- A fix list that ties directly to FluxGEO workstreams.
+- [REAL DATA REQUIRED: verified GEO visibility benchmarks once accounts ship.]
+
+---
+
+## FAQ
+
+**Q: What is GEO?**
+A: Generative Engine Optimization is the practice of making your brand the source
+AI answer engines cite. It combines structured data, entity building, quoted
+content, and authority signals. See the GEO program page for the full breakdown.
+
+**Q: How is this different from SEO?**
+A: SEO optimizes for ranking links. GEO optimizes for being cited in synthesized
+answers. They reinforce each other, which is why FluxGEO and FluxSEO run together.
+
+**Q: Do you offer a free way to see where we stand?**
+A: Yes. The Free AI Visibility Audit checks your brand and keywords across Google,
+ChatGPT, Perplexity, and AI Overviews, and delivers a 48 hour report with a
+visibility score and fix list. That is where every engagement starts.
+
+**Q: How soon do AI visibility gains show?**
+A: Citation wins typically start showing in 30 to 90 days. Entity and authority
+building compounds over 3 to 6 months, which is why GEO runs as a program, not a
+project.
+
+---
+
+## CTA
+
+**H2:** Find Out Who Answers for You Right Now.
+
+Run the free AI visibility audit. In 48 hours you will know exactly who owns your
+answers, and what it takes to take them back.
+
+CTA: Get Your Free AI Visibility Audit / See Pricing
