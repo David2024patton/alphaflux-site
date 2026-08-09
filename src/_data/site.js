@@ -5,7 +5,7 @@ module.exports = {
   url: "https://alphaflux.net",
   locale: "en_US",
   ga4: "", // DISABLED 2026-08-09: G-GZV90ZCT4E is Patriot Pest's property, NOT AlphaFlux. AlphaFlux ships analytics-off until David supplies its own GA4 ID.
-  cacheBust: "v2",
+  cacheBust: "v3",
   formSubmitInbox: "REPLACE_WITH_INBOX_EMAIL",
   author: {
     name: "David Patton",
